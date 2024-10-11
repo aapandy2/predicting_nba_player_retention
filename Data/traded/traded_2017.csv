@@ -1,0 +1,62 @@
+,date,teams,players,includes_draft_picks
+0,"July 7, 2016","{'CHO', 'SAC'}","{'Malachi Richardson', 'Marco Belinelli'}",False
+1,"July 7, 2016","{'GSW', 'DAL'}","{'Andrew Bogut', 'Tyrell Terry'}",True
+2,"July 7, 2016","{'BRK', 'IND'}","{'Kessler Edwards', 'Thaddeus Young', 'Caris LeVert'}",True
+3,"July 7, 2016","{'POR', 'ORL'}",{'Shabazz Napier'},False
+4,"July 7, 2016","{'IND', 'UTA', 'ATL'}","{'Taurean Prince', 'George Hill', 'Jeff Teague'}",False
+5,"July 7, 2016","{'DAL', 'IND'}","{'Jeremy Evans', 'Stanko BaraÄ\x87', 'Emir PreldÅ¾iÄ\x87'}",False
+6,"July 7, 2016","{'WAS', 'UTA'}","{'Greg Brown III', 'Trey Burke'}",True
+7,"July 7, 2016","{'LAL', 'CHI'}","{'JosÃ© CalderÃ³n', 'Sviatoslav Mykhailiuk', 'Ater Majok', 'Bruno Fernando'}",True
+8,"July 7, 2016","{'CLE', 'CHI'}","{'Mike Dunleavy', 'Vladimir Veremeenko', 'Albert Miralles'}",False
+9,"July 7, 2016","{'MIL', 'CLE'}","{'Matthew Dellavedova', 'Albert Miralles'}",False
+10,"July 8, 2016","{'SAS', 'UTA'}","{'Khalifa Diop', 'Olivier Hanlan', 'Boris Diaw'}",True
+11,"July 10, 2016","{'MIA', 'NOP'}","{'Tony Carr', 'Luke Babbitt'}",True
+12,"July 12, 2016","{'CHO', 'MEM'}",{'Troy Daniels'},False
+13,"July 15, 2016","{'LAC', 'ORL'}","{'Vernon Carey Jr.', 'C.J. Wilcox', 'Devyn Marble'}",True
+14,"July 15, 2016","{'PHI', 'CLE'}","{'Sasha Kaun', 'Chukwudiebere Maduabum'}",False
+15,"August 26, 2016","{'PHI', 'UTA'}","{'Jonah Bolden', 'Tibor PleiÃ\x9f', 'Kendall Marshall', 'Alpha Kaba'}",True
+16,"August 30, 2016","{'DEN', 'OKC'}","{'Monte Morris', 'Joffrey Lauvergne', 'Vlatko Ä\x8canÄ\x8dar'}",True
+17,"September 22, 2016","{'MIL', 'HOU'}","{'Michael Beasley', 'Tyler Ennis'}",False
+18,"October 17, 2016","{'MIL', 'CHI'}","{'Tony Snell', 'Michael Carter-Williams'}",False
+19,"November 1, 2016","{'PHI', 'OKC'}","{'Tyrese Maxey', 'Jerami Grant', 'Ersan Ä°lyasova'}",True
+20,"January 6, 2017","{'POR', 'CLE'}","{'Moritz Wagner', 'Caleb Swanigan'}",True
+21,"January 7, 2017","{'CLE', 'ATL'}","{'Mike Dunleavy', 'Kyle Korver', 'Herbert Jones', 'Vince Williams Jr.', 'Mo Williams'}",True
+22,"January 18, 2017","{'DEN', 'ATL'}","{'Cenk Akyol', 'Mo Williams'}",False
+23,"February 2, 2017","{'MIL', 'CHO'}","{'Miles Plumlee', 'Roy Hibbert', 'Spencer Hawes'}",False
+24,"February 13, 2017","{'DEN', 'POR'}","{'Jusuf NurkiÄ\x87', 'Harry Giles', 'Mason Plumlee', 'Shake Milton'}",True
+25,"February 13, 2017","{'CHO', 'CLE'}",{'Chris Andersen'},True
+26,"February 14, 2017","{'TOR', 'ORL'}","{'AnÅ¾ejs PaseÄ\x8dÅ\x86iks', 'Serge Ibaka', 'Terrence Ross'}",True
+27,"February 20, 2017","{'NOP', 'SAC'}","{'Zach Collins', 'Frank Mason III', 'Buddy Hield', 'Omri Casspi', 'Langston Galloway', 'DeMarcus Cousins', 'Tyreke Evans'}",True
+28,"February 22, 2017","{'PHI', 'ATL'}","{'Tiago Splitter', 'Mathias Lessort', 'Sterling Brown', 'Ersan Ä°lyasova', 'Alpha Kaba'}",True
+29,"February 22, 2017","{'WAS', 'BRK'}","{'Jarrett Allen', 'Marcus Thornton', 'Chris McCullough', 'Bojan BogdanoviÄ\x87', 'Andrew Nicholson'}",True
+30,"February 23, 2017","{'OKC', 'CHI'}","{'Joffrey Lauvergne', 'Cameron Payne', 'Mitchell Robinson', 'Doug McDermott', 'Anthony Morrow', 'Taj Gibson'}",True
+31,"February 23, 2017","{'PHO', 'TOR'}","{'P.J. Tucker', 'Jared Sullinger', 'Alec Peters', 'George King'}",True
+32,"February 23, 2017","{'PHO', 'ATL'}","{'Cenk Akyol', 'Mike Scott'}",True
+33,"February 23, 2017","{'LAL', 'HOU'}","{'Brad Newley', 'Marcelo Huertas', 'Tyler Ennis'}",False
+34,"February 23, 2017","{'BRK', 'HOU'}",{'K.J. McDaniels'},False
+35,"February 23, 2017","{'DEN', 'MIL'}","{'Jordan Bone', 'Roy Hibbert'}",True
+36,"February 23, 2017","{'PHI', 'DAL'}","{'Nerlens Noel', 'Andrew Bogut', 'Nico Mannion', 'Jawun Evans', 'Justin Anderson'}",True
+37,"February 23, 2017","{'LAL', 'HOU'}","{'Lou Williams', 'Corey Brewer', 'Tony Bradley'}",True
+38,"June 19, 2017","{'BOS', 'PHI'}","{'Markelle Fultz', 'Jayson Tatum', 'Romeo Langford'}",True
+39,"June 20, 2017","{'CHO', 'ATL'}","{'Dwight Howard', 'Marco Belinelli', 'Tyler Dorsey', 'Miles Plumlee', 'Frank Jackson'}",True
+40,"June 21, 2017","{'NOP', 'WAS'}","{'Edmond Sumner', 'Tim Frazier'}",True
+41,"June 22, 2017","{'NOP', 'IND'}",{'Edmond Sumner'},False
+42,"June 22, 2017","{'MEM', 'HOU'}","{""De'Anthony Melton"", 'Dillon Brooks'}",True
+43,"June 22, 2017","{'GSW', 'CHI'}",{'Jordan Bell'},False
+44,"June 22, 2017","{'CHO', 'NOP'}","{'Dwayne Bacon', 'Frank Jackson'}",False
+45,"June 22, 2017","{'LAL', 'UTA'}","{'Tony Bradley', 'Josh Hart', 'Thomas Bryant'}",False
+46,"June 22, 2017","{'MEM', 'ORL'}","{'Talen Horton-Tucker', 'Ivan Rabb'}",True
+47,"June 22, 2017","{'PHI', 'ORL'}","{'AnÅ¾ejs PaseÄ\x8dÅ\x86iks', 'Tyrese Maxey', 'Yam Madar'}",True
+48,"June 22, 2017","{'LAL', 'BRK'}","{'Timofey Mozgov', 'Brook Lopez', 'Kyle Kuzma', ""D'Angelo Russell""}",False
+49,"June 22, 2017","{'DEN', 'UTA'}","{'Donovan Mitchell', 'Trey Lyles', 'Tyler Lydon'}",False
+50,"June 22, 2017","{'POR', 'SAC'}","{'Zach Collins', 'Justin Jackson', 'Harry Giles'}",False
+51,"June 22, 2017","{'MIN', 'CHI'}","{'Lauri Markkanen', 'Justin Patton', 'Kris Dunn', 'Jimmy Butler', 'Zach LaVine'}",False
+52,"June 23, 2017","{'MIL', 'LAC'}",{'Sindarius Thornwell'},False
+53,"June 28, 2017","{'DET', 'HOU'}",{'Darrun Hilliard'},False
+54,"June 28, 2017","{'HOU', 'ATL'}",{'Ryan Kelly'},False
+55,"June 28, 2017","{'POR', 'HOU'}",{'Tim Quarterman'},False
+56,"June 28, 2017","{'DAL', 'HOU'}",{'DeAndre Liggins'},False
+57,"June 28, 2017","{'LAC', 'HOU'}","{'Montrezl Harrell', 'Sam Dekker', 'DeAndre Liggins', 'Chris Paul', 'Kyle Wiltjer', 'Lou Williams', 'Darrun Hilliard', 'Omari Spellman', 'Patrick Beverley'}",True
+58,"June 28, 2017","{'PHI', 'HOU'}",{'Shawn Long'},False
+59,"June 29, 2017","{'DAL', 'HOU'}",{'Jarrod Uthoff'},False
+60,"June 30, 2017","{'MIN', 'UTA'}","{'Ricky Rubio', 'Josh Okogie'}",True

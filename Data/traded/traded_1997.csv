@@ -1,0 +1,36 @@
+,date,teams,players,includes_draft_picks
+0,"July 11, 1996","{'CHH', 'LAL'}","{'Kobe Bryant', 'Vlade Divac'}",False
+1,"July 11, 1996","{'MIL', 'MIN'}","{'Andrew Lang', 'Rasho NesteroviÄ\x87'}",True
+2,"July 14, 1996","{'CHH', 'NYK'}","{'Anthony Mason', 'Larry Johnson', 'Brad Lohaus'}",False
+3,"July 15, 1996","{'DET', 'ATL'}","{'Dion Glover', 'Stacey Augmon', 'Grant Long', 'Cal Bowdler', 'Lari Ketner', 'Alain Digbeau'}",True
+4,"July 15, 1996","{'POR', 'WSB'}","{'Mitchell Butler', 'Rod Strickland', 'Rasheed Wallace', 'Harvey Grant'}",False
+5,"July 16, 1996","{'NJN', 'SEA'}","{'Greg Graham', 'Vincent Askew'}",False
+6,"July 16, 1996","{'VAN', 'LAL'}","{'Ruben Patterson', 'Antwain Smith', 'George Lynch', 'J.R. Henderson', 'John Celestand', 'Anthony Peeler'}",True
+7,"July 23, 1996","{'TOR', 'DAL'}","{'John Thomas', 'Gordan GiriÄ\x8dek', 'Ansu Sesay', 'Popeye Jones', 'Jimmy King'}",True
+8,"July 23, 1996","{'MIN', 'POR'}","{'Isaiah Rider', 'James Robinson', 'Bill Curley', 'Paul Grant'}",True
+9,"July 24, 1996","{'TOR', 'NYK'}","{'John Thomas', 'Hubert Davis'}",True
+10,"August 9, 1996","{'ORL', 'UTA'}","{'Kenny Gattison', 'Brooks Thompson', 'Andrei Kirilenko', 'Felton Spencer'}",True
+11,"August 19, 1996","{'PHO', 'HOU'}","{'Mark Bryant', 'Charles Barkley', 'Robert Horry', 'Chucky Brown', 'Tyrone Washington', 'Sam Cassell'}",True
+12,"September 25, 1996","{'MIL', 'PHO'}","{'Elliot Perry', 'Marty Conlon', 'James Posey'}",True
+13,"November 2, 1996","{'GSW', 'ORL'}","{'Rony Seikaly', 'Donald Royal', 'Clifford Rozier', 'Felton Spencer', 'Laron Profit', 'Jon Koncak'}",True
+14,"November 4, 1996","{'NJN', 'IND'}","{'Vincent Askew', 'Reggie Williams'}",False
+15,"December 4, 1996","{'MIL', 'PHO'}","{'Chucky Brown', 'Darrin Hancock'}",True
+16,"December 26, 1996","{'PHO', 'DAL'}","{'Loren Meyer', 'Tony Dumas', 'Michael Finley', 'A.C. Green', 'Greg Buckner', 'Jason Kidd', 'Sam Cassell'}",True
+17,"January 10, 1997","{'PHO', 'LAL'}","{'Joe Kleine', 'Rumeal Robinson', 'Cedric Ceballos', 'Robert Horry'}",False
+18,"January 24, 1997","{'DET', 'POR'}","{'Randolph Childress', 'Reggie Jordan', 'Aaron McKie', 'Stacey Augmon'}",False
+19,"February 14, 1997","{'MIA', 'DAL'}","{'Sasha DaniloviÄ\x87', 'Jamal Mashburn', 'Martin MÃ¼Ã¼rsepp', 'Kurt Thomas'}",False
+20,"February 17, 1997","{'NJN', 'DAL'}","{'George McCloud', 'Jim Jackson', 'Chris Gatling', 'Eric Montross', 'Shawn Bradley', 'Khalid Reeves', ""Ed O'Bannon"", 'Robert Pack', 'Sam Cassell'}",False
+21,"February 20, 1997","{'DEN', 'IND'}","{'Mark Jackson', 'Tremaine Fowlkes', 'Eddie Johnson', 'LaSalle Thompson', 'Vincent Askew', 'Jason Lawson'}",True
+22,"February 20, 1997","{'NJN', 'LAL'}","{'George McCloud', 'Anthony Parker', 'Joe Kleine'}",True
+23,"February 20, 1997","{'GSW', 'CHH'}","{'Donald Royal', 'Scott Burrell'}",False
+24,"February 20, 1997","{'DEN', 'CHH'}","{'Ricky Pierce', 'Anthony Goldwire', 'George ZÃ\xaddek'}",False
+25,"February 20, 1997","{'DEN', 'IND'}","{'Darvin Ham', 'Jerome Allen'}",False
+26,"February 20, 1997","{'MIL', 'TOR'}","{'Shawn Respert', 'Acie Earl'}",False
+27,"May 27, 1997","{'MIA', 'BOS'}","{'Mark Sanford', 'Ben Pepper'}",True
+28,"June 25, 1997","{'DEN', 'MIL'}","{'Ervin Johnson', 'Joe Wolf', 'Johnny Newman', 'Danny Fortson'}",False
+29,"June 25, 1997","{'MIN', 'LAC'}","{'Stojko VrankoviÄ\x87', 'Stanley Roberts'}",False
+30,"June 25, 1997","{'POR', 'DAL'}","{'Chris Anstey', 'Kelvin Cato'}",False
+31,"June 25, 1997","{'LAC', 'PHI'}","{'Jelani McCoy', 'James Collins'}",True
+32,"June 25, 1997","{'DEN', 'SEA'}","{'Bobby Jackson', 'James Cotton', 'Rashard Lewis'}",True
+33,"June 25, 1997","{'DEN', 'ORL'}","{'Eric Washington', 'Kris Clack', 'Jason Lawson'}",True
+34,"June 27, 1997","{'NJN', 'PHI'}","{'Keith Van Horn', 'Anthony Parker', 'Tim Thomas', 'Jim Jackson', 'Don MacLean', 'Eric Montross', 'Michael Cage', 'Lucious Harris'}",False

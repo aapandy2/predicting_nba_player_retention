@@ -1,0 +1,35 @@
+,date,teams,players,includes_draft_picks
+0,"December 9, 2011","{'MIL', 'BOS'}","{'Keyon Dooling', 'Albert Miralles'}",True
+1,"December 10, 2011","{'WAS', 'DAL', 'NYK'}","{'Arsalan Kazemi', 'Andy Rautins', 'Darius Miller', 'Georgios Printezis', 'Ronny Turiaf', 'Ahman Nivins', 'Tyson Chandler'}",True
+2,"December 11, 2011","{'LAL', 'DAL'}","{'Darius Johnson-Odom', 'Mitch McGary', 'Lamar Odom'}",True
+3,"December 12, 2011","{'BOS', 'ORL'}","{'Von Wafer', 'Brandon Bass', 'Glen Davis'}",False
+4,"December 13, 2011","{'DEN', 'DAL'}","{'Rudy FernÃ¡ndez', 'Corey Brewer', 'Demetrius Jackson'}",True
+5,"December 13, 2011","{'MIN', 'OKC'}","{'Lazar Hayward', 'Robert Vaden', 'Robbie Hummel', 'Bojan DubljeviÄ\x87'}",True
+6,"December 14, 2011","{'LAC', 'NOH'}","{'ArtÅ«ras Gudaitis', 'Chris Paul', 'Chris Kaman', 'Eric Gordon', 'Al-Farouq Aminu', 'Austin Rivers'}",True
+7,"December 19, 2011","{'CHA', 'OKC'}","{'Ã\x81lex Abrines', 'Byron Mullens'}",True
+8,"December 19, 2011","{'GSW', 'IND'}","{'Luka MitroviÄ\x87', 'Lou Amundson', 'Brandon Rush'}",True
+9,"December 22, 2011","{'NJN', 'UTA'}","{'Mehmet Okur', 'Pat Connaughton'}",True
+10,"December 24, 2011","{'NOH', 'MEM'}","{'Quincy Pondexter', 'Greivis VÃ¡squez'}",False
+11,"January 4, 2012","{'PHI', 'NOH', 'MEM'}","{'Xavier Henry', 'Tornike Shengelia', 'Glen Rice Jr.', 'Marreese Speights'}",True
+12,"March 13, 2012","{'GSW', 'MIL'}","{'Stephen Jackson', 'Ekpe Udoh', 'Kwame Brown', 'Andrew Bogut', 'Monta Ellis'}",False
+13,"March 15, 2012","{'GSW', 'ATL'}",{'Ognjen KuzmiÄ\x87'},True
+14,"March 15, 2012","{'PHI', 'MEM'}","{'Ricky SÃ¡nchez', 'Sam Young'}",False
+15,"March 15, 2012","{'TOR', 'IND'}","{'Leandro Barbosa', 'Tomislav ZubÄ\x8diÄ\x87'}",True
+16,"March 15, 2012","{'LAL', 'HOU'}","{'Derek Fisher', 'Jordan Hill', 'Mitch McGary'}",True
+17,"March 15, 2012","{'GSW', 'SAS'}","{'Stephen Jackson', 'Richard Jefferson', 'T.J. Ford', 'Festus Ezeli'}",True
+18,"March 15, 2012","{'LAL', 'CLE'}","{'Ramon Sessions', 'Jared Cunningham', 'Nemanja NedoviÄ\x87', 'Luke Walton', 'Jason Kapono', 'Christian Eyenga'}",True
+19,"March 15, 2012","{'NJN', 'POR'}","{'Mehmet Okur', 'Gerald Wallace', 'Shawne Williams', 'Damian Lillard'}",True
+20,"March 15, 2012","{'DEN', 'WAS', 'LAC'}","{'ArtÅ«ras Gudaitis', 'Nick Young', 'Brian Cook', 'JaVale McGee', 'NenÃª', 'Ronny Turiaf'}",True
+21,"March 15, 2012","{'POR', 'HOU'}","{'Hasheem Thabeet', 'Will Barton', 'Jonny Flynn', 'Marcus Camby'}",True
+22,"June 20, 2012","{'WAS', 'NOH'}","{'Darius Miller', 'Rashard Lewis', 'Trevor Ariza', 'Emeka Okafor'}",True
+23,"June 26, 2012","{'BOS', 'OKC'}","{'Nenad KrstiÄ\x87', 'Nate Robinson', 'Jeff Green', 'Kendrick Perkins', 'Ã\x81lex Abrines', 'Fab Melo'}",True
+24,"June 26, 2012","{'MIN', 'HOU'}","{'Terrence Jones', 'Chase Budinger', 'Lior Eliyahu'}",True
+25,"June 26, 2012","{'DET', 'CHA'}","{'Ben Gordon', 'Corey Maggette', 'Noah Vonleh'}",True
+26,"June 27, 2012","{'MIL', 'HOU'}","{'John Henson', 'Samuel Dalembert', 'Jon Leuer', 'Shaun Livingston', 'Jon Brockman', 'Jeremy Lamb', 'Nemanja DangubiÄ\x87'}",True
+27,"June 29, 2012","{'MIA', 'PHI'}","{'Jordan Mickey', 'Arnett Moultrie', 'Deyonta Davis', 'Justin Hamilton'}",True
+28,"June 29, 2012","{'SAC', 'IND'}",{'Orlando Johnson'},False
+29,"June 29, 2012","{'DAL', 'CLE'}","{'Tyler Zeller', 'Bernard James', 'Jared Cunningham', 'Jae Crowder', 'Kelenna Azubuike'}",False
+30,"June 29, 2012","{'NJN', 'PHI'}",{'Tornike Shengelia'},False
+31,"June 29, 2012","{'LAL', 'DAL'}",{'Darius Johnson-Odom'},False
+32,"June 29, 2012","{'NJN', 'POR'}",{'Tyshawn Taylor'},False
+33,"June 29, 2012","{'LAC', 'DAL', 'UTA', 'HOU'}","{'Furkan Aldemir', 'Tadija DragiÄ\x87eviÄ\x87', 'Lamar Odom', 'Mo Williams', 'Shan Foster'}",False

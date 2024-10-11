@@ -1,0 +1,29 @@
+,date,teams,players,includes_draft_picks
+0,"August 1, 1990","{'POR', 'SAC'}","{'Pete Chilcutt', 'Brett Roberts', 'Danny Ainge', 'Byron Irvin'}",True
+1,"August 1, 1990","{'GSW', 'PHI'}","{'Manute Bol', 'Chris Gatling'}",True
+2,"August 1, 1990","{'MIL', 'SAS'}","{'Paul Pressey', 'Frank Brickowski'}",False
+3,"August 1, 1990","{'DEN', 'MIL'}","{'Terry Mills', 'Danny Schayes'}",False
+4,"August 3, 1990","{'DEN', 'LAL'}",{'Orlando Woolridge'},True
+5,"September 25, 1990","{'SAS', 'LAL'}",{'Mark McNamara'},True
+6,"September 25, 1990","{'GSW', 'LAL'}","{'Shaun Vandiver', 'Terry Teagle'}",True
+7,"September 27, 1990","{'HOU', 'ATL'}","{'Charlie Ward', 'Tim McCormick', 'John Lucas', 'Roy Marble', 'Kenny Smith'}",True
+8,"September 28, 1990","{'DEN', 'DET'}",{'Anthony Cook'},True
+9,"September 28, 1990","{'PHO', 'WSB'}",{'Mike Morrison'},True
+10,"October 2, 1990","{'MIA', 'CHI'}",{'Jeff Sanders'},True
+11,"October 24, 1990","{'DEN', 'SEA'}",{'Avery Johnson'},True
+12,"October 28, 1990","{'PHO', 'PHI'}","{'Jayson Williams', 'Sharone Wright'}",True
+13,"October 30, 1990","{'WSB', 'SAC'}","{'Steve Colter', 'Byron Irvin'}",False
+14,"October 30, 1990","{'SAS', 'ORL'}","{'Mark McNamara', 'Sidney Green', 'Stanley Roberts'}",True
+15,"November 10, 1990","{'MIN', 'PHI'}","{'Bob Thornton', 'Alvaro Teheran'}",True
+16,"December 7, 1990","{'PHO', 'SEA'}","{'Sharone Wright', 'LeRon Ellis', 'Xavier McDaniel', 'Eddie Johnson'}",True
+17,"January 4, 1991","{'CHH', 'PHI'}","{'Dave Hoppen', 'Armen Gilliam', 'Mike Gminski'}",False
+18,"January 16, 1991","{'MIL', 'NJN'}","{'Greg Anderson', 'Lester Conner'}",False
+19,"January 23, 1991","{'DEN', 'POR', 'NJN'}","{'Terry Mills', 'Walter Davis', 'Kevin Thompson', 'Bryant Stith', 'Greg Anderson', 'DraÅ¾en PetroviÄ\x87', 'Reggie Smith'}",True
+20,"January 29, 1991","{'CHH', 'SAC'}","{'Dejan Bodiroga', 'Eric Leckner', 'Alex Holcombe'}",True
+21,"February 15, 1991","{'MIL', 'SEA'}","{'Dale Ellis', 'Ricky Pierce'}",False
+22,"February 20, 1991","{'LAC', 'SEA'}","{'Brooks Thompson', 'Benoit Benjamin', 'LeRon Ellis', 'Olden Polynice'}",True
+23,"June 11, 1991","{'DEN', 'WSB'}","{'John Best', 'Mark Macon', 'Michael Adams', 'LaBradford Smith'}",True
+24,"June 26, 1991","{'LAC', 'ATL'}","{'Gaylon Nickerson', 'Rich Manning', 'Stacey Augmon', 'Doc Rivers'}",True
+25,"June 26, 1991","{'GSW', 'POR'}","{'Tim Young', 'Tyus Edney', 'Lamont Strothers'}",True
+26,"June 26, 1991","{'CLE', 'HOU'}","{'Terrell Bell', 'Keith Hughes'}",True
+27,"June 26, 1991","{'DEN', 'LAC'}","{'Winston Garland', 'Russ Millard'}",True

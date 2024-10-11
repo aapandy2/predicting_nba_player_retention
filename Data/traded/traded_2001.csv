@@ -1,0 +1,41 @@
+,date,teams,players,includes_draft_picks
+0,"June 28, 2000","{'SAS', 'LAL'}","{'Robetas Javtokas', 'Randy Holcomb', 'Cory Hightower'}",True
+1,"August 1, 2000","{'CHH', 'MIA'}","{'P.J. Brown', 'Eddie Jones', 'Dale Ellis', 'Rodney Buford', 'Jamal Mashburn', 'Anthony Mason', 'Ricky Davis', 'Tim James', 'Otis Thorpe'}",False
+2,"August 3, 2000","{'DET', 'ORL'}","{'Grant Hill', 'Ben Wallace', 'Chucky Atkins'}",False
+3,"August 3, 2000","{'CLE', 'ORL'}","{'Andrew DeClercq', 'Matt Harpring'}",False
+4,"August 3, 2000","{'TOR', 'ORL'}","{'Fran VÃ¡zquez', 'Tracy McGrady'}",True
+5,"August 16, 2000","{'GSW', 'BOS', 'DAL', 'UTA'}","{'Danny Fortson', 'Donyell Marshall', 'Joseph Forte', 'Bruno Å\xa0undov', 'Hot Rod Williams', 'Howard Eisley', 'Dana Barros', 'Adam Keefe', 'Bill Curley', 'Robert Pack'}",True
+6,"August 22, 2000","{'VAN', 'WAS'}","{'Isaac Austin', 'Cherokee Parks', 'Obinna Ekezie', 'Felipe LÃ³pez', 'Dennis Scott'}",False
+7,"August 22, 2000","{'MIL', 'DET'}","{'Lindsey Hunter', 'Billy Owens'}",False
+8,"August 29, 2000","{'DET', 'DAL'}","{'Cedric Ceballos', 'Terry Mills', 'Christian Laettner', 'Eric Murdock', 'John Wallace'}",False
+9,"August 30, 2000","{'POR', 'CLE', 'MIA'}","{'Gary Grant', 'Chris Gatling', 'Brendan Haywood', 'Brian Grant', 'Shawn Kemp', 'Clarence Weatherspoon'}",True
+10,"August 31, 2000","{'POR', 'IND'}","{'Dale Davis', ""Jermaine O'Neal"", 'Joe Kleine'}",False
+11,"September 20, 2000","{'PHO', 'LAL', 'NYK', 'SEA'}","{'Luc Longley', 'Glen Rice', 'Patrick Ewing', 'Vernon Maxwell', 'Eric Chenowith', 'Chuck Person', 'Lazaro Borrell', 'Michael Wright', 'Jamaal Tinsley', 'Kareem Rush', 'Vladimir Stepania', 'Emanual Davis', 'Travis Knight', 'Jason Collins', 'Greg Foster', 'Horace Grant', 'Chris Dudley'}",True
+12,"September 25, 2000","{'DEN', 'WAS'}","{'Popeye Jones', 'Tracy Murray', 'Rod Grizzard'}",True
+13,"September 28, 2000","{'HOU', 'CHI'}","{'Bryce Drew', 'Dee Brown', 'Robert Whaley'}",True
+14,"September 30, 2000","{'TOR', 'SAC'}","{'Corliss Williamson', 'Doug Christie'}",False
+15,"October 16, 2000","{'DEN', 'BOS'}","{'Bryant Stith', 'Chris Herren', 'Calbert Cheaney', 'Robert Pack'}",False
+16,"October 17, 2000","{'DET', 'DAL'}","{'Loy Vaught', 'Dana Barros', 'Ansu Sesay'}",False
+17,"November 26, 2000","{'DET', 'MIA'}","{'Tommy Smith', 'Rasual Butler', 'Cedric Ceballos', 'Tito Maddox'}",True
+18,"November 28, 2000","{'WAS', 'LAC'}","{'Obinna Ekezie', 'Cherokee Parks', 'Tyrone Nesby'}",False
+19,"January 2, 2001","{'CLE', 'ATL'}","{'Larry Robinson', 'Brevin Knight', 'Anthony Johnson', 'Jim Jackson'}",False
+20,"January 12, 2001","{'DEN', 'TOR'}","{'Tracy Murray', 'Aleksandar RadojeviÄ\x87', 'Garth Joseph', ""Mamadou N'Diaye"", 'Keon Clark', 'Kevin Willis', 'Ousmane Cisse'}",True
+21,"January 26, 2001","{'GSW', 'PHO'}","{'Vinny Del Negro', 'Corie Blount', 'RubÃ©n GarcÃ©s', 'Paul McPherson'}",False
+22,"January 30, 2001","{'VAN', 'NYK'}","{'Jamaal Tinsley', 'Antonis Fotsis', 'Othella Harrington', 'Erick Strickland'}",True
+23,"February 22, 2001","{'PHI', 'ATL'}","{'Pepe SÃ¡nchez', 'Toni KukoÄ\x8d', 'Roshown McLeod', 'Nazr Mohammed', 'Theo Ratliff', 'Dikembe Mutombo'}",False
+24,"February 22, 2001","{'DET', 'TOR'}","{'Fran VÃ¡zquez', 'Eric Montross', 'Corliss Williamson', 'Tyrone Corbin', 'KornÃ©l DÃ¡vid', 'Jerome Williams'}",True
+25,"February 22, 2001","{'TOR', 'NYK'}","{'Chris Childs', 'Kareem Rush', 'Mark Jackson', 'Muggsy Bogues'}",True
+26,"February 22, 2001","{'WAS', 'DAL'}","{'Calvin Booth', 'Loy Vaught', 'Obinna Ekezie', 'Christian Laettner', 'Juwan Howard', 'Hubert Davis', 'Etan Thomas', 'Courtney Alexander'}",False
+27,"June 2, 2001","{'DET', 'ORL', 'HOU'}","{'Fran VÃ¡zquez', 'Brandon Armstrong', 'Jeryl Sasser'}",True
+28,"June 14, 2001","{'CHH', 'CHI'}","{'Sean Lampley', 'Roberto Duenas'}",True
+29,"June 26, 2001","{'LAC', 'PHI'}",{'Damone Brown'},True
+30,"June 27, 2001","{'DEN', 'ORL'}",{'Omar Cook'},True
+31,"June 27, 2001","{'HOU', 'ATL'}","{'Terence Morris', 'Carlos Delfino'}",True
+32,"June 27, 2001","{'WAS', 'SEA'}","{'Bobby Simmons', 'Predrag Drobnjak'}",False
+33,"June 27, 2001","{'VAN', 'ATL'}","{'Brevin Knight', 'Jamaal Tinsley', 'Shareef Abdur-Rahim', 'Pau Gasol', 'Lorenzen Wright'}",False
+34,"June 27, 2001","{'IND', 'ATL'}","{'Jamaal Tinsley', 'Boris Diaw'}",True
+35,"June 27, 2001","{'VAN', 'SAC'}","{'Brent Price', 'Jason Williams', 'Mike Bibby', 'Nick Anderson'}",False
+36,"June 27, 2001","{'LAC', 'CHI'}","{'Elton Brand', 'Brian Skinner', 'Tyson Chandler'}",False
+37,"June 27, 2001","{'CLE', 'ORL'}","{'Brendan Haywood', 'Michael Doleac'}",False
+38,"June 27, 2001","{'NJN', 'HOU'}","{'Eddie Griffin', 'Brandon Armstrong', 'Richard Jefferson', 'Jason Collins'}",False
+39,"June 28, 2001","{'MIL', 'LAL'}","{'Lindsey Hunter', 'Greg Foster'}",False

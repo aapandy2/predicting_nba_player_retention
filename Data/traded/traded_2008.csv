@@ -1,0 +1,37 @@
+,date,teams,players,includes_draft_picks
+0,"July 11, 2007","{'PHO', 'POR'}","{'Rudy FernÃ¡ndez', 'James Jones'}",False
+1,"July 11, 2007","{'ORL', 'SEA'}","{'Emir PreldÅ¾iÄ\x87', 'Rashard Lewis'}",True
+2,"July 12, 2007","{'SAS', 'HOU'}","{'Jackie Butler', 'Nando De Colo', 'Luis Scola', 'Vassilis Spanoulis'}",True
+3,"July 20, 2007","{'PHO', 'SEA'}","{'Quincy Pondexter', 'Emir PreldÅ¾iÄ\x87', 'Kurt Thomas', 'Serge Ibaka'}",True
+4,"July 31, 2007","{'MIN', 'BOS'}","{'Ryan Gomes', 'Wayne Ellington', 'Al Jefferson', 'Sebastian Telfair', 'Kevin Garnett', 'Theo Ratliff', 'Gerald Green', 'Jonny Flynn'}",True
+5,"August 17, 2007","{'WAS', 'MEM'}","{'Xavier Henry', 'Juan Carlos Navarro'}",True
+6,"September 10, 2007","{'DEN', 'PHI'}","{'Bobby Jones', 'Reggie Evans', 'Steven Hunter', 'Ricky SÃ¡nchez'}",False
+7,"September 29, 2007","{'NOH', 'CLE'}","{'Cedric Simmons', 'David Wesley'}",False
+8,"October 1, 2007","{'MIN', 'DAL'}","{'Greg Buckner', 'Trenton Hassell'}",False
+9,"October 24, 2007","{'MIN', 'MIA'}","{'Mark Blount', 'Ricky Davis', 'Wayne Simien', 'Antoine Walker', 'Ty Lawson', 'Michael Doleac'}",True
+10,"October 29, 2007","{'NJN', 'NOH'}","{'Mile IliÄ\x87', 'David Wesley', 'Bernard Robinson'}",False
+11,"October 29, 2007","{'MIN', 'SAS'}",{'Beno Udrih'},True
+12,"November 20, 2007","{'LAL', 'ORL'}","{'Maurice Evans', 'Brian Cook', 'Trevor Ariza'}",False
+13,"December 14, 2007","{'DET', 'CHA'}","{'Nazr Mohammed', 'PrimoÅ¾ Brezec', 'Walter Herrmann'}",False
+14,"December 29, 2007","{'PHI', 'UTA'}","{'Trevor Booker', 'Gordan GiriÄ\x8dek', 'Kyle Korver'}",True
+15,"February 1, 2008","{'LAL', 'MEM'}","{'Marc Gasol', 'Aaron McKie', 'Greivis VÃ¡squez', 'Kwame Brown', 'Pau Gasol', 'DontÃ© Greene', 'Javaris Crittenton', 'Devin Ebanks'}",True
+16,"February 4, 2008","{'NJN', 'MEM'}","{'Stromile Swift', 'Jason Collins'}",False
+17,"February 6, 2008","{'PHO', 'MIA'}","{""Shaquille O'Neal"", 'Marcus Banks', 'Shawn Marion'}",False
+18,"February 16, 2008","{'SAC', 'ATL'}","{'Anthony Johnson', 'Tyronn Lue', 'Mike Bibby', 'Shelden Williams', 'Lorenzen Wright', 'Sean Singletary'}",True
+19,"February 19, 2008","{'NJN', 'DAL'}","{'Keith Van Horn', 'Malik Allen', 'DeSagana Diop', 'Maurice Ager', 'Antoine Wright', 'Trenton Hassell', 'Jason Kidd', 'Jordan Crawford', 'Devin Harris', 'Ryan Anderson'}",True
+20,"February 20, 2008","{'SAS', 'SEA'}","{'Rodrigue Beaubois', 'Francisco Elson', 'Kurt Thomas', 'Brent Barry'}",True
+21,"February 21, 2008","{'DET', 'TOR'}","{'PrimoÅ¾ Brezec', 'Juan Dixon'}",False
+22,"February 21, 2008","{'CLE', 'SEA', 'CHI'}","{'Larry Hughes', 'Cedric Simmons', 'Ira Newble', 'Delonte West', 'Shannon Brown', 'Adrian Griffin', 'Ben Wallace', 'Joe Smith', 'Drew Gooden', 'Wally Szczerbiak', 'Donyell Marshall', 'Danny Green'}",True
+23,"February 21, 2008","{'MIN', 'HOU'}","{'Kirk Snyder', 'Gerald Green', 'PaulÃ£o Prestes'}",True
+24,"February 21, 2008","{'NOH', 'MEM', 'HOU'}","{'Bobby Jackson', 'Maarty Leunen', 'Malick Badiane', 'Adam Haluska', 'Mike James', 'Sergei Lishouk', 'Marcus Vinicius', 'Bonzi Wells'}",True
+25,"February 21, 2008","{'DEN', 'POR'}","{'Von Wafer', 'Taurean Green'}",False
+26,"June 25, 2008","{'DEN', 'CHA'}","{'Alexis AjinÃ§a', 'Luke Babbitt'}",True
+27,"June 26, 2008","{'POR', 'LAC'}","{'Dante Cunningham', 'Mike Taylor'}",True
+28,"June 26, 2008","{'MIN', 'MIA'}","{'Henk Norel', 'Mario Chalmers', 'Nick Calathes'}",True
+29,"June 26, 2008","{'MIA', 'CLE'}","{'Robert Dozier', 'Darnell Jackson'}",True
+30,"June 26, 2008","{'DET', 'SEA'}","{'Trent Plaisted', 'D.J. White', 'Walter Sharpe'}",False
+31,"June 26, 2008","{'POR', 'MEM', 'HOU'}","{'Nicolas Batum', 'Joey Dorsey', 'Darrell Arthur', 'DontÃ© Greene', 'Sam Young'}",True
+32,"June 26, 2008","{'MIN', 'MEM'}","{'O.J. Mayo', 'Marko JariÄ\x87', 'Brian Cardinal', 'Mike Miller', 'Antoine Walker', 'Kevin Love', 'Greg Buckner', 'Jason Collins'}",False
+33,"June 26, 2008","{'MIL', 'NJN'}","{'Yi Jianlian', 'Bobby Simmons', 'Richard Jefferson'}",False
+34,"June 28, 2008","{'PHO', 'SAS'}","{'DeJuan Blair', 'Malik Hairston', 'Goran DragiÄ\x87'}",True
+35,"June 28, 2008","{'DEN', 'POR', 'CHI'}","{'Jerome Jordan', 'Ã\x96mer AÅ\x9fÄ±k', 'Sonny Weems', 'Jon Brockman', 'Patty Mills'}",True

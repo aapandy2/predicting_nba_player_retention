@@ -1,0 +1,50 @@
+,date,teams,players,includes_draft_picks
+0,"July 6, 2023","{'SAC', 'IND'}",{'Chris Duarte'},True
+1,"July 6, 2023","{'DET', 'WAS'}",{'Monte Morris'},True
+2,"July 6, 2023","{'SAS', 'MIA', 'CLE'}","{'Cedi Osman', 'Lamar Stevens', 'Max Strus'}",True
+3,"July 6, 2023","{'DAL', 'SAC'}","{'Olivier-Maxence Prosper', 'Richaun Holmes'}",False
+4,"July 6, 2023","{'DAL', 'OKC'}","{'Cason Wallace', 'Dereck Lively II', 'Davis Bertans'}",False
+5,"July 6, 2023","{'GSW', 'WAS'}","{'Ryan Rollins', 'Chris Paul', 'Patrick Baldwin Jr.', 'Jordan Poole'}",True
+6,"July 6, 2023","{'BRK', 'HOU'}",{'Patty Mills'},True
+7,"July 6, 2023","{'MIA', 'OKC'}",{'Victor Oladipo'},True
+8,"July 6, 2023","{'DET', 'BRK'}",{'Joe Harris'},True
+9,"July 7, 2023","{'UTA', 'ATL'}","{'John Collins', 'Rudy Gay'}",True
+10,"July 7, 2023","{'NYK', 'IND'}",{'Obi Toppin'},True
+11,"July 8, 2023","{'OKC', 'ATL', 'LAC', 'HOU', 'MEM'}","{'Kenyon Martin', 'TyTy Washington Jr.', 'Vanja Marinkovic', 'KJ Simpson', 'Patty Mills', 'Dillon Brooks', 'Alpha Kaba', 'Josh Christopher', 'Usman Garuba'}",True
+12,"July 8, 2023","{'CLE', 'UTA'}",{'Damian Jones'},False
+13,"July 11, 2023","{'PHO', 'MEM'}",{'Isaiah Todd'},True
+14,"July 12, 2023","{'SAS', 'BOS', 'DAL'}","{'Reggie Bullock', 'Grant Williams', 'Adem Bona'}",True
+15,"July 12, 2023","{'OKC', 'ATL'}","{'Patty Mills', 'Ty Ty Washington', 'Usman Garuba', 'Rudy Gay'}",True
+16,"July 17, 2023","{'PHO', 'SAS'}",{'Cameron Payne'},True
+17,"September 27, 2023","{'MIL', 'POR', 'PHO'}","{'Grayson Allen', 'Damian Lillard', 'Keon Johnson', 'Jrue Holiday', 'Jusuf Nurkic', 'Nassir Little', 'Deandre Ayton', 'Toumani Camara'}",True
+18,"October 1, 2023","{'POR', 'BOS'}","{'Jrue Holiday', 'Bub Carrington', 'Robert Williams', 'Malcolm Brogdon'}",True
+19,"October 17, 2023","{'OKC', 'HOU'}","{'Victor Oladipo', 'Jeremiah Robinson-Earl', 'Kevin Porter Jr.'}",True
+20,"November 1, 2023","{'LAC', 'PHI', 'OKC'}","{'Nicolas Batum', 'Robert Covington', 'Marcus Morris', 'Juan Nunez', 'P.J. Tucker', 'James Harden', 'KJ Martin', 'Filip Petrusev'}",True
+21,"November 1, 2023","{'LAC', 'SAC'}","{'Dimitrios Agravanis', 'Filip Petrusev'}",False
+22,"December 30, 2023","{'TOR', 'NYK'}","{'Jonathan Mogbo', 'Immanuel Quickley', 'Precious Achiuwa', 'Malachi Flynn', 'R.J. Barrett', 'OG Anunoby'}",True
+23,"January 14, 2024","{'DET', 'WAS'}","{'Marvin Bagley', 'Mike Muscala', 'Danilo Gallinari', 'Isaiah Livers'}",True
+24,"January 17, 2024","{'NOP', 'IND'}","{'Kira Lewis Jr.', 'Enrique Freeman'}",True
+25,"January 17, 2024","{'TOR', 'IND'}","{'Isaiah Collier', 'Kira Lewis Jr.', 'Jordan Nwora', 'Pascal Siakam', 'Bruce Brown', ""Ja'Kobe Walter""}",True
+26,"January 23, 2024","{'CHO', 'MIA'}","{'Kyle Lowry', 'Terry Rozier'}",True
+27,"February 1, 2024","{'MEM', 'HOU'}","{'Victor Oladipo', 'Jaylen Wells', 'Ulrich Chomche', 'Steven Adams'}",True
+28,"February 7, 2024","{'BOS', 'MEM'}","{'Lamar Stevens', 'Xavier Tillman Sr.'}",True
+29,"February 8, 2024","{'DET', 'UTA'}","{'Kyle Filipowski', 'Kevin Knox', 'Gabriele Procida', 'Simone Fontecchio'}",True
+30,"February 8, 2024","{'DET', 'PHI'}","{'Danuel House', 'Cam Spencer'}",True
+31,"February 8, 2024","{'TOR', 'UTA'}","{'Isaiah Collier', 'Kelly Olynyk', 'Ochai Agbaji', 'Kira Lewis Jr.', 'Otto Porter Jr.'}",True
+32,"February 8, 2024","{'TOR', 'BRK'}","{'Thaddeus Young', 'Dennis Schroder', 'Spencer Dinwiddie'}",False
+33,"February 8, 2024","{'DET', 'NYK'}","{'Evan Fournier', 'Alec Burks', 'Bojan Bogdanovic', 'Malachi Flynn', 'Quentin Grimes', 'Ryan Arcidiacono'}",False
+34,"February 8, 2024","{'GSW', 'IND'}","{'Cory Joseph', 'Quinten Post'}",True
+35,"February 8, 2024","{'CHO', 'DAL'}","{'Grant Williams', 'Seth Curry', 'Ariel Hukporti', 'P.J. Washington'}",True
+36,"February 8, 2024","{'SAS', 'PHI', 'IND'}","{'Marcus Morris', 'Juan Nunez', 'Buddy Hield', 'Doug McDermott', 'Furkan Korkmaz'}",True
+37,"February 8, 2024","{'WAS', 'DAL'}","{'Dillon Jones', 'Daniel Gafford', 'Richaun Holmes'}",True
+38,"February 8, 2024","{'PHO', 'BRK', 'MEM'}","{'Yuta Watanabe', 'Vanja Marinkovic', 'David Roddy', 'Jordan Goodwin', ""Royce O'Neale"", 'Keita Bates-Diop', 'Chimezie Metu'}",True
+39,"February 8, 2024","{'MIL', 'PHI'}","{'Cameron Payne', 'Patrick Beverley'}",True
+40,"February 8, 2024","{'MIN', 'DET'}","{'Troy Brown Jr.', 'Shake Milton', 'Monte Morris'}",True
+41,"February 8, 2024","{'BOS', 'PHI'}","{'Jaden Springer', 'Adem Bona'}",True
+42,"February 8, 2024","{'POR', 'BOS'}",{'Dalano Banton'},False
+43,"February 8, 2024","{'MIL', 'SAC'}","{'Dimitrios Agravanis', 'Robin Lopez'}",False
+44,"February 8, 2024","{'DEN', 'LAC'}",{'Ismael Kamagate'},False
+45,"February 8, 2024","{'CHO', 'OKC'}","{'Vasilije MiciÄ\x87', 'Davis Bertans', 'KJ Simpson', 'Tre Mann', 'Gordon Hayward'}",True
+46,"February 8, 2024","{'DAL', 'OKC'}",set(),True
+47,"June 21, 2024","{'OKC', 'CHI'}","{'Josh Giddey', 'Alex Caruso'}",False
+48,"June 26, 2024","{'DEN', 'PHO'}","{'', 'Ryan Dunn', 'Kevin McCullar Jr.', 'DaRon Holmes'}",True

@@ -1,0 +1,45 @@
+,date,teams,players,includes_draft_picks
+0,"July 9, 2015","{'PHO', 'DET'}","{'Reggie Bullock', 'Danny Granger', 'Marcus Morris', 'Xavier Tillman Sr.'}",True
+1,"July 9, 2015","{'MIL', 'WAS'}","{'Jared Dudley', 'Elijah Hughes'}",True
+2,"July 9, 2015","{'PHI', 'SAC'}","{'ArtÅ«ras Gudaitis', 'Jayson Tatum', 'Romeo Langford', 'Luka MitroviÄ\x87', ""De'Aaron Fox"", 'Nik Stauskas', 'Carl Landry', 'Jason Thompson'}",True
+3,"July 9, 2015","{'SAS', 'SAC'}","{'Ray McCallum', 'Isaiah Cousins'}",True
+4,"July 9, 2015","{'MIL', 'DAL'}",{'Zaza Pachulia'},True
+5,"July 9, 2015","{'SAS', 'ATL'}","{'Tiago Splitter', 'Georgios Printezis'}",True
+6,"July 9, 2015","{'NYK', 'ORL'}","{""Kyle O'Quinn"", 'Ignas Brazdeikis', 'Carsen Edwards'}",True
+7,"July 9, 2015","{'LAL', 'IND'}","{'Roy Hibbert', 'Eric Paschall'}",True
+8,"July 9, 2015","{'GSW', 'BOS'}","{'David Lee', 'Gerald Wallace', 'Chris Babb'}",False
+9,"July 11, 2015","{'MIN', 'IND'}","{'Chase Budinger', 'Damjan RudeÅ¾'}",False
+10,"July 13, 2015","{'DET', 'BRK'}","{'Steve Blake', 'Quincy Miller'}",False
+11,"July 14, 2015","{'POR', 'ORL'}",{'Maurice Harkless'},True
+12,"July 14, 2015","{'BOS', 'OKC'}","{'Kevin Hervey', 'Perry Jones', 'Isaiah Roby'}",True
+13,"July 20, 2015","{'DEN', 'HOU'}","{'Joey Dorsey', 'Juan HernangÃ³mez', 'Nick Johnson', 'Pablo Prigioni', 'Ty Lawson', 'Isaiah Hartenstein', 'Kostas Papanikolaou'}",True
+14,"July 23, 2015","{'CLE', 'IND'}","{'Rakeem Christmas', 'Eric Paschall'}",True
+15,"July 27, 2015","{'POR', 'CLE'}","{'Mike Miller', 'Brendan Haywood', 'Justin James', 'Vernon Carey Jr.'}",True
+16,"July 27, 2015","{'MIA', 'BOS'}","{'Zoran DragiÄ\x87', 'Skylar Mays'}",True
+17,"July 27, 2015","{'MIA', 'ORL'}",{'Shabazz Napier'},True
+18,"July 31, 2015","{'GSW', 'PHI'}","{'Jason Thompson', 'Gerald Wallace'}",False
+19,"November 10, 2015","{'MIA', 'MEM'}","{'Jarnell Stokes', 'James Ennis', 'Mario Chalmers', 'Beno Udrih'}",False
+20,"December 24, 2015","{'NOP', 'PHI'}","{'Ish Smith', 'David Michineau', 'Frank Mason III'}",True
+21,"January 12, 2016","{'CLE', 'ORL'}",{'Joe Harris'},True
+22,"January 22, 2016","{'LAC', 'HOU'}","{'Sergei Lishouk', 'Maarty Leunen', 'Josh Smith'}",False
+23,"February 16, 2016","{'CHO', 'MEM', 'MIA'}","{'Chris Andersen', 'Jarred Vanderbilt', 'Brian Roberts', 'Talen Horton-Tucker', 'P.J. Hairston', ""De'Anthony Melton"", 'Courtney Lee'}",True
+24,"February 16, 2016","{'DET', 'ORL'}","{'Brandon Jennings', 'Tobias Harris', 'Ersan Ä°lyasova'}",False
+25,"February 18, 2016","{'PHO', 'WAS'}","{'Markieff Morris', 'Kris Humphries', 'DeJuan Blair', 'Georgios Papagiannis'}",True
+26,"February 18, 2016","{'MIA', 'POR'}","{'Brian Roberts', 'Sharife Cooper'}",True
+27,"February 18, 2016","{'LAC', 'MEM'}","{'Matisse Thybulle', 'Lance Stephenson', 'Jeff Green'}",True
+28,"February 18, 2016","{'POR', 'CLE', 'ORL'}","{'Channing Frye', 'Moritz Wagner', 'Anderson VarejÃ£o', 'Jared Cunningham', 'Vernon Carey Jr.'}",True
+29,"February 18, 2016","{'DEN', 'OKC'}","{'Daniel Hamilton', 'D.J. Augustin', 'Steve Novak', 'Petr Cornelie', 'Randy Foye'}",True
+30,"February 18, 2016","{'CHI', 'UTA', 'ATL'}","{'Shelvin Mack', 'Justin Holiday', 'Kirk Hinrich', 'Sviatoslav Mykhailiuk'}",True
+31,"February 18, 2016","{'MIA', 'NOP'}","{'Jarnell Stokes', 'Tony Carr'}",True
+32,"June 17, 2016","{'DET', 'CHI'}","{'Cameron Bairstow', 'Spencer Dinwiddie'}",False
+33,"June 22, 2016","{'NYK', 'CHI'}","{'JosÃ© CalderÃ³n', 'Robin Lopez', 'Derrick Rose', 'Jerian Grant', 'Justin Holiday', 'Damyean Dotson'}",True
+34,"June 23, 2016","{'OKC', 'ORL'}","{'Victor Oladipo', 'Domantas Sabonis', 'Ersan Ä°lyasova', 'Serge Ibaka'}",False
+35,"June 23, 2016","{'PHO', 'SAC'}","{'Bogdan BogdanoviÄ\x87', 'Marquese Chriss', 'Skal LabissiÃ¨re', 'Georgios Papagiannis', 'Xavier Tillman Sr.'}",True
+36,"June 23, 2016","{'BOS', 'MEM'}","{'Deyonta Davis', 'Matisse Thybulle', 'Rade Zagorac'}",True
+37,"June 23, 2016","{'NOP', 'LAC'}","{'David Michineau', 'Diamond Stone', 'Cheick Diallo'}",False
+38,"June 23, 2016","{'GSW', 'MIL'}",{'Patrick McCaw'},False
+39,"June 23, 2016","{'BRK', 'UTA'}","{'Marcus Paige', 'Isaiah Whitehead'}",False
+40,"June 23, 2016","{'POR', 'ORL'}","{'Jake Layman', 'Jaylen Hands'}",True
+41,"June 23, 2016","{'CLE', 'ATL'}",{'Kay Felder'},False
+42,"June 23, 2016","{'DEN', 'OKC'}",{'Daniel Hamilton'},False
+43,"June 29, 2016","{'DET', 'ORL'}","{'Jaylen Hands', 'Jodie Meeks'}",True

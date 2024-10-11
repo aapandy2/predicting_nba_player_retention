@@ -1,0 +1,65 @@
+,date,teams,players,includes_draft_picks
+0,"July 10, 2014","{'BOS', 'BRK', 'CLE'}","{'Jarrett Jack', 'Tyler Zeller', 'Sergey Karasev', 'Marcus Thornton', 'Skal LabissiÃ¨re', 'Ä°lkan Karaman', 'Edin BavÄ\x8diÄ\x87'}",True
+1,"July 10, 2014","{'TOR', 'UTA'}","{'Steve Novak', 'Diante Garrett', 'Jonah Bolden'}",True
+2,"July 11, 2014","{'NOP', 'CLE'}",{'Alonzo Gee'},True
+3,"July 12, 2014",{'CLE'},"{'Scotty Hopson', 'Brendan Haywood', 'Dwight Powell'}",False
+4,"July 12, 2014","{'PHO', 'SAC'}","{'Isaiah Thomas', 'Alex Oriakhi'}",False
+5,"July 14, 2014","{'DAL', 'CHI'}","{'Tadija DragiÄ\x87eviÄ\x87', 'Greg Smith'}",False
+6,"July 14, 2014","{'ORL', 'CHI'}","{'Anthony Randolph', 'Milovan RakoviÄ\x87'}",False
+7,"July 14, 2014",{'NOP'},{'Scotty Hopson'},False
+8,"July 15, 2014","{'OKC', 'ATL'}","{'Georgios Printezis', 'Thabo Sefolosha', 'Sofoklis Schortsanitis'}",False
+9,"July 15, 2014","{'NOP', 'WAS', 'HOU'}","{'Melvin Ely', 'Sam Dekker', 'Scotty Hopson', 'Trevor Ariza', 'Omri Casspi', 'Ã\x96mer AÅ\x9fÄ±k', 'Alonzo Gee'}",True
+10,"July 15, 2014","{'LAL', 'HOU'}","{'Sergei Lishouk', 'Jeremy Lin', 'Larry Nance Jr.'}",True
+11,"July 16, 2014","{'WAS', 'DAL'}","{'DeJuan Blair', 'Emir PreldÅ¾iÄ\x87'}",False
+12,"July 19, 2014","{'WAS', 'BOS'}",{'Kris Humphries'},True
+13,"July 22, 2014","{'CLE', 'UTA'}","{'Dani DÃ\xadez', 'Malcolm Thomas', 'Carrick Felix', 'Erik Murphy', 'John Lucas III'}",True
+14,"August 6, 2014","{'NYK', 'SAC'}","{'Quincy Acy', 'Wayne Ellington', 'Jeremy Tyler', 'Travis Outlaw'}",False
+15,"August 23, 2014","{'MIN', 'PHI', 'CLE'}","{'Alexey Shved', 'Andrew Wiggins', 'Luc Mbah a Moute', 'Thaddeus Young', 'TimothÃ© Luwawu-Cabarrot', 'Kevin Love', 'Anthony Bennett'}",True
+16,"August 26, 2014","{'MIL', 'LAC'}","{'Marcus Paige', 'OG Anunoby', 'Jared Dudley', 'Carlos Delfino', 'Miroslav Raduljica'}",True
+17,"August 26, 2014","{'PHI', 'OKC'}",{'Hasheem Thabeet'},True
+18,"September 17, 2014","{'SAC', 'HOU'}","{'Rakeem Christmas', 'Scotty Hopson', 'Chinanu Onuaku', 'Jason Terry', 'Alonzo Gee'}",True
+19,"September 25, 2014","{'BOS', 'CLE'}","{'Kadeem Allen', 'Malcolm Thomas', 'Abdel Nader', 'Keith Bogans', 'Erik Murphy', 'Dwight Powell', 'John Lucas III'}",True
+20,"September 27, 2014","{'PHI', 'CLE'}","{'Keith Bogans', 'Arnoldas Kulboka'}",True
+21,"October 17, 2014","{'DET', 'BOS'}","{'Will Bynum', 'Joel Anthony'}",False
+22,"October 24, 2014","{'PHI', 'BRK'}","{'Admiral Schofield', 'Marquis Teague', 'Casper Ware'}",True
+23,"October 27, 2014","{'PHI', 'NYK'}","{'Arnett Moultrie', 'Nicolas Claxton', 'Travis Outlaw', 'Isaac Bonga'}",True
+24,"December 10, 2014","{'PHI', 'BRK'}","{'Arnoldas Kulboka', 'Andrei Kirilenko', 'Yam Madar', 'Brandon Davies', 'Khyri Thomas', 'Jorge GutiÃ©rrez'}",True
+25,"December 18, 2014","{'BOS', 'DAL'}","{'Rajon Rondo', 'Demetrius Jackson', 'Guerschon Yabusele', 'Jae Crowder', 'Brandan Wright', 'Dwight Powell', 'Jameer Nelson'}",True
+26,"December 19, 2014","{'MIN', 'PHI', 'HOU'}","{'Rakeem Christmas', 'Alexey Shved', 'Troy Daniels', 'Corey Brewer', 'J.P. Tokoto', 'Sergei Lishouk', 'Ronny Turiaf'}",True
+27,"December 24, 2014","{'PHO', 'DET'}","{'Tony Mitchell', 'Anthony Tolliver'}",False
+28,"January 5, 2015","{'OKC', 'CLE', 'NYK'}","{'J.R. Smith', 'Lance Thomas', 'Lou Amundson', 'Carsen Edwards', 'Iman Shumpert', 'Alex Kirk', 'Dion Waiters', 'Furkan Korkmaz'}",True
+29,"January 7, 2015","{'LAC', 'PHI'}","{'Sergei Lishouk', 'Jared Cunningham', 'Cenk Akyol'}",False
+30,"January 7, 2015","{'DEN', 'CLE'}","{""Sir'Dominic Pointer"", 'Harry Giles', 'Timofey Mozgov', 'Furkan Korkmaz'}",True
+31,"January 9, 2015","{'PHO', 'BOS'}","{'Brandan Wright', 'Rade Zagorac', 'Semi Ojeleye'}",True
+32,"January 12, 2015","{'NOP', 'BOS', 'MEM'}","{'Quincy Pondexter', 'Aaron Nesmith', 'Russ Smith', 'Jeff Green', 'Tayshaun Prince', 'Branden Dawson', 'Austin Rivers'}",True
+33,"January 13, 2015","{'DEN', 'BOS'}","{'Nate Robinson', 'Jameer Nelson'}",False
+34,"January 15, 2015","{'PHO', 'BOS', 'LAC'}","{'Chris Douglas-Roberts', 'Reggie Bullock', 'Jabari Bird', 'Austin Rivers', 'Shavlik Randolph'}",True
+35,"February 10, 2015","{'MIN', 'CHO'}","{'Troy Daniels', 'Gary Neal', 'Jaylen Nowell', 'Mo Williams'}",True
+36,"February 10, 2015","{'MIN', 'ATL'}","{'Adreian Payne', 'Kevin Huerter'}",True
+37,"February 19, 2015","{'MIN', 'BRK'}","{'Thaddeus Young', 'Kevin Garnett'}",False
+38,"February 19, 2015","{'PHO', 'MIA', 'NOP'}","{'Zoran DragiÄ\x87', 'John Salmons', 'Danny Granger', 'Justin Hamilton', 'Goran DragiÄ\x87', 'Norris Cole', 'Tre Mann', 'Shawne Williams'}",True
+39,"February 19, 2015","{'MIL', 'PHO', 'PHI'}","{'Miles Plumlee', 'Tyler Ennis', 'Brandon Knight', 'Kendall Marshall', 'Mikal Bridges', 'Michael Carter-Williams'}",True
+40,"February 19, 2015","{'DET', 'OKC', 'UTA'}","{'Tibor PleiÃ\x9f', 'Isaiah Roby', 'Thomas Bryant', 'D.J. Augustin', 'Grant Jerrett', 'Steve Novak', 'Kendrick Perkins', 'Enes Kanter', 'Kyle Singler', 'Reggie Jackson', 'Josh Okogie'}",True
+41,"February 19, 2015","{'PHO', 'DET', 'BOS'}","{'Gigi Datome', 'Marcus Thornton', 'Tayshaun Prince', 'Skal LabissiÃ¨re', 'Jonas Jerebko', 'Isaiah Thomas'}",True
+42,"February 19, 2015","{'DEN', 'POR'}","{'Victor Claver', 'Arron Afflalo', 'Thomas Robinson', 'Malik Beasley', 'Will Barton', 'Alonzo Gee'}",True
+43,"February 19, 2015","{'NYK', 'HOU'}","{'Ognjen Jaramaz', 'Alexey Shved', 'Kyle Guy', 'Pablo Prigioni'}",True
+44,"February 19, 2015","{'PHI', 'HOU'}","{'Isaiah Canaan', 'K.J. McDaniels', 'Richaun Holmes'}",True
+45,"February 19, 2015","{'WAS', 'SAC'}","{'Andre Miller', 'Ramon Sessions'}",False
+46,"February 19, 2015","{'DEN', 'PHI'}","{'Cenk Akyol', 'JaVale McGee', 'Chukwudiebere Maduabum', 'Furkan Korkmaz'}",True
+47,"February 19, 2015","{'NOP', 'OKC'}","{'Ish Smith', 'Latavious Williams'}",True
+48,"June 11, 2015","{'MIL', 'DET'}","{'Caron Butler', 'Shawne Williams', 'Ersan Ä°lyasova'}",False
+49,"June 15, 2015","{'CHO', 'LAC'}","{'Spencer Hawes', 'Matt Barnes', 'Lance Stephenson'}",False
+50,"June 24, 2015","{'CHO', 'POR'}","{'Nicolas Batum', 'Gerald Henderson', 'Noah Vonleh'}",False
+51,"June 25, 2015","{'POR', 'BRK'}","{'Rondae Hollis-Jefferson', 'Steve Blake', 'Pat Connaughton', 'Mason Plumlee'}",False
+52,"June 25, 2015","{'WAS', 'NYK', 'ATL'}","{'Jerian Grant', 'Cody Martin', 'Tim Hardaway Jr.', 'Kelly Oubre Jr.'}",True
+53,"June 25, 2015","{'PHO', 'MEM'}","{'Jon Leuer', 'Andrew Harrison'}",False
+54,"June 25, 2015","{'NOP', 'LAC'}",{'Branden Dawson'},False
+55,"June 25, 2015","{'POR', 'UTA'}",{'Dani DÃ\xadez'},False
+56,"June 25, 2015","{'CHO', 'BRK'}","{'Juan Pablo Vaulet', 'Talen Horton-Tucker', 'Arnoldas Kulboka'}",True
+57,"June 25, 2015","{'MIN', 'CLE'}","{'Cedi Osman', 'Rakeem Christmas', 'Justin James', 'Tyus Jones'}",True
+58,"June 25, 2015","{'CHO', 'MEM'}","{'Matt Barnes', 'Luke Ridnour'}",False
+59,"June 25, 2015","{'CHO', 'OKC'}","{'Jeremy Lamb', 'Petr Cornelie', 'Luke Ridnour'}",True
+60,"June 25, 2015","{'MEM', 'ORL'}","{'JÄ\x81nis Timma', 'Luke Ridnour'}",False
+61,"June 25, 2015","{'MIL', 'TOR'}","{'OG Anunoby', 'Greivis VÃ¡squez', 'Norman Powell'}",True
+62,"June 25, 2015","{'PHI', 'NYK'}","{'Tyler Bey', 'Willy HernangÃ³mez', 'Filip PetruÅ¡ev'}",True
+63,"June 30, 2015","{'TOR', 'OKC'}","{'Tomislav ZubÄ\x8diÄ\x87', 'Luke Ridnour'}",False

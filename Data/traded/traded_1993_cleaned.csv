@@ -1,0 +1,30 @@
+,date,teams,players,includes_draft_picks
+0,"July 1, 1992","{'MIL', 'POR'}","{'Alaa Abdelnaby', 'Tracy Murray'}",False
+1,"July 1, 1992","{'MIL', 'SAS'}","{'Dale Ellis', 'Tracy Murray'}",False
+2,"July 7, 1992","{'ORL', 'CHI'}",{'Litterial Green'},True
+3,"August 4, 1992","{'MIL', 'ORL'}","{'Lester Conner', 'Sam Vincent'}",True
+4,"September 8, 1992","{'MIN', 'IND'}","{'Sam Mitchell', 'Micheal Williams', 'Chuck Person', 'Pooh Richardson'}",False
+5,"September 8, 1992","{'DET', 'MIA'}","{'John Salley', 'Isaiah Morris'}",True
+6,"September 13, 1992","{'MIN', 'NYK'}",{'Tony Campbell'},True
+7,"September 18, 1992","{'GSW', 'DAL', 'CHI'}","{'Rodney McCray', 'Byron Houston'}",True
+8,"September 22, 1992","{'LAC', 'NYK', 'ORL'}","{'Charles Smith', 'Mark Jackson', 'Doc Rivers', 'Bo Kimble', 'Stanley Roberts'}",True
+9,"September 25, 1992","{'MIN', 'HOU'}",{'Scott Brooks'},True
+10,"October 5, 1992","{'SAS', 'HOU'}",{'David Wood'},True
+11,"October 8, 1992","{'LAC', 'WSB'}","{'William Bedford', 'John Williams', 'Don MacLean'}",False
+12,"October 8, 1992","{'NJN', 'PHI'}",{'Jayson Williams'},True
+13,"October 23, 1992","{'DEN', 'POR'}",{'Robert Pack'},True
+14,"November 3, 1992","{'NJN', 'ATL'}","{'Rumeal Robinson', 'Mookie Blaylock', 'Roy Hinson'}",False
+15,"November 15, 1992","{'MIN', 'DET'}","{'Gerald Glass', 'Lance Blanks', 'Mark Randall', 'Brad Sellers'}",True
+16,"November 25, 1992","{'SEA', 'SAC'}",{'Vincent Askew'},True
+17,"December 2, 1992","{'CLE', 'ORL'}",{'Steve Kerr'},True
+18,"December 4, 1992","{'MIL', 'BOS'}","{'Alaa Abdelnaby', 'Jon Barry'}",True
+19,"December 9, 1992","{'SAS', 'CHH'}","{'Sidney Green', 'J.R. Reid'}",True
+20,"February 22, 1993","{'LAL', 'SEA'}","{'Sam Perkins', 'Benoit Benjamin', 'Doug Christie'}",False
+21,"February 25, 1993","{'GSW', 'CHI'}",{'Ed Nealy'},True
+22,"February 25, 1993","{'MIL', 'DET'}","{'Orlando Woolridge', 'Alvin Robertson'}",False
+23,"June 21, 1993","{'NJN', 'LAL'}","{'Benoit Benjamin', 'Sam Bowie'}",True
+24,"June 24, 1993","{'POR', 'WSB'}","{'Kevin Duckworth', 'Harvey Grant'}",False
+25,"June 30, 1993","{'MIN', 'UTA'}","{'Felton Spencer', 'Mike Brown'}",False
+26,"June 30, 1993","{'DAL', 'HOU'}","{'Popeye Jones', 'Eric Riley'}",False
+27,"June 30, 1993","{'GSW', 'ORL'}","{'Anfernee Hardaway', 'Chris Webber'}",True
+28,"June 30, 1993","{'DEN', 'GSW'}","{'Darnell Mee', 'Josh Grant'}",True

@@ -1,0 +1,61 @@
+,date,teams,players,includes_draft_picks
+0,"November 16, 2020","{'PHO', 'OKC'}","{'Kelly Oubre Jr.', 'Ty Jerome', 'Chris Paul', 'Abdel Nader', 'Jalen Lecque', 'Peyton Watson', 'Ricky Rubio'}",True
+1,"November 18, 2020","{'LAL', 'OKC'}","{'Jaden McDaniels', 'Dennis Schroder', 'Danny Green'}",False
+2,"November 18, 2020","{'PHI', 'DAL'}","{'Tyler Bey', 'Josh Richardson', 'Seth Curry'}",False
+3,"November 18, 2020","{'DET', 'UTA'}","{'Saben Lee', 'Tony Bradley'}",False
+4,"November 18, 2020","{'MIL', 'CLE'}",{'Ilkan Karaman'},True
+5,"November 18, 2020","{'MIL', 'ORL'}","{'Max Christie', 'Jordan Nwora'}",True
+6,"November 19, 2020","{'CHO', 'NOP'}","{'Nick Richards', 'Tyler Kolek'}",True
+7,"November 19, 2020","{'NOP', 'UTA'}","{'Elijah Hughes', 'Karlo MatkoviÄ\x87'}",True
+8,"November 19, 2020","{'MEM', 'SAC'}","{'Isaiah Mobley', 'Robert Woodard', 'Xavier Tillman Sr.'}",True
+9,"November 19, 2020","{'WAS', 'OKC'}","{'Admiral Schofield', 'Bobi Klintman', 'Cassius Winston', 'Vit Krejci'}",True
+10,"November 19, 2020","{'MIN', 'LAC'}","{'Mathias Lessort', 'Daniel Oturu'}",True
+11,"November 19, 2020","{'BOS', 'OKC'}",{'Vincent Poirier'},True
+12,"November 19, 2020","{'DET', 'LAC', 'BRK'}","{'JT Thor', 'Saddiq Bey', 'Reggie Perry', 'Landry Shamet', 'Justin Patton', 'Julian Phillips', 'Dzanan Musa', 'Luke Kennard', 'Rodney McGruder', 'Jaylen Hands', 'Jay Scrubb', 'Jonathan Mogbo', 'Bruce Brown'}",True
+13,"November 20, 2020","{'POR', 'BOS', 'MEM'}","{'Desmond Bane', 'Keyonte Johnson', 'Mario Hezonja', 'Enes Kanter'}",True
+14,"November 20, 2020","{'MIN', 'OKC', 'NYK'}","{'Jaden McDaniels', 'Kevin McCullar Jr.', 'Leandro Bolmaro', 'James Nnaji', 'Mathias Lessort', 'Aleksej Pokusevski', 'Immanuel Quickley', 'James Johnson', 'Ricky Rubio'}",True
+15,"November 20, 2020","{'DET', 'ATL'}","{'Tony Snell', 'Dewayne Dedmon', 'Khyri Thomas'}",False
+16,"November 20, 2020","{'NYK', 'UTA'}","{'Udoka Azubuike', 'Saben Lee', 'Ante Tomic', 'Leandro Bolmaro'}",True
+17,"November 22, 2020","{'POR', 'HOU'}","{'Isaiah Stewart', 'Usman Garuba', 'Robert Covington', 'Trevor Ariza'}",True
+18,"November 22, 2020","{'GSW', 'OKC'}","{'Kelly Oubre Jr.', 'Miles McBride', 'Aaron Wiggins'}",True
+19,"November 22, 2020","{'NYK', 'UTA'}","{'Ajay Mitchell', 'Mouhamed Gueye', 'Ed Davis'}",True
+20,"November 22, 2020","{'DEN', 'DET'}","{'Nikola RadiÄ\x8deviÄ\x87', 'Jerami Grant'}",False
+21,"November 23, 2020","{'LAL', 'CLE'}","{'JaVale McGee', 'Alfonzo McKinnie', 'Jordan Bell'}",True
+22,"November 23, 2020","{'DET', 'PHI'}","{'Tony Bradley', 'Zhaire Smith'}",False
+23,"November 23, 2020","{'DEN', 'NOP', 'OKC', 'MIL'}","{'R.J. Hampton', 'Hunter Tyson', 'Zylan Cheatham', 'Jrue Holiday', 'George Hill', 'Tyler Kolek', 'Eric Bledsoe', 'Darius Miller', 'Nick Smith Jr.', 'Kenrich Williams', 'Sam Merrill', 'Joshia Gray', 'Steven Adams', 'Yves Missi'}",True
+24,"November 24, 2020","{'DET', 'HOU'}","{'Luka Garza', 'Christian Wood', 'Trevor Ariza', 'Isaiah Stewart'}",True
+25,"November 24, 2020","{'MIN', 'NYK'}","{'Ed Davis', 'Jacob Evans', 'Omari Spellman'}",True
+26,"November 24, 2020","{'OKC', 'ATL'}",{'Danilo Gallinari'},True
+27,"November 25, 2020","{'SAC', 'HOU'}","{'Luka Garza', 'Kenyon Martin Jr.'}",True
+28,"November 25, 2020","{'OKC', 'IND'}","{'T.J. Leaf', 'Jalen Lecque'}",True
+29,"November 27, 2020","{'NYK', 'HOU'}","{'Issuf Sanon', 'Axel Hervelle', 'Sergio Llull', 'Tadija Dragicevic', 'Austin Rivers'}",False
+30,"November 27, 2020","{'CLE', 'UTA'}",{'Rayjon Tucker'},True
+31,"November 27, 2020","{'DET', 'DAL', 'OKC'}","{'Justin Jackson', 'Maxwell Lewis', 'Trevor Ariza', 'Delon Wright', 'James Johnson'}",True
+32,"November 29, 2020","{'CHO', 'BOS'}","{'Trayce Jackson-Davis', 'Gordon Hayward', 'Ariel Hukporti'}",True
+33,"December 2, 2020","{'WAS', 'HOU'}","{'Russell Westbrook', 'John Wall'}",True
+34,"December 8, 2020","{'PHI', 'OKC'}","{'Vasilije MiciÄ\x87', 'Vincent Poirier', 'ThÃ©o Maledon', 'Terrance Ferguson', 'Al Horford', 'Danny Green'}",True
+35,"January 16, 2021","{'BRK', 'CLE', 'IND', 'HOU'}","{'Victor Oladipo', 'Jarrett Allen', 'Tari Eason', 'Taurean Prince', 'MarJon Beauchamp', 'Caris Levert', 'James Harden', 'Reed Sheppard', 'Tristen Newton', 'Dante Exum', 'Jalen Pickett', 'Rodions Kurucs'}",True
+36,"January 22, 2021","{'CLE', 'HOU'}",{'Kevin Porter Jr.'},True
+37,"February 8, 2021","{'DET', 'NYK'}","{'Dennis Smith', 'Isaiah Livers', 'Derrick Rose'}",True
+38,"March 13, 2021","{'DET', 'OKC'}","{'Hamidou Diallo', 'Sviatoslav Mykhailiuk'}",True
+39,"March 17, 2021","{'MIA', 'OKC'}","{'Trevor Ariza', 'Meyers Leonard'}",True
+40,"March 18, 2021","{'MIL', 'PHO'}",{'Torrey Craig'},False
+41,"March 19, 2021","{'MIL', 'HOU'}","{'D.J. Augustin', 'P.J. Tucker', 'D.J. Wilson', 'Kobe Brown', 'MarJon Beauchamp', 'Rodions Kurucs', 'Josh Christopher', 'Isaiah Todd'}",True
+42,"March 22, 2021","{'LAC', 'SAC'}",{'Mfiondu Kabengele'},True
+43,"March 25, 2021","{'PHI', 'OKC', 'NYK'}","{'Vincent Poirier', 'Jericho Sims', 'George Hill', 'Ignas Brazdeikis', 'Emir PreldÅ¾iÄ\x87', 'Terrance Ferguson', 'Tony Bradley', 'Austin Rivers'}",True
+44,"March 25, 2021","{'ORL', 'CHI'}","{'Franz Wagner', 'Nikola VuÄ\x8deviÄ\x87', 'Jett Howard', 'Wendell Carter Jr.', 'Otto Porter', 'Al-Farouq Aminu'}",True
+45,"March 25, 2021","{'POR', 'TOR'}","{'Norman Powell', 'Rodney Hood', 'Gary Trent Jr.'}",False
+46,"March 25, 2021","{'WAS', 'BOS', 'CHI'}","{'Troy Brown Jr.', 'Moritz Wagner', 'Daniel Theis', 'Chandler Hutchison', 'Javonte Green', 'Luke Kornet', 'Daniel Gafford'}",False
+47,"March 25, 2021","{'MIA', 'SAC'}","{'Chris Silva', 'Nemanja Bjelica', 'Maurice Harkless'}",False
+48,"March 25, 2021","{'LAC', 'ATL'}","{'Rajon Rondo', 'Lou Williams', 'Julian Phillips'}",True
+49,"March 25, 2021","{'TOR', 'SAC'}",{'Dalano Banton'},True
+50,"March 25, 2021","{'MIA', 'HOU'}","{'Victor Oladipo', 'Kelly Olynyk', 'Avery Bradley'}",True
+51,"March 25, 2021","{'GSW', 'CHO'}",{'Brad Wanamaker'},True
+52,"March 25, 2021","{'GSW', 'SAS'}","{'Marquese Chriss', 'Cady Lalane'}",False
+53,"March 25, 2021","{'DEN', 'ORL'}","{'Gary Clark', 'R.J. Hampton', 'Aaron Gordon', 'Gary Harris'}",True
+54,"March 25, 2021","{'BOS', 'ORL'}","{'Evan Fournier', 'Jeff Teague'}",False
+55,"March 25, 2021","{'DEN', 'CLE'}","{'JaVale McGee', 'Isaiah Hartenstein'}",True
+56,"March 25, 2021","{'DET', 'SAC'}","{'Luka Garza', 'Cory Joseph', 'Delon Wright'}",True
+57,"March 25, 2021","{'NOP', 'DAL'}","{'Charles Bassey', 'J.J. Redick', 'James Johnson', 'Wesley Iwundu', 'NicolÃ² Melli'}",True
+58,"March 25, 2021","{'TOR', 'UTA'}","{'David Johnson', 'Matt Thomas'}",True
+59,"June 18, 2021","{'BOS', 'OKC'}","{'Moses Brown', 'Kemba Walker', 'Amari Bailey', 'Alperen Å\x9eengÃ¼n', 'Al Horford'}",True

@@ -1,0 +1,45 @@
+,date,teams,players,includes_draft_picks
+0,"July 23, 2003","{'MIN', 'PHI', 'NYK', 'ATL'}","{'Keith Van Horn', 'Latrell Sprewell', 'Randy Holcomb', 'Marc Jackson', 'Glenn Robinson', 'Terrell Brandon', 'Daniel Gibson'}",True
+1,"July 24, 2003","{'SAC', 'SAS', 'IND'}","{'Danny Ferry', 'Hedo TÃ¼rkoÄ\x9flu', 'Brad Miller', 'Scot Pollard', 'Ron Mercer'}",False
+2,"July 29, 2003","{'BOS', 'CLE'}","{'J.R. Bremer', 'Bruno Å\xa0undov', 'Ryan Gomes', 'Jumaine Jones'}",True
+3,"August 5, 2003","{'UTA', 'SAC'}","{'Luis Flores', 'Stanko BaraÄ\x87', 'Keon Clark', 'Ricky Minard'}",True
+4,"August 18, 2003","{'GSW', 'DAL'}","{'Evan Eschmeyer', 'Antawn Jamison', 'Danny Fortson', 'Nick Van Exel', 'JiÅ\x99Ã\xad Welsch', 'Chris Mills', 'Avery Johnson', 'Popeye Jones', 'Antoine Rigaudeau'}",False
+5,"August 21, 2003","{'GSW', 'DET'}","{'Bob Sura', 'Pepe SÃ¡nchez', 'Clifford Robinson'}",False
+6,"August 28, 2003","{'DET', 'TOR'}","{'Michael Curry', 'Lindsey Hunter'}",False
+7,"September 28, 2003","{'LAC', 'SEA'}","{'Andre Emmett', 'Predrag Drobnjak'}",True
+8,"September 30, 2003","{'UTA', 'HOU'}","{'Luis Flores', 'Robert Whaley', 'Glen Rice', 'John Amaechi', 'Pavel Podkolzin', 'Dee Brown'}",True
+9,"September 30, 2003","{'PHO', 'MEM'}","{'Bo Outlaw', 'Jake Tsakalidis', 'Brevin Knight', 'Cezary TrybaÅ\x84ski', 'Robert Archibald'}",False
+10,"October 20, 2003","{'BOS', 'DAL'}","{'Delonte West', 'Raef LaFrentz', 'JiÅ\x99Ã\xad Welsch', 'Chris Mills', 'Tony Delk', 'Antoine Walker'}",True
+11,"October 25, 2003","{'SAS', 'CHI'}",{'Erick Barkley'},False
+12,"November 5, 2003","{'PHO', 'WAS'}","{'Brevin Knight', 'Jahidi White'}",False
+13,"December 1, 2003","{'TOR', 'CHI'}","{'Chris Jefferies', 'Jalen Rose', 'Antonio Davis', 'Lonny Baxter', 'Jerome Williams', 'Donyell Marshall'}",False
+14,"December 3, 2003","{'POR', 'MEM'}","{'Sergei Monia', 'Bonzi Wells', 'Wesley Person'}",True
+15,"December 15, 2003","{'BOS', 'CLE'}","{'Ryan Gomes', 'Kedrick Brown', 'Michael Stewart', 'Chris Mihm', 'Tony Battie', 'Ricky Davis', 'Eric Williams'}",True
+16,"December 16, 2003","{'TOR', 'CHI'}","{'Roger Mason', 'Rick Brunson'}",False
+17,"December 23, 2003","{'PHI', 'ORL'}","{'Monty Williams', 'Viktor Sanikidze'}",True
+18,"December 23, 2003","{'PHO', 'ORL'}","{'Antonio Burks', 'Donnell Harvey'}",True
+19,"December 26, 2003","{'PHO', 'ORL'}",{'Robert Archibald'},True
+20,"December 30, 2003","{'NYK', 'HOU'}","{'Moochie Norris', 'Clarence Weatherspoon', 'John Amaechi'}",False
+21,"January 2, 2004","{'TOR', 'ORL'}","{'Remon Van der Hare', 'Roko UkiÄ\x87', 'Robert Archibald', 'Travis Diener', 'Mengke Bateer'}",True
+22,"January 5, 2004","{'PHO', 'NYK'}","{'Kirk Snyder', 'Anfernee Hardaway', 'Charlie Ward', 'Milos Vujanic', 'Antonio McDyess', 'Cezary TrybaÅ\x84ski', 'Stephon Marbury', 'Maciej Lampe', 'Howard Eisley', 'Gordon Hayward'}",True
+23,"January 21, 2004","{'POR', 'CLE'}","{'Darius Miles', 'Jeff McInnis', 'Ruben Boumtje-Boumtje'}",False
+24,"February 9, 2004","{'POR', 'ATL'}","{'Dan Dickau', 'Rasheed Wallace', 'Shareef Abdur-Rahim', 'Wesley Person', 'Theo Ratliff'}",False
+25,"February 15, 2004","{'MIL', 'NYK', 'ATL'}","{'Keith Van Horn', 'Tim Thomas', 'Nazr Mohammed', 'Joel Przybilla', 'Ronny Turiaf', 'Michael Doleac'}",True
+26,"February 19, 2004","{'DET', 'BOS', 'ATL'}","{'Rasheed Wallace', 'Tony Allen', 'Bob Sura', 'Lindsey Hunter', 'Å½eljko RebraÄ\x8da', 'Chris Mills', 'Mike James', 'Chucky Atkins', 'Josh Smith'}",True
+27,"February 19, 2004","{'ORL', 'UTA'}","{'Stanko BaraÄ\x87', 'Gordan GiriÄ\x8dek', 'DeShawn Stevenson'}",True
+28,"February 19, 2004","{'PHO', 'UTA'}","{'Kirk Snyder', 'Keon Clark', 'Tom Gugliotta', 'Ben Handlogten', 'Gordon Hayward', 'Alex Acker'}",True
+29,"February 19, 2004","{'NOH', 'ORL'}","{'Sean Rooks', 'Shammond Williams'}",False
+30,"June 22, 2004",{'LAC'},"{'Shaun Livingston', 'Lionel Chalmers', 'Emeka Okafor'}",True
+31,"June 22, 2004",{'PHO'},{'Sean May'},True
+32,"June 23, 2004",{'MIL'},"{'Bernard Robinson', 'Zaza Pachulia'}",True
+33,"June 23, 2004",{'CLE'},"{'Sasha PavloviÄ\x87', 'Jared Dudley'}",True
+34,"June 24, 2004","{'SAS', 'ATL'}","{'Cenk Akyol', 'Viktor Sanikidze'}",True
+35,"June 24, 2004","{'DAL', 'UTA'}","{'Linas Kleiza', 'Pavel Podkolzin'}",True
+36,"June 24, 2004","{'DEN', 'ORL'}","{'Jameer Nelson', 'Julius Hodge'}",True
+37,"June 24, 2004","{'PHO', 'CHI'}","{'Luol Deng', 'Nate Robinson', 'Jackson Vroman'}",True
+38,"June 24, 2004","{'DAL', 'HOU'}","{'Luis Flores', 'Vassilis Spanoulis'}",False
+39,"June 24, 2004","{'WAS', 'DAL'}","{'Christian Laettner', 'Jerry Stackhouse', 'Devin Harris', 'Antawn Jamison'}",False
+40,"June 24, 2004","{'NJN', 'POR'}","{'Eddie Gill', 'Viktor Khryapa'}",False
+41,"June 24, 2004","{'MEM', 'SEA'}","{'Andre Emmett', 'MickaÃ«l Gelabale'}",True
+42,"June 24, 2004","{'MIA', 'TOR'}","{'Pape Sow', 'Albert Miralles', 'UroÅ¡ Slokar'}",True
+43,"June 29, 2004","{'ORL', 'HOU'}","{'Reece Gaines', 'Steve Francis', 'Tyronn Lue', 'Tracy McGrady', 'Juwan Howard', 'Cuttino Mobley', 'Kelvin Cato'}",False

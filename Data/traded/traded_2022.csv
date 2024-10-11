@@ -1,0 +1,73 @@
+,date,teams,players,includes_draft_picks
+0,"July 29, 2021","{'LAC', 'ORL'}",{'Jason Preston'},True
+1,"July 30, 2021","{'OKC', 'UTA'}",{'Derrick Favors'},True
+2,"July 30, 2021","{'MIL', 'IND'}","{'Cam Christie', 'Sandro Mamukelashvili', 'Isaiah Todd', 'Georgios Kalaitzakis'}",True
+3,"July 30, 2021","{'CHO', 'NYK'}",{'Kai Jones'},True
+4,"July 30, 2021","{'LAC', 'NYK'}","{'Jonathan Mogbo', 'Quentin Grimes', 'Keon Johnson'}",True
+5,"July 30, 2021","{'OKC', 'NYK'}","{'Miles McBride', 'Rokas Jokubaitis', 'Jeremiah Robinson-Earl'}",False
+6,"July 30, 2021","{'OKC', 'HOU'}",{'Alperen Å\x9eengÃ¼n'},True
+7,"July 30, 2021","{'NOP', 'POR'}",{'Greg Brown III'},True
+8,"July 31, 2021","{'BOS', 'DAL'}","{'Josh Richardson', 'Moses Brown'}",False
+9,"August 2, 2021","{'MIN', 'CLE'}","{'Taurean Prince', 'Ricky Rubio', 'Bryce McGowens'}",True
+10,"August 6, 2021","{'PHO', 'BRK'}","{""Day'Ron Sharpe"", 'Landry Shamet', 'Jevon Carter'}",False
+11,"August 6, 2021","{'SAS', 'WAS', 'LAL', 'BRK', 'IND'}","{'Montrezl Harrell', 'Tristan Vukcevic', 'Nikola Milutinov', 'Kyle Filipowski', 'Bobi Klintman', 'Kyle Kuzma', 'Chandler Hutchison', 'Spencer Dinwiddie', 'Kentavious Caldwell-Pope', 'Aaron Holiday', 'Isaiah Jackson', 'Christian Koloko', 'Russell Westbrook', 'Isaiah Todd'}",True
+12,"August 6, 2021","{'MIA', 'TOR'}","{'Goran Dragic', 'Kyle Lowry', 'Precious Achiuwa'}",False
+13,"August 6, 2021","{'DET', 'CHO'}","{'JT Thor', 'BalÅ¡a Koprivica', 'Mason Plumlee'}",False
+14,"August 7, 2021","{'HOU', 'CHI'}",{'Daniel Theis'},False
+15,"August 7, 2021","{'GSW', 'UTA'}",{'Eric Paschall'},False
+16,"August 7, 2021","{'MEM', 'UTA'}","{'Santi Aldama', 'Jared Butler', 'Jabari Walker'}",True
+17,"August 7, 2021","{'NOP', 'LAC'}",{'Brandon Boston Jr.'},True
+18,"August 7, 2021","{'MIL', 'MEM'}","{'Sam Merrill', 'Grayson Allen'}",False
+19,"August 7, 2021","{'SAC', 'BOS', 'ATL'}","{'Julian Phillips', 'Delon Wright', 'Tristan Thompson', 'Bruno Fernando', 'Kris Dunn'}",True
+20,"August 7, 2021","{'CHO', 'MEM', 'NOP'}","{'Mark Williams', 'Brandon Boston Jr.', 'Trey Murphy III', 'Jared Butler', 'Jonas ValanÄ\x8diÅ«nas', 'Eric Bledsoe', 'Ziaire Williams', 'Vince Williams Jr.', 'Steven Adams', 'Tyler Harvey', 'Wesley Iwundu', ""Devonte' Graham""}",True
+21,"August 7, 2021","{'SAS', 'IND'}",{'Doug McDermott'},True
+22,"August 7, 2021","{'MIL', 'MEM'}",{'Cam Christie'},True
+23,"August 8, 2021","{'NOP', 'CHI'}","{'TomÃ¡Å¡ SatoranskÃ½', 'Lonzo Ball', 'Adem Bona', 'Garrett Temple'}",True
+24,"August 11, 2021","{'SAS', 'CHI'}","{'DeMar DeRozan', 'Thaddeus Young', 'Al-Farouq Aminu', 'Kennedy Chandler'}",True
+25,"August 16, 2021","{'LAC', 'MEM'}","{'Eric Bledsoe', 'Rajon Rondo', 'Daniel Oturu', 'Patrick Beverley'}",False
+26,"August 17, 2021","{'BOS', 'NYK'}","{'Amari Bailey', 'Evan Fournier'}",True
+27,"August 25, 2021","{'MIN', 'MEM'}","{'Juan Hernangomez', 'Jarrett Culver', 'Patrick Beverley'}",False
+28,"August 28, 2021","{'POR', 'CLE', 'CHI'}","{'Derrick Jones Jr.', 'Lauri Markkanen', 'Larry Nance Jr.'}",True
+29,"September 4, 2021","{'DET', 'BRK'}","{'Kyle Filipowski', 'Sekou Doumbouya', 'DeAndre Jordan', 'Ismael Kamagate', 'Jahlil Okafor'}",True
+30,"September 10, 2021","{'LAL', 'MEM'}","{'Marc Gasol', 'Wang Zhelin'}",True
+31,"September 15, 2021","{'BOS', 'MEM'}","{'Juan Hernangomez', 'Kris Dunn', 'Carsen Edwards'}",True
+32,"October 6, 2021","{'BRK', 'IND'}","{'Juan Pablo Vaulet', 'Edmond Sumner'}",True
+33,"October 6, 2021","{'BRK', 'HOU'}","{'Sekou Doumbouya', 'Jaylen Wells'}",True
+34,"January 3, 2022","{'LAL', 'CLE', 'NYK'}","{'Denzel Valentine', 'Rajon Rondo', 'Wang Zhelin', 'Louis Labeyrie', 'Brad Newley'}",False
+35,"January 4, 2022","{'OKC', 'UTA'}",{'Miye Oni'},False
+36,"January 10, 2022","{'DEN', 'DET'}","{'Bol Bol', 'Rodney McGruder'}",True
+37,"January 13, 2022","{'NYK', 'ATL'}","{'Kevin Knox', 'Cam Reddish', 'Solomon Hill'}",True
+38,"January 19, 2022","{'SAS', 'DEN', 'BOS'}","{'Juan Hernangomez', 'PJ Dozier', 'Bol Bol', 'Bryn Forbes'}",True
+39,"February 4, 2022","{'POR', 'LAC'}","{'Robert Covington', 'Keon Johnson', 'Eric Bledsoe', 'Justise Winslow', 'Norman Powell'}",True
+40,"February 7, 2022","{'CLE', 'IND'}","{'Luke Travers', 'Ben Sheppard', 'Caris Levert', 'Andrew Nembhard', 'Ricky Rubio'}",True
+41,"February 8, 2022","{'SAC', 'IND'}","{'Jordan Walsh', 'Tyrese Haliburton', 'Buddy Hield', 'Tristan Thompson', 'Justin Holiday', 'Domantas Sabonis', 'Jeremy Lamb'}",True
+42,"February 8, 2022","{'NOP', 'POR'}","{'CJ McCollum', 'Nickeil Alexander-Walker', 'Larry Nance Jr.', 'Josh Hart', 'Didi Louzada', 'Tony Snell', 'Tomas Satoransky'}",True
+43,"February 9, 2022","{'SAS', 'POR', 'UTA'}","{'Joe Ingles', 'Nickeil Alexander-Walker', 'Juan Hernangomez', 'Jabari Walker', 'Elijah Hughes', 'Tomas Satoransky'}",True
+44,"February 9, 2022","{'MIA', 'OKC'}","{'KZ Okpala', 'Jaime Jaquez Jr.'}",True
+45,"February 10, 2022","{'SAS', 'BOS'}","{'Josh Richardson', 'Derrick White', 'Blake Wesley', 'Romeo Langford'}",True
+46,"February 10, 2022","{'WAS', 'DAL'}","{'Yannick Nzosa', 'Spencer Dinwiddie', 'Kristaps Porzingis', 'Davis Bertans'}",True
+47,"February 10, 2022","{'PHI', 'BRK'}","{'Andre Drummond', 'Seth Curry', 'Ben Simmons', 'James Harden', 'Paul Millsap', 'Brice Sensabaugh'}",True
+48,"February 10, 2022","{'BOS', 'HOU'}","{'Daniel Theis', 'Bruno Fernando', 'Dennis Schroder', 'Enes Freedom'}",False
+49,"February 10, 2022","{'PHO', 'IND'}","{'Hugo Besson', 'Jalen Smith', 'Torrey Craig'}",True
+50,"February 10, 2022","{'MIL', 'DET', 'LAC', 'SAC'}","{'David Michineau', 'Josh Jackson', 'Vanja Marinkovic', 'Semi Ojeleye', 'Serge Ibaka', 'Rodney Hood', 'Marvin Bagley III', 'Trey Lyles', 'Donte DiVincenzo', 'Tyler Smith', 'Isaiah Wong'}",True
+51,"February 10, 2022","{'CHO', 'WAS'}","{'Ish Smith', 'Trayce Jackson-Davis', 'Montrezl Harrell', 'Vernon Carey Jr.'}",True
+52,"February 10, 2022","{'PHO', 'WAS'}",{'Aaron Holiday'},False
+53,"February 10, 2022","{'SAS', 'TOR'}","{'Malaki Branham', 'Thaddeus Young', 'Goran Dragic', 'Christian Koloko', 'Drew Eubanks'}",True
+54,"February 10, 2022","{'BOS', 'ORL'}","{'PJ Dozier', 'Bol Bol'}",True
+55,"June 23, 2022","{'CLE', 'SAC'}","{'Isaiah Mobley', 'Sasha Vezenkov'}",True
+56,"June 23, 2022","{'OKC', 'NYK'}","{'Ousmane Dieng', 'Nick Smith Jr.'}",True
+57,"June 23, 2022","{'CHO', 'NYK'}","{'Cam Spencer', 'Jalen Duren', 'Nick Smith Jr.', 'Amari Bailey', 'Mouhamed Gueye', 'Jaylen Clark'}",True
+58,"June 23, 2022","{'DEN', 'OKC'}","{'Maxwell Lewis', 'JaMychal Green', 'Peyton Watson', 'Tyler Kolek'}",True
+59,"June 23, 2022","{'SAS', 'MEM'}","{'Harrison Ingram', 'Kennedy Chandler'}",True
+60,"June 23, 2022","{'DAL', 'SAC'}","{'Jaden Hardy', 'Anton Watson'}",True
+61,"June 23, 2022","{'MIN', 'CHO'}","{'Josh Minott', 'Jaylen Clark', 'Bryce McGowens'}",True
+62,"June 23, 2022","{'GSW', 'ATL'}","{'Tyrese Martin', 'Ryan Rollins'}",False
+63,"June 23, 2022","{'LAL', 'ORL'}",{'Max Christie'},True
+64,"June 24, 2022","{'DAL', 'HOU'}","{'Sterling Brown', 'Christian Wood', 'Marquese Chriss', 'Trey Burke', 'Boban MarjanoviÄ\x87', 'Wendell Moore Jr.'}",False
+65,"June 24, 2022","{'MIN', 'MEM'}","{'Walker Kessler', 'Jake LaRavia', 'Gregory Jackson', 'TyTy Washington Jr.'}",True
+66,"June 24, 2022","{'MIN', 'IND'}",{'Kendall Brown'},True
+67,"June 24, 2022","{'MIL', 'IND'}",{'Hugo Besson'},False
+68,"June 24, 2022","{'MIN', 'HOU'}","{'TyTy Washington Jr.', 'Wendell Moore Jr.'}",True
+69,"June 24, 2022","{'PHI', 'MEM'}","{'David Roddy', ""De'Anthony Melton"", 'Danny Green'}",False
+70,"June 30, 2022","{'BRK', 'UTA'}","{'Brice Sensabaugh', ""Royce O'Neale""}",True
+71,"June 30, 2022","{'SAS', 'ATL'}","{'Dejounte Murray', 'Danilo Gallinari', 'Jock Landale'}",True

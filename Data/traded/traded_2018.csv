@@ -1,0 +1,45 @@
+,date,teams,players,includes_draft_picks
+0,"July 6, 2017","{'OKC', 'IND'}","{'Paul George', 'Victor Oladipo', 'Domantas Sabonis'}",False
+1,"July 6, 2017","{'LAC', 'PHI'}",{'Jawun Evans'},False
+2,"July 6, 2017","{'MIL', 'PHI'}",{'Sterling Brown'},False
+3,"July 6, 2017","{'DEN', 'LAC', 'ATL'}","{'Danilo Gallinari', 'Jamal Crawford', 'Diamond Stone', 'Cody Martin', 'Omari Spellman'}",True
+4,"July 7, 2017","{'DET', 'BOS'}","{'Marcus Morris', 'Isaiah Roby', 'Avery Bradley'}",True
+5,"July 7, 2017","{'MIA', 'DAL'}","{'Keyontae Johnson', 'Josh McRoberts', 'A.J. Hammons'}",True
+6,"July 13, 2017","{'TOR', 'BRK'}","{'DeMarre Carroll', 'DÅ¾anan Musa', 'Rodions Kurucs', 'Justin Hamilton'}",True
+7,"July 14, 2017","{'TOR', 'IND'}","{'Cory Joseph', 'Emir PreldÅ¾iÄ\x87'}",False
+8,"July 14, 2017","{'NYK', 'SAC'}",{'Ignas Brazdeikis'},True
+9,"July 25, 2017","{'POR', 'BRK'}","{'Andrew Nicholson', 'Allen Crabbe'}",False
+10,"August 30, 2017","{'BOS', 'CLE'}","{'Ante Å½iÅ¾iÄ\x87', 'Collin Sexton', 'Kyrie Irving', 'Isaiah Thomas', 'Jae Crowder', 'Skylar Mays'}",True
+11,"September 1, 2017","{'NOP', 'CHI'}","{'Quincy Pondexter', 'Ater Majok', 'Tony Carr'}",True
+12,"September 22, 2017","{'PHO', 'MEM'}","{'Troy Daniels', 'Jarred Vanderbilt'}",True
+13,"September 25, 2017","{'OKC', 'NYK'}","{'Carmelo Anthony', 'Mitchell Robinson', 'Doug McDermott', 'Enes Kanter'}",True
+14,"September 25, 2017","{'LAC', 'ATL'}",{'DeAndre Liggins'},True
+15,"October 14, 2017","{'CLE', 'ATL'}","{'Sergiy Gladyr', 'Kay Felder', 'Dimitrios Agravanis', 'Richard Jefferson', 'Eric Paschall'}",True
+16,"November 7, 2017","{'MIL', 'PHO'}","{'Eric Bledsoe', 'Greg Monroe', 'Desmond Bane'}",True
+17,"December 7, 2017","{'PHI', 'BRK'}","{'Jahlil Okafor', 'Nik Stauskas', 'Nicolas Claxton', 'Trevor Booker'}",True
+18,"January 29, 2018","{'DET', 'LAC'}","{'Blake Griffin', 'Tobias Harris', 'Willie Reed', 'Miles Bridges', 'Jaylen Hands', 'Boban MarjanoviÄ\x87', 'Avery Bradley', 'Brice Johnson'}",True
+19,"February 1, 2018","{'NOP', 'CHI'}","{'Nikola MirotiÄ\x87', 'Tony Allen', 'Chandler Hutchison', 'Ã\x96mer AÅ\x9fÄ±k', 'Tony Carr', 'Jameer Nelson'}",True
+20,"February 5, 2018","{'MIL', 'BRK'}","{'Rashad Vaughn', 'Hamidou Diallo', 'Tyler Zeller'}",True
+21,"February 7, 2018","{'CHO', 'NYK'}","{'Willy HernangÃ³mez', 'Saben Lee', 'Isaiah Livers', ""Johnny O'Bryant""}",True
+22,"February 8, 2018","{'DET', 'CHI'}","{'Isaiah Mobley', 'Willie Reed', 'Jameer Nelson', 'Christian Koloko'}",True
+23,"February 8, 2018","{'MIA', 'ATL'}","{'Okaro White', 'Luke Babbitt'}",False
+24,"February 8, 2018","{'MIA', 'CLE'}",{'Dwyane Wade'},True
+25,"February 8, 2018","{'LAL', 'CLE'}","{'Channing Frye', 'Moritz Wagner', 'Larry Nance Jr.', 'Isaiah Thomas', 'Jordan Clarkson'}",True
+26,"February 8, 2018","{'NOP', 'BRK'}","{'Rashad Vaughn', 'Dante Cunningham'}",False
+27,"February 8, 2018","{'POR', 'CHI'}","{'Milovan RakoviÄ\x87', 'Noah Vonleh'}",False
+28,"February 8, 2018","{'WAS', 'ATL'}",{'Sheldon Mac'},True
+29,"February 8, 2018","{'DEN', 'DAL', 'NYK'}","{'Justin Jackson', 'Emmanuel Mudiay', 'Doug McDermott', 'Shake Milton', 'Devin Harris'}",True
+30,"February 8, 2018","{'CLE', 'UTA', 'SAC'}","{'ArtÅ«ras Gudaitis', 'Derrick Rose', 'Dimitrios Agravanis', 'George Hill', 'Joe Johnson', 'Iman Shumpert', 'Rodney Hood', 'Jae Crowder', 'Skylar Mays'}",True
+31,"February 8, 2018","{'DET', 'MEM'}","{'Isaiah Mobley', 'James Ennis', 'Brice Johnson'}",True
+32,"February 8, 2018","{'PHO', 'ORL'}","{'Elfrid Payton', 'Jarred Vanderbilt'}",True
+33,"February 8, 2018","{'TOR', 'SAC'}","{'Malachi Richardson', 'Bruno Caboclo'}",False
+34,"June 21, 2018","{'DAL', 'ATL'}","{'Trae Young', 'Cam Reddish', 'Luka DonÄ\x8diÄ\x87'}",True
+35,"June 21, 2018","{'PHO', 'PHI'}","{'Mikal Bridges', 'Tre Mann', 'Zhaire Smith'}",True
+36,"June 21, 2018","{'CHO', 'ATL'}","{'Colby Jones', 'Bol Bol', ""Devonte' Graham""}",True
+37,"June 21, 2018","{'CHO', 'LAC'}","{'Shai Gilgeous-Alexander', 'Scottie Lewis', 'Miles Bridges', 'Vernon Carey Jr.'}",True
+38,"June 21, 2018","{'PHI', 'DAL'}","{'Kostas Antetokounmpo', 'Ray Spalding', 'Shake Milton'}",False
+39,"June 21, 2018","{'DEN', 'ORL'}","{'Jarred Vanderbilt', 'Justin Jackson', 'Cody Martin'}",True
+40,"June 21, 2018","{'DET', 'PHI'}","{'Jeremiah Robinson-Earl', 'James Nnaji', 'Khyri Thomas'}",True
+41,"June 21, 2018","{'POR', 'SAC'}","{'Justin James', 'Sharife Cooper', 'Gary Trent Jr.'}",True
+42,"June 22, 2018","{'UTA', 'HOU'}",{'Vince Edwards'},False
+43,"June 26, 2018","{'WAS', 'LAC'}","{'Marcin Gortat', 'Austin Rivers'}",False

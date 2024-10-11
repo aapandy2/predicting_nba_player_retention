@@ -1,0 +1,33 @@
+,date,teams,players,includes_draft_picks
+0,"August 1, 1999","{'TOR', 'IND'}","{'Jonathan Bender', 'Antonio Davis'}",False
+1,"August 2, 1999","{'POR', 'ATL'}","{'Isaiah Rider', 'Ed Gray', 'Jim Jackson', 'Steve Smith'}",False
+2,"August 3, 1999","{'ORL', 'SAC'}","{'Kendrick Perkins', 'Tariq Abdul-Wahad', 'Nick Anderson'}",True
+3,"August 3, 1999","{'DEN', 'BOS'}","{'Eric Washington', 'Kedrick Brown', 'Danny Fortson', 'Dwayne Schintzius', 'Ron Mercer', 'Popeye Jones', 'Eric Williams'}",True
+4,"August 4, 1999","{'LAC', 'CLE'}","{'Johnny Newman', 'Lamond Murray', 'Derek Anderson'}",False
+5,"August 5, 1999","{'PHO', 'ORL'}","{'Anfernee Hardaway', 'Danny Manning', 'Pat Garrity', ""Amar'e Stoudemire"", 'Jason Collins'}",True
+6,"August 8, 1999","{'LAC', 'ATL'}","{'Lorenzen Wright', 'Quentin Richardson', 'Chris Wilcox'}",True
+7,"August 11, 1999","{'WAS', 'ORL'}","{'Terry Davis', 'Isaac Austin', 'Ben Wallace', 'Tim Legler', 'Jeff McInnis'}",False
+8,"August 12, 1999","{'SEA', 'CHI'}","{'Hersey Hawkins', 'James Cotton', 'Brent Barry'}",False
+9,"August 13, 1999","{'PHI', 'ORL'}","{'Anthony Parker', 'Billy Owens', 'Harvey Grant'}",False
+10,"August 19, 1999","{'MIL', 'ORL'}","{'Dale Ellis', 'Armen Gilliam', 'Danny Manning', 'Chris Gatling'}",False
+11,"August 27, 1999","{'VAN', 'ORL', 'HOU'}","{'Don MacLean', 'Michael Dickerson', 'Brent Price', 'Steve Francis', 'Michael Smith', 'Lee Mayberry', 'Rodrick Rhodes', 'Othella Harrington', 'Matt Barnes', 'Tony Massenburg', ""Makhtar N'Diaye"", 'Antoine Carr', 'Marcus Banks', 'Jason Collins'}",True
+12,"September 1, 1999","{'LAL', 'DAL'}","{'Sean Rooks', 'A.C. Green', 'Pete Mickeal'}",True
+13,"September 22, 1999","{'WAS', 'ORL'}","{'Omar Cook', 'Laron Profit'}",True
+14,"September 23, 1999","{'NJN', 'LAC'}","{'Johnny Newman', 'Eric Murdock'}",False
+15,"September 29, 1999","{'DAL', 'CHI'}","{'Chris Anstey', 'Dan Langhi'}",True
+16,"October 2, 1999","{'POR', 'HOU'}","{'Ed Gray', 'Carlos Rogers', 'Stacey Augmon', 'Walt Williams', 'Scottie Pippen', 'Brian Shaw', 'Kelvin Cato'}",False
+17,"January 18, 2000","{'MIL', 'CHH'}","{'Jason Hart', 'Chris Owens', 'Dale Ellis'}",True
+18,"February 1, 2000","{'DEN', 'ORL'}","{'Chauncey Billups', 'Johnny Taylor', 'Chris Gatling', 'Ron Mercer', 'Tariq Abdul-Wahad'}",True
+19,"February 16, 2000","{'GSW', 'PHI', 'CHI'}","{'Larry Hughes', 'Toni KukoÄ\x8d', 'Chris Mihm', 'Billy Owens', 'John Starks', 'Bruce Bowen'}",True
+20,"February 24, 2000","{'ORL', 'ATL'}","{'Viktor Sanikidze', 'Anthony Johnson'}",True
+21,"June 23, 2000","{'DEN', 'UTA'}","{""Mamadou N'Diaye"", 'Joseph Forte'}",True
+22,"June 27, 2000","{'GSW', 'CLE', 'MIL'}","{'Jason Caffey', 'Vinny Del Negro', 'J.R. Reid', 'Bob Sura', 'Billy Owens', 'Robert Traylor'}",False
+23,"June 27, 2000","{'DEN', 'MIA'}","{'Voshon Lenard', 'Eddie House', 'Mark Strickland', 'Chris Gatling'}",True
+24,"June 28, 2000","{'BOS', 'SEA'}","{'Josip Sesar', 'Earl Watson', 'Michael Wright'}",True
+25,"June 28, 2000","{'CLE', 'CHI'}","{'Chris Mihm', 'Jamal Crawford'}",False
+26,"June 28, 2000","{'MIL', 'HOU'}","{'Jeryl Sasser', 'Joel Przybilla', 'Jason Collier'}",True
+27,"June 28, 2000","{'DAL', 'ORL'}","{'Brandon Armstrong', 'Courtney Alexander'}",True
+28,"June 28, 2000","{'DAL', 'HOU'}","{'Kyle Hill', 'Eduardo NÃ¡jera', 'Dan Langhi'}",True
+29,"June 28, 2000","{'LAC', 'ORL'}","{'Keyon Dooling', 'Marcus Williams', 'Corey Maggette', 'Derek Strong'}",True
+30,"June 28, 2000","{'DAL', 'NYK'}","{'John Wallace', 'Pete Mickeal', 'Erick Strickland', 'Donnell Harvey'}",False
+31,"June 28, 2000","{'LAC', 'DAL'}","{'Sean Rooks', 'Eric Murdock'}",False

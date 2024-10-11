@@ -1,0 +1,41 @@
+,date,teams,players,includes_draft_picks
+0,"August 7, 1997","{'VAN', 'DET'}","{'Darko MiliÄ\x8diÄ\x87', 'Otis Thorpe'}",True
+1,"August 12, 1997","{'MIA', 'SAC'}","{'Matt Fish', 'Duane Causwell', 'Gary Grant'}",True
+2,"August 12, 1997","{'GSW', 'IND'}","{'Chris Mullin', 'Duane Ferrell', 'Erick Dampier'}",False
+3,"August 21, 1997","{'DEN', 'BOS'}","{'Earl Watson', 'Eric Williams', 'Kris Clack'}",True
+4,"September 22, 1997","{'GSW', 'CHI'}","{'Dickey Simpkins', 'Scott Burrell'}",False
+5,"September 24, 1997","{'DAL', 'ORL'}","{'Derek Harper', ""Ed O'Bannon"", 'Dennis Scott'}",False
+6,"September 25, 1997","{'MIL', 'CLE', 'SEA'}","{'Sherman Douglas', 'Pat Garrity', 'Vin Baker', 'Tyrone Hill', 'Shawn Kemp', 'Terrell Brandon'}",True
+7,"September 29, 1997","{'DEN', 'ATL'}","{'Hanno MÃ¶ttÃ¶lÃ¤', 'Priest Lauderdale', 'Efthimis Rentzias'}",True
+8,"October 1, 1997","{'PHO', 'DEN', 'CLE'}","{'Tony Dumas', 'Sean May', 'Rod Grizzard', 'Antonio McDyess', 'Tyronn Lue', 'Dan McClintock', 'Joseph Forte', 'Wesley Person', 'James Posey'}",True
+9,"October 2, 1997","{'DEN', 'SEA'}","{'Dale Ellis', 'Greg Graham', 'Ryan Bowen', 'Steve Scheffler', 'Francisco Elson'}",True
+10,"October 10, 1997","{'POR', 'TOR', 'NYK'}","{'Taurean Green', 'Bryce Drew', 'John Wallace', 'Quentin Richardson', 'Chris Dudley'}",True
+11,"October 20, 1997","{'DEN', 'CLE'}","{'Sherman Douglas', 'Eddie House', 'Greg Graham'}",True
+12,"October 22, 1997","{'BOS', 'NYK'}","{'John Thomas', 'DeMarco Johnson', 'Chris Mills', ""Dontae' Jones"", 'Scott Brooks', 'Lavor Postell', 'Walter McCarty'}",True
+13,"October 28, 1997","{'VAN', 'HOU'}","{'Sam Mack', 'Jake Voskuhl'}",True
+14,"October 28, 1997","{'VAN', 'BOS'}","{'Obinna Ekezie', 'Tony Massenburg', 'Roy Rogers'}",True
+15,"October 28, 1997","{'GSW', 'ORL'}","{'Brian Shaw', 'David Vaughn', 'Mark Price'}",False
+16,"November 7, 1997","{'GSW', 'CHH'}","{'Muggsy Bogues', 'B.J. Armstrong', 'Tony Delk'}",False
+17,"November 21, 1997","{'PHO', 'PHI'}","{'Marko MiliÄ\x8d', 'Tom Chambers'}",False
+18,"December 18, 1997","{'DET', 'PHI'}","{'Aaron McKie', 'Jerry Stackhouse', 'Eric Montross', 'Carlos Delfino', 'Theo Ratliff', 'Alex Acker'}",True
+19,"January 18, 1998","{'PHI', 'SEA'}","{'Jelani McCoy', 'Eric Snow'}",True
+20,"February 13, 1998","{'POR', 'TOR'}","{'Mirsad TÃ¼rkcan', 'Damon Stoudamire', 'Bryce Drew', 'Gary Trent', 'Carlos Rogers', 'Kenny Anderson', 'Walt Williams', 'Tyson Wheeler', 'Alvin Williams'}",True
+21,"February 17, 1998","{'GSW', 'PHI'}","{'Brian Shaw', 'Clarence Weatherspoon', 'Jim Jackson', 'Joe Smith'}",False
+22,"February 18, 1998","{'TOR', 'BOS'}","{'Chauncey Billups', 'John Thomas', 'Kenny Anderson', 'Å½an Tabak', 'Popeye Jones', 'Roy Rogers', 'Dee Brown'}",False
+23,"February 18, 1998","{'PHO', 'DAL'}","{'Dennis Scott', 'Cedric Ceballos'}",False
+24,"February 18, 1998","{'VAN', 'SAC'}","{'Chris Robinson', 'Michael Smith', 'Otis Thorpe', 'Bobby Hurley'}",False
+25,"February 18, 1998","{'MIN', 'VAN'}","{'Anthony Peeler', 'Doug West'}",False
+26,"February 19, 1998","{'MIA', 'LAC'}","{'Brian Skinner', 'Isaac Austin', 'Charles Smith', 'Brent Barry'}",True
+27,"February 19, 1998","{'NJN', 'ORL'}","{'Rony Seikaly', 'Kevin Edwards', 'David Benoit', 'Yinka Dare', 'Brian Evans', 'Matt Harpring'}",True
+28,"February 19, 1998","{'GSW', 'CHI'}","{'Jason Caffey', 'A.J. Guyton', 'David Vaughn', 'Shammond Williams'}",True
+29,"February 19, 1998","{'PHI', 'NYK'}","{'Terry Cummings', 'Ron Grandison', 'Herb Williams'}",False
+30,"May 14, 1998","{'WAS', 'SAC'}","{'Chris Webber', 'Mitch Richmond', 'Otis Thorpe'}",False
+31,"June 9, 1998","{'TOR', 'HOU'}","{'Kevin Willis', 'Mirsad TÃ¼rkcan', 'Roy Rogers', 'Bryce Drew'}",True
+32,"June 24, 1998","{'DEN', 'LAL'}","{'Tony Battie', 'Nick Van Exel', 'Tyronn Lue'}",False
+33,"June 24, 1998","{'GSW', 'TOR'}","{'Vince Carter', 'Antawn Jamison'}",False
+34,"June 24, 1998","{'SAS', 'VAN'}","{'Antonio Daniels', 'Carl Herrera', 'Felipe LÃ³pez'}",False
+35,"June 24, 1998","{'PHI', 'UTA'}","{'Nazr Mohammed', 'Quincy Lewis'}",True
+36,"June 24, 1998","{'PHO', 'DAL'}","{'Martin MÃ¼Ã¼rsepp', 'Shawn Marion', 'Steve Nash', 'Pat Garrity', 'Bubba Wells'}",True
+37,"June 24, 1998","{'MIL', 'DAL'}","{'Dirk Nowitzki', 'Pat Garrity', 'Robert Traylor'}",False
+38,"June 24, 1998","{'CHI', 'ATL'}","{'Khalid El-Amin', 'Lari Ketner', 'Cory Carr', 'Shammond Williams'}",True
+39,"June 25, 1998","{'TOR', 'NYK'}","{'Charles Oakley', 'Sean Marks', 'Marcus Camby'}",False

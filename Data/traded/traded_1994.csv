@@ -1,0 +1,24 @@
+,date,teams,players,includes_draft_picks
+0,"July 15, 1993","{'GSW', 'CLE'}","{'Clifford Rozier', 'Tyrone Hill'}",True
+1,"August 2, 1993","{'POR', 'HOU'}","{'Don Reid', 'Mario Elie'}",True
+2,"August 19, 1993","{'DEN', 'ORL'}","{'Rodney Dent', 'Bison Dele', 'Anthony Cook', 'Todd Lichti'}",True
+3,"September 1, 1993","{'CHH', 'SEA'}","{'Carlos Rogers', 'Kendall Gill', 'Dana Barros', 'Eddie Johnson', 'Sharone Wright'}",True
+4,"September 3, 1993","{'CHH', 'PHI'}","{'Sidney Green', 'Hersey Hawkins', 'Greg Graham', 'Dana Barros', 'Sharone Wright'}",True
+5,"October 1, 1993","{'SAS', 'DET'}","{'Sean Elliott', 'Antonio Lang', 'Jerome Williams', 'John Wallace', 'David Wood', 'Isaiah Morris', 'Dennis Rodman'}",True
+6,"October 11, 1993","{'PHI', 'IND'}","{'Sean Green', 'William Njoku'}",True
+7,"November 1, 1993","{'SEA', 'IND'}","{'Derrick McKey', 'Detlef Schrempf', 'Gerald Paddio'}",False
+8,"November 4, 1993","{'MIN', 'CHI'}",{'Jo Jo English'},True
+9,"November 8, 1993","{'PHO', 'SAS'}","{'Negele Knight', 'Antonio Lang'}",True
+10,"November 19, 1993","{'DEN', 'DET'}","{'Mark Macon', 'Marcus Liberty', 'Alvin Robertson'}",True
+11,"December 10, 1993","{'NJN', 'CHH'}","{'Johnny Newman', 'Rumeal Robinson'}",False
+12,"January 6, 1994","{'DAL', 'NYK'}","{'John Thomas', 'Derek Harper', 'Tony Campbell'}",True
+13,"January 15, 1994","{'MIL', 'ORL'}","{'Anthony Avent', 'Rashard Griffith', 'Anthony Cook', 'Eric Mobley'}",True
+14,"February 20, 1994","{'DET', 'SAC'}","{'Cal Bowdler', 'Pete Chilcutt', 'Olden Polynice', 'Jevon Crudup'}",True
+15,"February 23, 1994","{'MIN', 'CHI'}","{'Stacey King', 'Dragan TarlaÄ\x87', 'Luc Longley'}",True
+16,"February 24, 1994","{'MIL', 'CHH'}","{'Mike Gminski', 'Frank Brickowski', 'Paul Grant'}",True
+17,"February 24, 1994","{'PHI', 'UTA'}","{'Junior Burrough', 'Sean Green', 'B.J. Tyler', 'Jeff Malone', 'Jeff Hornacek'}",True
+18,"February 24, 1994","{'LAC', 'ATL'}","{'Dominique Wilkins', 'Greg Minor', 'Danny Manning'}",True
+19,"June 22, 1994","{'MIL', 'ATL'}","{'Ken Norman', 'Roy Hinson'}",False
+20,"June 29, 1994","{'MIN', 'SEA'}","{'Å½eljko RebraÄ\x8da', 'Joseph Blair'}",True
+21,"June 29, 1994","{'MIL', 'BOS'}","{'Blue Edwards', 'Ed Pinckney', 'Andrei Fetisov', 'Derek Strong'}",False
+22,"June 30, 1994","{'LAC', 'IND'}","{'Eric Piatkowski', 'Mark Jackson', 'Greg Minor', 'Pooh Richardson', 'Malik Sealy'}",False
