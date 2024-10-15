@@ -1,57 +1,57 @@
-,date,teams,players,includes_draft_picks
-0,"July 9, 2008","{'TOR', 'IND'}","{'Nathan Jawai', 'Rasho NesteroviÄ\x87', 'Maceo Baston', ""Jermaine O'Neal"", 'Roy Hibbert', 'T.J. Ford'}",False
-1,"July 9, 2008","{'MIN', 'PHI'}","{'Rodney Carney', 'Calvin Booth', 'Trevor Booker'}",True
-2,"July 9, 2008","{'POR', 'IND'}","{'Jarrett Jack', 'Jerryd Bayless', 'Josh McRoberts', 'Brandon Rush', 'Ike Diogu'}",False
-3,"July 15, 2008","{'DEN', 'LAC'}","{'Willie Warren', 'Andy Rautins', 'Marcus Camby'}",True
-4,"July 22, 2008","{'GSW', 'NJN'}","{'Marcus Williams', 'Darius Morris', 'Gorgui Dieng'}",True
-5,"July 23, 2008","{'LAC', 'UTA'}","{'Jason Hart', 'Brevin Knight'}",False
-6,"July 28, 2008","{'DEN', 'NYK'}","{'Bobby Jones', 'Andy Rautins', 'Taurean Green', 'Renaldo Balkman'}",True
-7,"August 6, 2008","{'LAC', 'HOU'}",{'Steve Novak'},True
-8,"August 11, 2008","{'CHA', 'OKC'}","{'Derrick Brown', 'Kyle Weaver'}",True
-9,"August 13, 2008","{'MIL', 'OKC', 'CLE'}","{'Luke Ridnour', 'Damon Jones', 'Adrian Griffin', 'Joe Smith', 'Desmond Mason', 'Mo Williams'}",False
-10,"August 14, 2008","{'SAC', 'HOU'}","{'Bobby Jackson', 'Patrick Ewing', 'Omri Casspi', 'Metta World Peace', 'DontÃ© Greene', 'Sean Singletary'}",True
-11,"August 25, 2008","{'PHO', 'HOU'}","{'D.J. Strawberry', 'Sean Singletary'}",False
-12,"August 29, 2008","{'NYK', 'HOU'}","{'Patrick Ewing', 'Frederic Weis'}",False
-13,"October 10, 2008","{'DAL', 'IND'}","{'Eddie Jones', 'A.J. Price', 'Ryan Reid', 'Shawne Williams'}",True
-14,"November 3, 2008","{'DEN', 'DET'}","{'Allen Iverson', 'Antonio McDyess', 'Cheikh Samb', 'Chauncey Billups'}",False
-15,"November 21, 2008","{'LAC', 'NYK'}","{'Zach Randolph', 'Mardy Collins', 'Cuttino Mobley', 'Tim Thomas'}",False
-16,"November 21, 2008","{'GSW', 'NYK'}","{'Al Harrington', 'Jamal Crawford'}",False
-17,"December 10, 2008","{'PHO', 'CHA'}","{'Raja Bell', 'Jared Dudley', 'Boris Diaw', 'Gani Lawal', 'Sean Singletary', 'Jason Richardson'}",True
-18,"December 10, 2008","{'WAS', 'NOH', 'MEM'}","{'Javaris Crittenton', 'Antonio Daniels', 'Xavier Henry', 'Mike James'}",True
-19,"December 23, 2008","{'MEM', 'HOU'}","{'Steve Francis', 'Sam Young'}",True
-20,"January 1, 2009","{'TOR', 'LAC'}",{'Hassan Adams'},True
-21,"January 5, 2009","{'DEN', 'LAC'}","{'Nikola RadiÄ\x8deviÄ\x87', 'Cheikh Samb'}",True
-22,"January 7, 2009","{'MIA', 'MEM'}",{'Shaun Livingston'},True
-23,"January 7, 2009","{'DEN', 'OKC'}","{'Sergio Llull', 'Taj Gibson', 'Johan Petro', 'Chucky Atkins'}",True
-24,"January 16, 2009","{'CHA', 'DAL'}","{'Matt Carroll', 'Ryan Hollins', 'DeSagana Diop'}",False
-25,"February 5, 2009","{'MIL', 'ORL'}","{'Keith Bogans', 'Tyronn Lue'}",False
-26,"February 7, 2009","{'CHA', 'LAL'}","{'Shannon Brown', 'Vladimir RadmanoviÄ\x87', 'Adam Morrison'}",False
-27,"February 13, 2009","{'MIA', 'TOR'}","{'Shawn Marion', ""Da'Sean Butler"", 'Jonas ValanÄ\x8diÅ«nas', ""Jermaine O'Neal"", 'Marcus Banks', 'Jamario Moon'}",True
-28,"February 16, 2009","{'DET', 'LAC'}","{'Peyton Siva', 'Trey Thompkins', 'Alex Acker'}",True
-29,"February 17, 2009","{'BOS', 'SAC'}",{'Sam Cassell'},True
-30,"February 18, 2009","{'SAC', 'CHI'}","{'Cedric Simmons', 'Brad Miller', 'Michael Ruffin', 'Drew Gooden', 'John Salmons', 'AndrÃ©s Nocioni'}",False
-31,"February 18, 2009","{'POR', 'SAC'}","{'Michael Ruffin', 'Ike Diogu'}",False
-32,"February 18, 2009","{'LAL', 'MEM'}",{'Chris Mihm'},True
-33,"February 19, 2009","{'MIN', 'SAC'}","{'Calvin Booth', 'Bobby Brown', 'Rashad McCants', 'Shelden Williams'}",False
-34,"February 19, 2009","{'MEM', 'ORL', 'HOU'}","{'Mike Wilks', 'Brian Cook', 'Kyle Lowry', 'Rafer Alston', 'Adonal Foyle', 'DeMarre Carroll'}",True
-35,"February 19, 2009","{'TOR', 'BOS'}","{""Patrick O'Bryant""}",True
-36,"February 19, 2009","{'NYK', 'CHI'}","{'Larry Hughes', 'Jerome James', 'Tim Thomas', 'Anthony Roberson'}",False
-37,"February 19, 2009","{'OKC', 'NYK'}","{'Malik Rose', 'Chris Wilcox'}",False
-38,"February 19, 2009","{'OKC', 'CHI'}","{'Taj Gibson', 'Thabo Sefolosha'}",True
-39,"June 9, 2009","{'TOR', 'PHI'}","{'Jason Kapono', 'Reggie Evans'}",False
-40,"June 23, 2009","{'MIL', 'SAS'}","{'Bruce Bowen', 'Richard Jefferson', 'Fabricio Oberto', 'Kurt Thomas'}",False
-41,"June 23, 2009","{'MIL', 'DET'}","{'Amir Johnson', 'Fabricio Oberto'}",False
-42,"June 24, 2009","{'MIN', 'WAS'}","{'Ricky Rubio', 'Mike Miller', 'Oleksiy Pecherov', 'Etan Thomas', 'Randy Foye', 'Darius Songaila'}",True
-43,"June 24, 2009","{'POR', 'DAL'}","{'Victor Claver', 'Ahman Nivins', 'Byron Mullens', 'Magnum Rolle'}",True
-44,"June 25, 2009","{'DEN', 'MIN'}","{'Ty Lawson', 'Luke Babbitt'}",True
-45,"June 25, 2009","{'DAL', 'OKC'}","{'Rodrigue Beaubois', 'Byron Mullens', 'Solomon Alabi'}",True
-46,"June 25, 2009","{'LAL', 'NYK'}","{'Andrew Goudelock', 'Toney Douglas'}",True
-47,"June 25, 2009","{'POR', 'SAC'}","{'Jeff Ayres', 'Sergio RodrÃ\xadguez', 'Jon Brockman'}",False
-48,"June 25, 2009","{'MIA', 'LAL'}","{'Ater Majok', 'Patrick Beverley'}",True
-49,"June 25, 2009","{'MIA', 'NOH'}","{'Jae Crowder', 'Marcus Thornton', 'Jarvis Varnado'}",True
-50,"June 25, 2009","{'DET', 'HOU'}","{'Kim English', 'Chase Budinger'}",True
-51,"June 25, 2009","{'MIN', 'DAL'}","{'Nick Calathes', 'Magnum Rolle'}",True
-52,"June 25, 2009","{'GSW', 'ATL'}","{'Acie Law', 'Jamal Crawford', 'Speedy Claxton'}",False
-53,"June 25, 2009","{'NJN', 'ORL'}","{'Rafer Alston', 'Tony Battie', 'Vince Carter', 'Courtney Lee', 'Ryan Anderson'}",False
-54,"June 25, 2009","{'MEM', 'NYK'}","{'Quentin Richardson', 'Darko MiliÄ\x8diÄ\x87'}",False
-55,"June 26, 2009","{'PHO', 'CLE'}","{'Sasha PavloviÄ\x87', ""Shaquille O'Neal"", 'Dwayne Collins', 'Ben Wallace'}",True
+,date,teams,players
+0,"July 9, 2008","{'TOR', 'IND'}","{'Nathan Jawai', ""Jermaine O'Neal"", 'Roy Hibbert', 'Rasho NesteroviÄ\x87', 'Maceo Baston', 'T.J. Ford'}"
+1,"July 9, 2008","{'MIN', 'PHI'}","{'Rodney Carney', 'Calvin Booth'}"
+2,"July 9, 2008","{'POR', 'IND'}","{'Jarrett Jack', 'Jerryd Bayless', 'Brandon Rush', 'Ike Diogu', 'Josh McRoberts'}"
+3,"July 15, 2008","{'DEN', 'LAC'}",{'Marcus Camby'}
+4,"July 22, 2008","{'GSW', 'NJN'}",{'Marcus Williams'}
+5,"July 23, 2008","{'LAC', 'UTA'}","{'Jason Hart', 'Brevin Knight'}"
+6,"July 28, 2008","{'DEN', 'NYK'}","{'Bobby Jones', 'Taurean Green', 'Renaldo Balkman'}"
+7,"August 6, 2008","{'LAC', 'HOU'}",{'Steve Novak'}
+8,"August 11, 2008","{'CHA', 'OKC'}",{'Kyle Weaver'}
+9,"August 13, 2008","{'MIL', 'OKC', 'CLE'}","{'Desmond Mason', 'Luke Ridnour', 'Damon Jones', 'Mo Williams', 'Adrian Griffin', 'Joe Smith'}"
+10,"August 14, 2008","{'SAC', 'HOU'}","{'Metta World Peace', 'Bobby Jackson', 'DontÃ© Greene', 'Patrick Ewing', 'Sean Singletary'}"
+11,"August 25, 2008","{'PHO', 'HOU'}","{'D.J. Strawberry', 'Sean Singletary'}"
+12,"August 29, 2008","{'NYK', 'HOU'}","{'Patrick Ewing', 'Frederic Weis'}"
+13,"October 10, 2008","{'DAL', 'IND'}","{'Eddie Jones', 'Shawne Williams'}"
+14,"November 3, 2008","{'DEN', 'DET'}","{'Allen Iverson', 'Antonio McDyess', 'Cheikh Samb', 'Chauncey Billups'}"
+15,"November 21, 2008","{'LAC', 'NYK'}","{'Zach Randolph', 'Mardy Collins', 'Cuttino Mobley', 'Tim Thomas'}"
+16,"November 21, 2008","{'GSW', 'NYK'}","{'Al Harrington', 'Jamal Crawford'}"
+17,"December 10, 2008","{'PHO', 'CHA'}","{'Raja Bell', 'Jared Dudley', 'Boris Diaw', 'Sean Singletary', 'Jason Richardson'}"
+18,"December 10, 2008","{'WAS', 'NOH', 'MEM'}","{'Javaris Crittenton', 'Antonio Daniels', 'Mike James'}"
+19,"December 23, 2008","{'MEM', 'HOU'}",{'Steve Francis'}
+20,"January 1, 2009","{'TOR', 'LAC'}",{'Hassan Adams'}
+21,"January 5, 2009","{'DEN', 'LAC'}",{'Cheikh Samb'}
+22,"January 7, 2009","{'MIA', 'MEM'}",{'Shaun Livingston'}
+23,"January 7, 2009","{'DEN', 'OKC'}","{'Johan Petro', 'Chucky Atkins'}"
+24,"January 16, 2009","{'CHA', 'DAL'}","{'Matt Carroll', 'Ryan Hollins', 'DeSagana Diop'}"
+25,"February 5, 2009","{'MIL', 'ORL'}","{'Keith Bogans', 'Tyronn Lue'}"
+26,"February 7, 2009","{'CHA', 'LAL'}","{'Shannon Brown', 'Vladimir RadmanoviÄ\x87', 'Adam Morrison'}"
+27,"February 13, 2009","{'MIA', 'TOR'}","{""Jermaine O'Neal"", 'Marcus Banks', 'Shawn Marion', 'Jamario Moon'}"
+28,"February 16, 2009","{'DET', 'LAC'}",{'Alex Acker'}
+29,"February 17, 2009","{'BOS', 'SAC'}",{'Sam Cassell'}
+30,"February 18, 2009","{'SAC', 'CHI'}","{'Cedric Simmons', 'Drew Gooden', 'John Salmons', 'Brad Miller', 'Michael Ruffin', 'AndrÃ©s Nocioni'}"
+31,"February 18, 2009","{'POR', 'SAC'}","{'Michael Ruffin', 'Ike Diogu'}"
+32,"February 18, 2009","{'LAL', 'MEM'}",{'Chris Mihm'}
+33,"February 19, 2009","{'MIN', 'SAC'}","{'Calvin Booth', 'Bobby Brown', 'Rashad McCants', 'Shelden Williams'}"
+34,"February 19, 2009","{'MEM', 'ORL', 'HOU'}","{'Rafer Alston', 'Mike Wilks', 'Brian Cook', 'Kyle Lowry', 'Adonal Foyle'}"
+35,"February 19, 2009","{'TOR', 'BOS'}","{""Patrick O'Bryant""}"
+36,"February 19, 2009","{'NYK', 'CHI'}","{'Larry Hughes', 'Jerome James', 'Tim Thomas', 'Anthony Roberson'}"
+37,"February 19, 2009","{'OKC', 'NYK'}","{'Malik Rose', 'Chris Wilcox'}"
+38,"February 19, 2009","{'OKC', 'CHI'}",{'Thabo Sefolosha'}
+39,"June 9, 2009","{'TOR', 'PHI'}","{'Jason Kapono', 'Reggie Evans'}"
+40,"June 23, 2009","{'MIL', 'SAS'}","{'Bruce Bowen', 'Richard Jefferson', 'Fabricio Oberto', 'Kurt Thomas'}"
+41,"June 23, 2009","{'MIL', 'DET'}","{'Amir Johnson', 'Fabricio Oberto'}"
+42,"June 24, 2009","{'MIN', 'WAS'}","{'Mike Miller', 'Oleksiy Pecherov', 'Etan Thomas', 'Randy Foye', 'Darius Songaila'}"
+43,"June 24, 2009","{'POR', 'DAL'}",set()
+44,"June 25, 2009","{'DEN', 'MIN'}",{'Ty Lawson'}
+45,"June 25, 2009","{'DAL', 'OKC'}","{'Rodrigue Beaubois', 'Byron Mullens'}"
+46,"June 25, 2009","{'LAL', 'NYK'}",{'Toney Douglas'}
+47,"June 25, 2009","{'POR', 'SAC'}","{'Jeff Ayres', 'Sergio RodrÃ\xadguez', 'Jon Brockman'}"
+48,"June 25, 2009","{'MIA', 'LAL'}",{'Patrick Beverley'}
+49,"June 25, 2009","{'MIA', 'NOH'}",{'Marcus Thornton'}
+50,"June 25, 2009","{'DET', 'HOU'}",{'Chase Budinger'}
+51,"June 25, 2009","{'MIN', 'DAL'}",{'Nick Calathes'}
+52,"June 25, 2009","{'GSW', 'ATL'}","{'Acie Law', 'Jamal Crawford', 'Speedy Claxton'}"
+53,"June 25, 2009","{'NJN', 'ORL'}","{'Tony Battie', 'Vince Carter', 'Courtney Lee', 'Rafer Alston', 'Ryan Anderson'}"
+54,"June 25, 2009","{'MEM', 'NYK'}","{'Quentin Richardson', 'Darko MiliÄ\x8diÄ\x87'}"
+55,"June 26, 2009","{'PHO', 'CLE'}","{'Sasha PavloviÄ\x87', ""Shaquille O'Neal"", 'Ben Wallace'}"

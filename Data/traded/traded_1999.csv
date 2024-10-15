@@ -1,25 +1,25 @@
-,date,teams,players,includes_draft_picks
-0,"January 21, 1999","{'BOS', 'LAL'}","{'Tony Battie', 'Travis Knight'}",False
-1,"January 21, 1999","{'DEN', 'TOR', 'MIN'}","{'Jonathan Bender', 'Bobby Jackson', 'Dean Garrett', 'Chauncey Billups', 'Micheal Williams', 'Morris Peterson', 'Å½eljko RebraÄ\x8da', 'Tyson Wheeler'}",True
-2,"January 21, 1999","{'GSW', 'NYK'}","{'John Starks', 'Chris Mills', 'Terry Cummings', 'Latrell Sprewell'}",False
-3,"January 21, 1999","{'SAS', 'CHI'}","{'Dalibor BagariÄ\x87', 'Chuck Person', 'Steve Kerr'}",True
-4,"January 21, 1999","{'NJN', 'SEA'}","{'Jim McIlvaine', 'Don MacLean', 'Michael Cage'}",False
-5,"January 21, 1999","{'DEN', 'ORL'}","{'Johnny Taylor', 'Keyon Dooling', 'Keon Clark'}",True
-6,"January 21, 1999","{'PHI', 'HOU'}","{'Mirsad TÃ¼rkcan', 'Carlos Delfino'}",True
-7,"January 22, 1999","{'HOU', 'CHI'}","{'Jake Voskuhl', 'Scottie Pippen', 'Roy Rogers'}",True
-8,"January 22, 1999","{'DET', 'POR'}","{'Jumaine Jones', 'Bonzi Wells', 'Scoonie Penn'}",True
-9,"January 22, 1999","{'DET', 'ATL'}","{'Scot Pollard', 'Christian Laettner', 'Jumaine Jones'}",True
-10,"January 22, 1999","{'MIL', 'CHI'}","{'Andrew Lang', 'Andre Hutson'}",True
-11,"January 23, 1999","{'PHO', 'CHI'}","{'Mark Bryant', 'Martin MÃ¼Ã¼rsepp', 'Luc Longley', 'Metta World Peace', 'Bubba Wells'}",True
-12,"February 4, 1999","{'GSW', 'UTA'}","{'Chris Porter', 'Todd Fuller'}",True
-13,"March 10, 1999","{'CHH', 'LAL'}","{'Eddie Jones', 'J.R. Reid', 'Glen Rice', 'Elden Campbell', 'B.J. Armstrong'}",False
-14,"March 11, 1999","{'MIL', 'MIN', 'NJN'}","{'Chris Gatling', 'Chris Carr', 'Stephon Marbury', 'Paul Grant', 'Elliot Perry', 'Bill Curley', 'Wally Szczerbiak', 'Terrell Brandon', 'Brian Evans', 'Sam Cassell'}",True
-15,"March 11, 1999","{'BOS', 'CLE'}","{'Andrew DeClercq', 'Vitaly Potapenko', 'Andre Miller'}",True
-16,"March 11, 1999","{'MIL', 'PHI'}","{'Scott Williams', 'Tyrone Hill', 'Jerald Honeycutt', 'Tim Thomas'}",False
-17,"March 11, 1999","{'VAN', 'HOU'}","{'Rodrick Rhodes', 'Sam Mack'}",False
-18,"March 11, 1999","{'PHI', 'NYK'}","{'Mirsad TÃ¼rkcan', 'Quentin Richardson'}",True
-19,"June 29, 1999","{'GSW', 'ATL'}","{'Duane Ferrell', 'Jeff Foster', 'Jason Terry', 'Mookie Blaylock', 'Bimbo Coles'}",True
-20,"June 30, 1999","{'SAS', 'DAL'}","{'Chris Carrawell', 'Leon Smith', 'Gordan GiriÄ\x8dek'}",True
-21,"June 30, 1999","{'GSW', 'IND'}","{'Jeff Foster', 'Vonteego Cummings', 'Troy Murphy'}",True
-22,"June 30, 1999","{'ORL', 'SEA'}","{'Don MacLean', 'Dale Ellis', 'Billy Owens', 'Bobby Simmons', 'Corey Maggette', 'Olumide Oyedeji', 'Horace Grant'}",True
-23,"June 30, 1999","{'PHI', 'ATL'}","{'Quentin Richardson', 'Jumaine Jones'}",True
+,date,teams,players
+0,"January 21, 1999","{'BOS', 'LAL'}","{'Tony Battie', 'Travis Knight'}"
+1,"January 21, 1999","{'DEN', 'TOR', 'MIN'}","{'Bobby Jackson', 'Dean Garrett', 'Chauncey Billups', 'Micheal Williams', 'Å½eljko RebraÄ\x8da', 'Tyson Wheeler'}"
+2,"January 21, 1999","{'GSW', 'NYK'}","{'John Starks', 'Chris Mills', 'Terry Cummings', 'Latrell Sprewell'}"
+3,"January 21, 1999","{'SAS', 'CHI'}","{'Chuck Person', 'Steve Kerr'}"
+4,"January 21, 1999","{'NJN', 'SEA'}","{'Jim McIlvaine', 'Don MacLean', 'Michael Cage'}"
+5,"January 21, 1999","{'DEN', 'ORL'}","{'Johnny Taylor', 'Keon Clark'}"
+6,"January 21, 1999","{'PHI', 'HOU'}",{'Mirsad TÃ¼rkcan'}
+7,"January 22, 1999","{'HOU', 'CHI'}","{'Scottie Pippen', 'Roy Rogers'}"
+8,"January 22, 1999","{'DET', 'POR'}",{'Bonzi Wells'}
+9,"January 22, 1999","{'DET', 'ATL'}","{'Scot Pollard', 'Christian Laettner'}"
+10,"January 22, 1999","{'MIL', 'CHI'}",{'Andrew Lang'}
+11,"January 23, 1999","{'PHO', 'CHI'}","{'Mark Bryant', 'Martin MÃ¼Ã¼rsepp', 'Bubba Wells', 'Luc Longley'}"
+12,"February 4, 1999","{'GSW', 'UTA'}",{'Todd Fuller'}
+13,"March 10, 1999","{'CHH', 'LAL'}","{'Eddie Jones', 'J.R. Reid', 'Glen Rice', 'Elden Campbell', 'B.J. Armstrong'}"
+14,"March 11, 1999","{'MIL', 'MIN', 'NJN'}","{'Chris Gatling', 'Chris Carr', 'Stephon Marbury', 'Paul Grant', 'Elliot Perry', 'Bill Curley', 'Terrell Brandon', 'Brian Evans', 'Sam Cassell'}"
+15,"March 11, 1999","{'BOS', 'CLE'}","{'Andrew DeClercq', 'Vitaly Potapenko'}"
+16,"March 11, 1999","{'MIL', 'PHI'}","{'Scott Williams', 'Tyrone Hill', 'Jerald Honeycutt', 'Tim Thomas'}"
+17,"March 11, 1999","{'VAN', 'HOU'}","{'Rodrick Rhodes', 'Sam Mack'}"
+18,"March 11, 1999","{'PHI', 'NYK'}",{'Mirsad TÃ¼rkcan'}
+19,"June 29, 1999","{'GSW', 'ATL'}","{'Duane Ferrell', 'Mookie Blaylock', 'Bimbo Coles'}"
+20,"June 30, 1999","{'SAS', 'DAL'}","{'Leon Smith', 'Gordan GiriÄ\x8dek'}"
+21,"June 30, 1999","{'GSW', 'IND'}","{'Jeff Foster', 'Vonteego Cummings'}"
+22,"June 30, 1999","{'ORL', 'SEA'}","{'Corey Maggette', 'Don MacLean', 'Dale Ellis', 'Billy Owens', 'Horace Grant'}"
+23,"June 30, 1999","{'PHI', 'ATL'}",{'Jumaine Jones'}

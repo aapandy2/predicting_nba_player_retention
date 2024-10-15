@@ -1,38 +1,38 @@
-,date,teams,players,includes_draft_picks
-0,"July 12, 2006","{'MEM', 'HOU'}","{'Stromile Swift', 'Shane Battier', 'Rudy Gay'}",False
-1,"July 12, 2006","{'GSW', 'UTA'}","{'Derek Fisher', 'Keith McLeod', 'Andre Owens', 'Devin Brown'}",False
-2,"July 12, 2006","{'DAL', 'IND'}","{'Austin Croshere', 'Marquis Daniels'}",False
-3,"July 12, 2006","{'NOK', 'IND'}","{'Peja StojakoviÄ\x87', 'Andrew Betts'}",False
-4,"July 14, 2006","{'NOK', 'CHI'}","{'P.J. Brown', 'Tyson Chandler', 'J.R. Smith'}",False
-5,"July 14, 2006","{'NOK', 'HOU'}","{'Kirk Snyder', 'Sasha Kaun', 'Maarty Leunen'}",True
-6,"July 20, 2006","{'DEN', 'CHI'}","{'J.R. Smith', 'JamesOn Curry', 'Howard Eisley', 'Aaron Gray'}",True
-7,"July 24, 2006","{'DAL', 'IND'}","{'Rawle Marshall', 'Darrell Armstrong', 'Anthony Johnson', 'Josh Powell'}",False
-8,"July 27, 2006","{'NJN', 'SEA'}","{'Mikki Moore', 'Derrick Brown'}",True
-9,"July 31, 2006","{'MIL', 'POR'}","{'Steve Blake', 'Brian Skinner', 'Jamaal Magloire', 'Ha Seung-Jin'}",False
-10,"August 10, 2006","{'DEN', 'MIL'}","{'Ruben Patterson', 'Joe Smith'}",False
-11,"August 18, 2006","{'CLE', 'CHI'}","{'Eddie Basden', 'Martynas AndriuÅ¡keviÄ\x8dius'}",False
-12,"August 22, 2006","{'IND', 'ATL'}","{'Al Harrington', 'John Edwards', 'Acie Law'}",True
-13,"October 13, 2006","{'BOS', 'CLE'}","{'Dwayne Jones', 'Luke Jackson'}",False
-14,"December 19, 2006","{'DEN', 'PHI'}","{'Petteri Koponen', 'Andre Miller', 'Daequan Cook', 'Joe Smith', 'Allen Iverson', 'Ivan McFarlin'}",True
-15,"January 3, 2007","{'NJN', 'CHA'}","{'Bernard Robinson', 'Jeff McInnis'}",False
-16,"January 11, 2007","{'DEN', 'MIL'}","{'Steve Blake', 'Earl Boykins', 'Julius Hodge'}",False
-17,"January 16, 2007","{'GSW', 'IND'}","{'Josh Powell', 'Mike Dunleavy', 'Al Harrington', 'Stephen Jackson', 'Troy Murphy', 'Keith McLeod', 'Å\xa0arÅ«nas JasikeviÄ\x8dius', 'Ike Diogu'}",False
-18,"February 13, 2007","{'SAS', 'CHA'}","{'Melvin Ely', 'Eric Williams', 'Robert Vaden'}",True
-19,"February 13, 2007","{'MEM', 'HOU'}","{'Jake Tsakalidis', 'Scott Padgett'}",False
-20,"February 22, 2007","{'POR', 'TOR'}","{'Fred Jones', 'Juan Dixon'}",False
-21,"February 22, 2007","{'DAL', 'ATL'}","{'Nick Fazekas', 'Anthony Johnson'}",True
-22,"June 8, 2007","{'MIA', 'ORL'}","{'Stan Van Gundy (coach)', 'Stanko BaraÄ\x87', 'Darnell Jackson'}",True
-23,"June 14, 2007","{'MIN', 'HOU'}","{'Justin Reed', 'Juwan Howard', 'Mike James'}",False
-24,"June 15, 2007","{'DET', 'TOR'}","{'Jonas Jerebko', 'Kyle Singler', 'Carlos Delfino'}",True
-25,"June 28, 2007","{'ORL', 'HOU'}",{'Brad Newley'},True
-26,"June 28, 2007","{'PHI', 'UTA'}","{'Kyrylo Fesenko', 'Herbert Hill'}",False
-27,"June 28, 2007","{'SAS', 'TOR'}","{'Georgios Printezis', 'Goran DragiÄ\x87'}",True
-28,"June 28, 2007","{'MIA', 'IND'}","{'Stanko BaraÄ\x87', 'Marcus Thornton'}",True
-29,"June 28, 2007","{'POR', 'PHI'}","{'Derrick Byars', 'Petteri Koponen'}",False
-30,"June 28, 2007","{'DAL', 'ORL'}","{'Milovan RakoviÄ\x87', 'Reyshawn Terry'}",False
-31,"June 28, 2007","{'SEA', 'HOU'}","{'Carl Landry', 'Sasha Kaun'}",True
-32,"June 28, 2007","{'BOS', 'SEA'}","{'Delonte West', 'Glen Davis', 'Jeff Green', 'Ray Allen', 'Trent Plaisted', 'Wally Szczerbiak'}",True
-33,"June 28, 2007","{'POR', 'NYK'}","{'Channing Frye', 'Dan Dickau', 'Zach Randolph', 'Steve Francis', 'Fred Jones'}",False
-34,"June 28, 2007","{'MIA', 'PHI'}","{'Nick Calathes', 'Jason Smith', 'Daequan Cook'}",True
-35,"June 28, 2007","{'GSW', 'CHA'}","{'Brandan Wright', 'Jermareo Davidson', 'Jason Richardson'}",False
-36,"June 28, 2007","{'POR', 'NYK'}","{'Ã\x96mer AÅ\x9fÄ±k', 'Demetris Nichols'}",True
+,date,teams,players
+0,"July 12, 2006","{'MEM', 'HOU'}","{'Stromile Swift', 'Shane Battier', 'Rudy Gay'}"
+1,"July 12, 2006","{'GSW', 'UTA'}","{'Derek Fisher', 'Keith McLeod', 'Andre Owens', 'Devin Brown'}"
+2,"July 12, 2006","{'DAL', 'IND'}","{'Austin Croshere', 'Marquis Daniels'}"
+3,"July 12, 2006","{'NOK', 'IND'}","{'Peja StojakoviÄ\x87', 'Andrew Betts'}"
+4,"July 14, 2006","{'NOK', 'CHI'}","{'P.J. Brown', 'Tyson Chandler', 'J.R. Smith'}"
+5,"July 14, 2006","{'NOK', 'HOU'}",{'Kirk Snyder'}
+6,"July 20, 2006","{'DEN', 'CHI'}","{'J.R. Smith', 'Howard Eisley'}"
+7,"July 24, 2006","{'DAL', 'IND'}","{'Rawle Marshall', 'Darrell Armstrong', 'Anthony Johnson', 'Josh Powell'}"
+8,"July 27, 2006","{'NJN', 'SEA'}",{'Mikki Moore'}
+9,"July 31, 2006","{'MIL', 'POR'}","{'Steve Blake', 'Brian Skinner', 'Jamaal Magloire', 'Ha Seung-Jin'}"
+10,"August 10, 2006","{'DEN', 'MIL'}","{'Ruben Patterson', 'Joe Smith'}"
+11,"August 18, 2006","{'CLE', 'CHI'}","{'Eddie Basden', 'Martynas AndriuÅ¡keviÄ\x8dius'}"
+12,"August 22, 2006","{'IND', 'ATL'}","{'Al Harrington', 'John Edwards'}"
+13,"October 13, 2006","{'BOS', 'CLE'}","{'Dwayne Jones', 'Luke Jackson'}"
+14,"December 19, 2006","{'DEN', 'PHI'}","{'Allen Iverson', 'Ivan McFarlin', 'Andre Miller', 'Joe Smith'}"
+15,"January 3, 2007","{'NJN', 'CHA'}","{'Bernard Robinson', 'Jeff McInnis'}"
+16,"January 11, 2007","{'DEN', 'MIL'}","{'Steve Blake', 'Earl Boykins', 'Julius Hodge'}"
+17,"January 16, 2007","{'GSW', 'IND'}","{'Josh Powell', 'Mike Dunleavy', 'Al Harrington', 'Stephen Jackson', 'Troy Murphy', 'Keith McLeod', 'Å\xa0arÅ«nas JasikeviÄ\x8dius', 'Ike Diogu'}"
+18,"February 13, 2007","{'SAS', 'CHA'}","{'Melvin Ely', 'Eric Williams'}"
+19,"February 13, 2007","{'MEM', 'HOU'}","{'Jake Tsakalidis', 'Scott Padgett'}"
+20,"February 22, 2007","{'POR', 'TOR'}","{'Fred Jones', 'Juan Dixon'}"
+21,"February 22, 2007","{'DAL', 'ATL'}",{'Anthony Johnson'}
+22,"June 8, 2007","{'MIA', 'ORL'}",{'Stan Van Gundy (coach)'}
+23,"June 14, 2007","{'MIN', 'HOU'}","{'Justin Reed', 'Juwan Howard', 'Mike James'}"
+24,"June 15, 2007","{'DET', 'TOR'}",{'Carlos Delfino'}
+25,"June 28, 2007","{'ORL', 'HOU'}",set()
+26,"June 28, 2007","{'PHI', 'UTA'}","{'Kyrylo Fesenko', 'Herbert Hill'}"
+27,"June 28, 2007","{'SAS', 'TOR'}",{'Georgios Printezis'}
+28,"June 28, 2007","{'MIA', 'IND'}",{'Stanko BaraÄ\x87'}
+29,"June 28, 2007","{'POR', 'PHI'}","{'Derrick Byars', 'Petteri Koponen'}"
+30,"June 28, 2007","{'DAL', 'ORL'}","{'Milovan RakoviÄ\x87', 'Reyshawn Terry'}"
+31,"June 28, 2007","{'SEA', 'HOU'}",{'Carl Landry'}
+32,"June 28, 2007","{'BOS', 'SEA'}","{'Ray Allen', 'Delonte West', 'Glen Davis', 'Wally Szczerbiak', 'Jeff Green'}"
+33,"June 28, 2007","{'POR', 'NYK'}","{'Channing Frye', 'Dan Dickau', 'Fred Jones', 'Zach Randolph', 'Steve Francis'}"
+34,"June 28, 2007","{'MIA', 'PHI'}","{'Jason Smith', 'Daequan Cook'}"
+35,"June 28, 2007","{'GSW', 'CHA'}","{'Brandan Wright', 'Jermareo Davidson', 'Jason Richardson'}"
+36,"June 28, 2007","{'POR', 'NYK'}",{'Demetris Nichols'}

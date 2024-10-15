@@ -1,43 +1,43 @@
-,date,teams,players,includes_draft_picks
-0,"July 6, 2022","{'MIN', 'UTA'}","{'Leandro Bolmaro', 'Malik Beasley', 'Keyonte George', 'Walker Kessler', 'Jarred Vanderbilt', 'Rudy Gobert', 'Patrick Beverley'}",True
-1,"July 6, 2022","{'DET', 'POR'}","{'Ismael Kamagate', 'Gabriele Procida', 'Jerami Grant'}",True
-2,"July 6, 2022","{'DEN', 'WAS'}","{'Ish Smith', 'Kentavious Caldwell-Pope', 'Will Barton', 'Monte Morris'}",False
-3,"July 6, 2022","{'DEN', 'POR'}","{'Ismael Kamagate', 'Tyler Kolek'}",True
-4,"July 6, 2022","{'PHO', 'ATL'}",{'Jock Landale'},False
-5,"July 6, 2022","{'SAC', 'ATL'}","{'Maurice Harkless', 'Justin Holiday', 'Kevin Huerter'}",True
-6,"July 6, 2022","{'DET', 'NYK'}","{'Jalen Duren', 'Kemba Walker'}",True
-7,"July 9, 2022","{'BOS', 'IND'}","{'Aaron Nesmith', 'Daniel Theis', 'Juwan Morgan', 'Malik Fitts', 'Julian Strawther', 'Malcolm Brogdon', 'Nik Stauskas'}",True
-8,"July 11, 2022","{'DET', 'NYK'}","{'Nikola RadiÄ\x8deviÄ\x87', 'Nerlens Noel', 'Alec Burks', 'James Nnaji'}",True
-9,"August 25, 2022","{'LAL', 'UTA'}","{'Stanley Johnson', 'Talen Horton-Tucker', 'Patrick Beverley'}",False
-10,"September 3, 2022","{'CLE', 'UTA'}","{'Donovan Mitchell', 'Lauri Markkanen', 'Collin Sexton', 'Ochai Agbaji'}",True
-11,"September 22, 2022","{'DET', 'UTA'}","{'Bojan Bogdanovic', 'Saben Lee', 'Kelly Olynyk'}",False
-12,"September 27, 2022","{'OKC', 'ATL'}","{'Vit Krejci', 'Maurice Harkless'}",False
-13,"September 30, 2022","{'OKC', 'HOU'}","{'Ty Jerome', 'Sterling Brown', 'Theo Maledon', 'Maurice Harkless', 'Marquese Chriss', 'Trey Burke', 'David Nwaba', 'Derrick Favors'}",True
-14,"January 5, 2023","{'SAS', 'BOS'}",{'Noah Vonleh'},False
-15,"January 23, 2023","{'WAS', 'LAL'}","{'Tristan Vukcevic', 'Kendrick Nunn', 'Rui Hachimura'}",True
-16,"February 6, 2023","{'DAL', 'BRK'}","{'Markieff Morris', 'Dorian Finney-Smith', 'Kyrie Irving', 'Spencer Dinwiddie'}",True
-17,"February 7, 2023","{'BRK', 'SAC'}","{'Kessler Edwards', 'David Michineau'}",False
-18,"February 7, 2023","{'SAS', 'MIA'}",{'Dewayne Dedmon'},True
-19,"February 9, 2023","{'CHO', 'LAC'}","{'Reggie Jackson', 'Mason Plumlee'}",True
-20,"February 9, 2023","{'CHO', 'PHI', 'NYK', 'POR'}","{'Cam Spencer', 'Bojan Dubljevic', 'Cam Reddish', 'Colby Jones', 'Jalen McDaniels', 'Matisse Thybulle', 'Josh Hart', 'Kris Murray', 'Dani Diez', 'Sviatoslav Mykhailiuk', 'Ante Tomic', 'Ryan Arcidiacono'}",True
-21,"February 9, 2023","{'LAC', 'MEM', 'HOU'}","{'Danny Green', 'Juan Nunez', 'Cam Christie', 'Luke Kennard', 'Eric Gordon', 'John Wall', 'Cam Whitmore', 'Kobe Brown'}",True
-22,"February 9, 2023","{'BOS', 'OKC'}","{'Justin Jackson', 'Keyonte Johnson', 'Mike Muscala'}",True
-23,"February 9, 2023","{'SAS', 'NOP'}","{'Josh Richardson', 'Adem Bona', ""Devonte' Graham""}",True
-24,"February 9, 2023","{'GSW', 'POR', 'DET', 'ATL'}","{'Kevin Knox', 'Saddiq Bey', 'Oso Ighodaro', 'Gary Payton II', 'Rayan Rupert', 'James Wiseman'}",True
-25,"February 9, 2023","{'PHO', 'OKC'}","{'Darius Bazley', 'Dario Saric'}",True
-26,"February 9, 2023","{'HOU', 'ATL'}","{'Ulrich Chomche', 'Bruno Fernando', 'Justin Holiday', 'Frank Kaminsky', 'Garrison Mathews'}",True
-27,"February 9, 2023","{'PHO', 'BRK', 'MIL', 'IND'}","{'T.J. Warren', 'Noah Clowney', 'Juan Vaulet', 'Jae Crowder', 'George Hill', 'Serge Ibaka', 'Cameron Johnson', 'Jordan Nwora', 'Mikal Bridges', 'Quinten Post', 'Isaiah Wong', 'Kevin Durant'}",True
-28,"February 9, 2023","{'DEN', 'LAC', 'LAL', 'ORL'}","{'Bones Hyland', 'Thomas Bryant', 'Mo Bamba', 'Davon Reed', 'Bronny James', 'Patrick Beverley'}",True
-29,"February 9, 2023","{'MIN', 'LAL', 'UTA'}","{'Mike Conley', 'Juan Toscano-Anderson', 'Damian Jones', 'Bobi Klintman', ""D'Angelo Russell"", 'Malik Beasley', 'Nickeil Alexander-Walker', 'Jarred Vanderbilt', 'Russell Westbrook'}",True
-30,"February 9, 2023","{'SAS', 'TOR'}","{'Jakob Poeltl', 'Rob Dillingham', 'Sidy Cissoko', 'Khem Birch'}",True
-31,"June 22, 2023","{'MIL', 'ORL'}",{'Andre Jackson'},True
-32,"June 23, 2023","{'MIN', 'SAS'}",{'Leonard Miller'},True
-33,"June 23, 2023","{'GSW', 'WAS'}",{'Trayce Jackson-Davis'},False
-34,"June 23, 2023","{'WAS', 'BOS', 'MEM'}","{'Bub Carrington', 'Marcus Smart', 'Mike Muscala', 'Julian Phillips', 'Marcus Sasser', 'Kristaps Porzingis', 'Danilo Gallinari', 'Tyus Jones'}",True
-35,"June 23, 2023","{'DEN', 'LAL', 'OKC', 'IND'}","{'Isaiah Collier', 'Hunter Tyson', 'Kevin McCullar Jr.', 'Maxwell Lewis', 'Mojave King', 'Julian Strawther', 'Jalen Pickett'}",True
-36,"June 23, 2023","{'PHO', 'WAS', 'IND'}","{'Chris Paul', 'Landry Shamet', 'Melvin AjinÃ§a', 'Jordan Goodwin', 'Bilal Coulibaly', 'Jarace Walker', 'Bradley Beal', 'Isaiah Todd'}",True
-37,"June 28, 2023","{'DET', 'BOS'}","{'James Nnaji', 'Marcus Sasser'}",True
-38,"June 28, 2023","{'CHO', 'BOS'}","{'Colby Jones', 'Mouhamed Gueye', 'James Nnaji'}",False
-39,"June 28, 2023","{'BOS', 'SAC'}","{'Colby Jones', 'Anton Watson', 'Jordan Walsh'}",True
-40,"June 28, 2023","{'BOS', 'ATL'}",{'Mouhamed Gueye'},True
-41,"June 28, 2023","{'WAS', 'CHI'}",{'Julian Phillips'},True
+,date,teams,players
+0,"July 6, 2022","{'MIN', 'UTA'}","{'Walker Kessler', 'Jarred Vanderbilt', 'Leandro Bolmaro', 'Malik Beasley', 'Rudy Gobert', 'Patrick Beverley'}"
+1,"July 6, 2022","{'DET', 'POR'}","{'Ismael Kamagate', 'Gabriele Procida', 'Jerami Grant'}"
+2,"July 6, 2022","{'DEN', 'WAS'}","{'Ish Smith', 'Kentavious Caldwell-Pope', 'Will Barton', 'Monte Morris'}"
+3,"July 6, 2022","{'DEN', 'POR'}",{'Ismael Kamagate'}
+4,"July 6, 2022","{'PHO', 'ATL'}",{'Jock Landale'}
+5,"July 6, 2022","{'SAC', 'ATL'}","{'Maurice Harkless', 'Justin Holiday', 'Kevin Huerter'}"
+6,"July 6, 2022","{'DET', 'NYK'}","{'Jalen Duren', 'Kemba Walker'}"
+7,"July 9, 2022","{'BOS', 'IND'}","{'Aaron Nesmith', 'Malcolm Brogdon', 'Daniel Theis', 'Nik Stauskas', 'Juwan Morgan', 'Malik Fitts'}"
+8,"July 11, 2022","{'DET', 'NYK'}","{'Nikola RadiÄ\x8deviÄ\x87', 'Nerlens Noel', 'Alec Burks'}"
+9,"August 25, 2022","{'LAL', 'UTA'}","{'Stanley Johnson', 'Talen Horton-Tucker', 'Patrick Beverley'}"
+10,"September 3, 2022","{'CLE', 'UTA'}","{'Donovan Mitchell', 'Lauri Markkanen', 'Collin Sexton', 'Ochai Agbaji'}"
+11,"September 22, 2022","{'DET', 'UTA'}","{'Bojan Bogdanovic', 'Saben Lee', 'Kelly Olynyk'}"
+12,"September 27, 2022","{'OKC', 'ATL'}","{'Vit Krejci', 'Maurice Harkless'}"
+13,"September 30, 2022","{'OKC', 'HOU'}","{'Ty Jerome', 'Sterling Brown', 'Maurice Harkless', 'Marquese Chriss', 'Trey Burke', 'David Nwaba', 'Derrick Favors'}"
+14,"January 5, 2023","{'SAS', 'BOS'}",{'Noah Vonleh'}
+15,"January 23, 2023","{'WAS', 'LAL'}","{'Kendrick Nunn', 'Rui Hachimura'}"
+16,"February 6, 2023","{'DAL', 'BRK'}","{'Markieff Morris', 'Dorian Finney-Smith', 'Kyrie Irving', 'Spencer Dinwiddie'}"
+17,"February 7, 2023","{'BRK', 'SAC'}","{'Kessler Edwards', 'David Michineau'}"
+18,"February 7, 2023","{'SAS', 'MIA'}",{'Dewayne Dedmon'}
+19,"February 9, 2023","{'CHO', 'LAC'}","{'Reggie Jackson', 'Mason Plumlee'}"
+20,"February 9, 2023","{'CHO', 'PHI', 'NYK', 'POR'}","{'Bojan Dubljevic', 'Cam Reddish', 'Jalen McDaniels', 'Matisse Thybulle', 'Josh Hart', 'Dani Diez', 'Sviatoslav Mykhailiuk', 'Ante Tomic', 'Ryan Arcidiacono'}"
+21,"February 9, 2023","{'LAC', 'MEM', 'HOU'}","{'Danny Green', 'Luke Kennard', 'Eric Gordon', 'John Wall'}"
+22,"February 9, 2023","{'BOS', 'OKC'}","{'Justin Jackson', 'Mike Muscala'}"
+23,"February 9, 2023","{'SAS', 'NOP'}","{'Josh Richardson', ""Devonte' Graham""}"
+24,"February 9, 2023","{'GSW', 'POR', 'DET', 'ATL'}","{'Kevin Knox', 'Saddiq Bey', 'Gary Payton II', 'James Wiseman'}"
+25,"February 9, 2023","{'PHO', 'OKC'}","{'Darius Bazley', 'Dario Saric'}"
+26,"February 9, 2023","{'HOU', 'ATL'}","{'Bruno Fernando', 'Justin Holiday', 'Frank Kaminsky', 'Garrison Mathews'}"
+27,"February 9, 2023","{'PHO', 'BRK', 'MIL', 'IND'}","{'T.J. Warren', 'Juan Vaulet', 'Jae Crowder', 'George Hill', 'Serge Ibaka', 'Cameron Johnson', 'Jordan Nwora', 'Mikal Bridges', 'Kevin Durant'}"
+28,"February 9, 2023","{'DEN', 'LAC', 'LAL', 'ORL'}","{'Mo Bamba', 'Bones Hyland', 'Thomas Bryant', 'Davon Reed', 'Patrick Beverley'}"
+29,"February 9, 2023","{'MIN', 'LAL', 'UTA'}","{'Mike Conley', 'Juan Toscano-Anderson', 'Damian Jones', ""D'Angelo Russell"", 'Malik Beasley', 'Nickeil Alexander-Walker', 'Jarred Vanderbilt', 'Russell Westbrook'}"
+30,"February 9, 2023","{'SAS', 'TOR'}","{'Jakob Poeltl', 'Khem Birch'}"
+31,"June 22, 2023","{'MIL', 'ORL'}",{'Andre Jackson'}
+32,"June 23, 2023","{'MIN', 'SAS'}",{'Leonard Miller'}
+33,"June 23, 2023","{'GSW', 'WAS'}",{'Trayce Jackson-Davis'}
+34,"June 23, 2023","{'WAS', 'BOS', 'MEM'}","{'Marcus Smart', 'Mike Muscala', 'Julian Phillips', 'Marcus Sasser', 'Kristaps Porzingis', 'Danilo Gallinari', 'Tyus Jones'}"
+35,"June 23, 2023","{'DEN', 'LAL', 'OKC', 'IND'}","{'Julian Strawther', 'Hunter Tyson', 'Maxwell Lewis', 'Jalen Pickett', 'Mojave King'}"
+36,"June 23, 2023","{'PHO', 'WAS', 'IND'}","{'Chris Paul', 'Landry Shamet', 'Jordan Goodwin', 'Bilal Coulibaly', 'Jarace Walker', 'Bradley Beal', 'Isaiah Todd'}"
+37,"June 28, 2023","{'DET', 'BOS'}","{'James Nnaji', 'Marcus Sasser'}"
+38,"June 28, 2023","{'CHO', 'BOS'}","{'Colby Jones', 'Mouhamed Gueye', 'James Nnaji'}"
+39,"June 28, 2023","{'BOS', 'SAC'}","{'Colby Jones', 'Jordan Walsh'}"
+40,"June 28, 2023","{'BOS', 'ATL'}",{'Mouhamed Gueye'}
+41,"June 28, 2023","{'WAS', 'CHI'}",{'Julian Phillips'}

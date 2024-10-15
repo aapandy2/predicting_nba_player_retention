@@ -1,27 +1,27 @@
-,date,teams,players,includes_draft_picks
-0,"July 22, 2002","{'BOS', 'SEA'}","{'Shammond Williams', 'Vin Baker', 'Joseph Forte', 'Kenny Anderson', 'Vitaly Potapenko'}",False
-1,"July 30, 2002","{'LAC', 'CLE'}","{'Darius Miles', 'Bryant Stith', 'Andre Miller', 'Harold Jamison'}",False
-2,"August 1, 2002","{'DEN', 'ORL'}","{'Sergei Lishouk', 'Don Reid', 'Marcus Williams'}",True
-3,"August 2, 2002","{'MIL', 'ATL'}","{'Leon Smith', 'T.J. Ford', 'Glenn Robinson', 'Toni KukoÄ\x8d'}",True
-4,"August 5, 2002","{'SAS', 'POR'}","{'Amal McCaskill', 'Charles Smith', 'Steve Kerr', 'Erick Barkley', 'Antonio Daniels', 'Andreas Glyniadakis'}",True
-5,"August 6, 2002","{'NJN', 'PHI'}","{'Keith Van Horn', 'Todd MacCulloch', 'Dikembe Mutombo'}",False
-6,"September 11, 2002","{'DET', 'WAS'}","{'Jerry Stackhouse', 'Brian Cardinal', 'Ratko Varda', 'Bobby Simmons', 'Hubert Davis', 'Richard Hamilton'}",False
-7,"September 17, 2002","{'PHO', 'CLE'}","{'Milt Palacio', 'Malik Hairston'}",True
-8,"September 25, 2002","{'TOR', 'CLE'}","{'Jared Dudley', 'Michael Stewart', 'Albert Miralles', 'Lamond Murray'}",True
-9,"October 1, 2002","{'DEN', 'DET'}","{'Rodney White', 'Don Reid', 'Mengke Bateer', 'Josh Smith'}",True
-10,"October 3, 2002","{'SAS', 'DET'}","{'Mengke Bateer', 'Andreas Glyniadakis'}",True
-11,"October 24, 2002","{'DEN', 'WAS'}","{'George McCloud', 'Chris Whitney'}",False
-12,"December 18, 2002","{'DEN', 'PHI', 'HOU'}","{'Mark Bryant', 'Kenny Thomas', 'Art Long', 'Vassilis Spanoulis', 'James Posey', 'Joey Graham'}",True
-13,"February 19, 2003","{'MEM', 'ORL'}","{'Gordan GiriÄ\x8dek', 'Ryan Humphrey', 'Mike Miller', 'Drew Gooden', 'Kendrick Perkins', 'Sergei Lishouk'}",True
-14,"February 20, 2003","{'MIL', 'SEA'}","{'Ronald Murray', 'Luke Ridnour', 'Ray Allen', 'Desmond Mason', 'Gary Payton', 'Kevin Ollie'}",True
-15,"February 20, 2003","{'NOH', 'SEA'}","{'Elden Campbell', 'Kenny Anderson'}",False
-16,"February 20, 2003","{'DEN', 'BOS'}","{'Mark Bryant', 'Sani BeÄ\x8diroviÄ\x8d', 'Mark Blount', 'Shammond Williams'}",True
-17,"June 11, 2003","{'NYK', 'HOU'}","{'Dijon Thompson', 'Jeff Van Gundy (coach)'}",True
-18,"June 23, 2003","{'DEN', 'DAL'}","{'Vassilis Spanoulis', 'Xue Yuyang'}",True
-19,"June 25, 2003","{'BOS', 'SAC'}","{'Orien Greene', 'Brandon Hunter', 'Darius Songaila'}",True
-20,"June 26, 2003","{'TOR', 'CHI'}","{'Chris Duhon', 'Matt Bonner'}",True
-21,"June 26, 2003","{'BOS', 'MEM'}","{'Marcus Banks', 'Dahntay Jones', 'Kendrick Perkins', 'Troy Bell'}",False
-22,"June 26, 2003","{'PHI', 'SEA'}","{'Willie Green', 'Paccelis Morlende'}",False
-23,"June 26, 2003","{'PHO', 'SAS'}","{'Leandro Barbosa', 'David Lee'}",True
-24,"June 26, 2003","{'MIL', 'ORL'}",{'Keith Bogans'},False
-25,"June 27, 2003","{'MIL', 'MIN'}","{'Ervin Johnson', 'Anthony Peeler', 'Joe Smith', 'Sam Cassell'}",False
+,date,teams,players
+0,"July 22, 2002","{'BOS', 'SEA'}","{'Shammond Williams', 'Vitaly Potapenko', 'Vin Baker', 'Joseph Forte', 'Kenny Anderson'}"
+1,"July 30, 2002","{'LAC', 'CLE'}","{'Darius Miles', 'Bryant Stith', 'Andre Miller', 'Harold Jamison'}"
+2,"August 1, 2002","{'DEN', 'ORL'}",{'Don Reid'}
+3,"August 2, 2002","{'MIL', 'ATL'}","{'Leon Smith', 'Glenn Robinson', 'Toni KukoÄ\x8d'}"
+4,"August 5, 2002","{'SAS', 'POR'}","{'Erick Barkley', 'Amal McCaskill', 'Antonio Daniels', 'Charles Smith', 'Steve Kerr'}"
+5,"August 6, 2002","{'NJN', 'PHI'}","{'Keith Van Horn', 'Todd MacCulloch', 'Dikembe Mutombo'}"
+6,"September 11, 2002","{'DET', 'WAS'}","{'Jerry Stackhouse', 'Bobby Simmons', 'Hubert Davis', 'Brian Cardinal', 'Ratko Varda', 'Richard Hamilton'}"
+7,"September 17, 2002","{'PHO', 'CLE'}",{'Milt Palacio'}
+8,"September 25, 2002","{'TOR', 'CLE'}","{'Michael Stewart', 'Lamond Murray'}"
+9,"October 1, 2002","{'DEN', 'DET'}","{'Rodney White', 'Don Reid', 'Mengke Bateer'}"
+10,"October 3, 2002","{'SAS', 'DET'}",{'Mengke Bateer'}
+11,"October 24, 2002","{'DEN', 'WAS'}","{'George McCloud', 'Chris Whitney'}"
+12,"December 18, 2002","{'DEN', 'PHI', 'HOU'}","{'Mark Bryant', 'Kenny Thomas', 'Art Long', 'James Posey'}"
+13,"February 19, 2003","{'MEM', 'ORL'}","{'Mike Miller', 'Drew Gooden', 'Gordan GiriÄ\x8dek', 'Ryan Humphrey'}"
+14,"February 20, 2003","{'MIL', 'SEA'}","{'Ray Allen', 'Desmond Mason', 'Ronald Murray', 'Gary Payton', 'Kevin Ollie'}"
+15,"February 20, 2003","{'NOH', 'SEA'}","{'Elden Campbell', 'Kenny Anderson'}"
+16,"February 20, 2003","{'DEN', 'BOS'}","{'Mark Bryant', 'Mark Blount', 'Shammond Williams'}"
+17,"June 11, 2003","{'NYK', 'HOU'}",{'Jeff Van Gundy (coach)'}
+18,"June 23, 2003","{'DEN', 'DAL'}",{'Xue Yuyang'}
+19,"June 25, 2003","{'BOS', 'SAC'}",{'Darius Songaila'}
+20,"June 26, 2003","{'TOR', 'CHI'}",{'Matt Bonner'}
+21,"June 26, 2003","{'BOS', 'MEM'}","{'Marcus Banks', 'Dahntay Jones', 'Kendrick Perkins', 'Troy Bell'}"
+22,"June 26, 2003","{'PHI', 'SEA'}","{'Willie Green', 'Paccelis Morlende'}"
+23,"June 26, 2003","{'PHO', 'SAS'}",{'Leandro Barbosa'}
+24,"June 26, 2003","{'MIL', 'ORL'}",{'Keith Bogans'}
+25,"June 27, 2003","{'MIL', 'MIN'}","{'Ervin Johnson', 'Anthony Peeler', 'Joe Smith', 'Sam Cassell'}"

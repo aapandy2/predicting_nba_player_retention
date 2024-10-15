@@ -1,22 +1,22 @@
-,date,teams,players,includes_draft_picks
-0,"July 1, 1991","{'SAC', 'ATL'}","{'Spud Webb', 'Travis Mays', 'Lawrence Funderburke'}",True
-1,"July 1, 1991","{'DEN', 'MIL', 'ATL'}","{'Rodney Dent', 'Anthony Avent', 'Blair Rasmussen', 'Kevin Brooks', 'Josh Grant'}",True
-2,"July 3, 1991","{'LAC', 'NYK'}","{'Joe Wylie', 'Leonard White'}",True
-3,"August 13, 1991","{'DEN', 'DET'}","{'Scott Hastings', 'Orlando Woolridge', 'Robert Werdann'}",True
-4,"August 13, 1991","{'DET', 'LAC'}","{'Jeff Martin', 'Lou Roe', 'James Edwards'}",True
-5,"September 5, 1991","{'DET', 'WSB'}","{'Frankie King', 'Darrell Walker', 'Conrad McRae'}",True
-6,"September 23, 1991","{'SAS', 'SAC'}","{'Antoine Carr', 'Dwayne Schintzius', 'Jevon Crudup'}",True
-7,"October 1, 1991","{'PHO', 'NYK'}","{'Jerrod Mustaf', 'Trent Tucker', 'Anthony Goldwire', 'Brian Davis', 'Xavier McDaniel'}",True
-8,"October 2, 1991","{'LAL', 'SEA'}","{'Martin Lewis', 'Dontonio Wingfield', 'Sedale Threatt', 'Jeff Nordgaard'}",True
-9,"October 3, 1991","{'NYK', 'ATL'}","{'Charlie Ward', 'Tim McCormick', 'Maurice Cheeks'}",True
-10,"November 1, 1991","{'GSW', 'SAC'}","{'Les Jepsen', 'Mitch Richmond', 'Tyus Edney', 'Billy Owens'}",True
-11,"November 4, 1991","{'SAC', 'CHI'}","{'Corey Williams', 'Dennis Hopson', 'Bob Hansen'}",True
-12,"November 25, 1991","{'MIN', 'UTA'}","{'Tim Burroughs', 'Thurl Bailey', 'Tyrone Corbin'}",True
-13,"January 10, 1992","{'MIA', 'BOS'}","{'Brian Shaw', 'Sherman Douglas'}",False
-14,"February 19, 1992","{'CHH', 'WSB'}","{'Tom Hammonds', 'Rex Chapman'}",False
-15,"February 20, 1992","{'DAL', 'NYK'}","{'James Donaldson', 'Brian Quinnett'}",False
-16,"May 11, 1992","{'MIL', 'LAL'}","{'Duane Cooper', 'Dwayne Whitfield'}",True
-17,"June 17, 1992","{'PHO', 'PHI'}","{'Jeff Hornacek', 'Charles Barkley', 'Tim Perry', 'Andrew Lang'}",False
-18,"June 24, 1992","{'MIL', 'UTA'}","{'Blue Edwards', 'Jay Humphries', 'Larry Krystkowiak', 'Eric Murdock', 'Lee Mayberry'}",True
-19,"June 24, 1992","{'DET', 'LAC'}","{'Eddie Elisma', 'Don MacLean', 'Olden Polynice', 'Russ Millard', 'William Bedford'}",True
-20,"June 24, 1992","{'DAL', 'NYK'}","{'Rolando Blackman', 'Loren Meyer'}",True
+,date,teams,players
+0,"July 1, 1991","{'SAC', 'ATL'}","{'Spud Webb', 'Travis Mays'}"
+1,"July 1, 1991","{'DEN', 'MIL', 'ATL'}","{'Anthony Avent', 'Blair Rasmussen', 'Kevin Brooks'}"
+2,"July 3, 1991","{'LAC', 'NYK'}",{'Joe Wylie'}
+3,"August 13, 1991","{'DEN', 'DET'}","{'Scott Hastings', 'Orlando Woolridge'}"
+4,"August 13, 1991","{'DET', 'LAC'}","{'Jeff Martin', 'James Edwards'}"
+5,"September 5, 1991","{'DET', 'WSB'}",{'Darrell Walker'}
+6,"September 23, 1991","{'SAS', 'SAC'}","{'Antoine Carr', 'Dwayne Schintzius'}"
+7,"October 1, 1991","{'PHO', 'NYK'}","{'Jerrod Mustaf', 'Trent Tucker', 'Xavier McDaniel'}"
+8,"October 2, 1991","{'LAL', 'SEA'}",{'Sedale Threatt'}
+9,"October 3, 1991","{'NYK', 'ATL'}","{'Tim McCormick', 'Maurice Cheeks'}"
+10,"November 1, 1991","{'GSW', 'SAC'}","{'Les Jepsen', 'Mitch Richmond', 'Billy Owens'}"
+11,"November 4, 1991","{'SAC', 'CHI'}","{'Dennis Hopson', 'Bob Hansen'}"
+12,"November 25, 1991","{'MIN', 'UTA'}","{'Thurl Bailey', 'Tyrone Corbin'}"
+13,"January 10, 1992","{'MIA', 'BOS'}","{'Brian Shaw', 'Sherman Douglas'}"
+14,"February 19, 1992","{'CHH', 'WSB'}","{'Tom Hammonds', 'Rex Chapman'}"
+15,"February 20, 1992","{'DAL', 'NYK'}","{'James Donaldson', 'Brian Quinnett'}"
+16,"May 11, 1992","{'MIL', 'LAL'}",{'Mike Dunleavy'}
+17,"June 17, 1992","{'PHO', 'PHI'}","{'Jeff Hornacek', 'Charles Barkley', 'Tim Perry', 'Andrew Lang'}"
+18,"June 24, 1992","{'MIL', 'UTA'}","{'Blue Edwards', 'Jay Humphries', 'Eric Murdock', 'Larry Krystkowiak'}"
+19,"June 24, 1992","{'DET', 'LAC'}","{'William Bedford', 'Don MacLean', 'Olden Polynice'}"
+20,"June 24, 1992","{'DAL', 'NYK'}",{'Rolando Blackman'}

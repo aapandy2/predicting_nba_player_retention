@@ -1,46 +1,46 @@
-,date,teams,players,includes_draft_picks
-0,"August 2, 2005","{'WAS', 'LAL'}","{'Caron Butler', 'Kwame Brown', 'Chucky Atkins', 'Laron Profit'}",False
-1,"August 2, 2005","{'UTA', 'NOK', 'MIA', 'BOS', 'MEM'}","{'Eddie Jones', 'Kirk Snyder', 'Andre Emmett', 'Qyntel Woods', 'Albert Miralles', 'Roberto Duenas', 'Nikola PekoviÄ\x87', 'RaÃ¼l LÃ³pez', 'Curtis Borchardt', 'Antoine Walker', 'Greg Ostertag', 'Rasual Butler', 'Jason Williams', 'James Posey', 'Edin BavÄ\x8diÄ\x87'}",True
-2,"August 2, 2005","{'MEM', 'SAC'}","{'Greg Ostertag', 'Bobby Jackson', 'Bonzi Wells'}",False
-3,"August 2, 2005","{'CHA', 'SAC'}","{'Jason Hart', 'Ryan Hollins'}",True
-4,"August 2, 2005","{'PHO', 'CHA'}",{'Jake Voskuhl'},True
-5,"August 9, 2005","{'NJN', 'PHI'}",{'Marc Jackson'},True
-6,"August 12, 2005","{'MIN', 'LAC'}","{'Sam Cassell', 'Austin Rivers', 'Lionel Chalmers', 'Marko JariÄ\x87'}",True
-7,"August 19, 2005","{'PHO', 'ATL'}","{'Rajon Rondo', 'Robin Lopez', 'Boris Diaw', 'Joe Johnson'}",True
-8,"August 25, 2005","{'PHO', 'IND'}","{'James Jones', 'Mike Taylor'}",True
-9,"September 30, 2005","{'BOS', 'NOK'}","{'Dan Dickau', 'Edin BavÄ\x8diÄ\x87'}",True
-10,"October 4, 2005","{'TOR', 'HOU'}","{'Rafer Alston', 'Mike James'}",False
-11,"October 4, 2005","{'NYK', 'CHI'}","{'Joakim Noah', 'Wilson Chandler', 'Antonio Davis', 'Tim Thomas', 'Kyrylo Fesenko', 'Jon Brockman', 'Eddy Curry', 'Jermaine Jackson', 'LaMarcus Aldridge', 'Mike Sweetney'}",True
-12,"October 26, 2005","{'CHA', 'LAL'}","{'Sun Yue', 'Jumaine Jones'}",True
-13,"October 26, 2005","{'MIL', 'NOK'}","{'Cedric Simmons', 'Desmond Mason', 'Jamaal Magloire'}",True
-14,"October 31, 2005","{'MIN', 'DET'}","{'DaJuan Summers', 'Ronald Dupree'}",True
-15,"January 25, 2006","{'SAC', 'IND'}","{'Metta World Peace', 'Peja StojakoviÄ\x87'}",False
-16,"January 26, 2006","{'MIN', 'BOS'}","{'Justin Reed', 'Craig Smith', 'Nikola PekoviÄ\x87', 'Dwayne Jones', 'Mark Blount', 'Michael Olowokandi', 'Ricky Davis', 'Marcus Banks', 'Wally Szczerbiak', 'Jonny Flynn'}",True
-17,"January 26, 2006","{'MIN', 'PHO'}","{'Loukas Mavrokefalidis', 'Nikoloz Tskitishvili'}",True
-18,"January 31, 2006","{'TOR', 'NOK'}","{'Jack McClinton', 'Aaron Williams', 'Edin BavÄ\x8diÄ\x87'}",True
-19,"February 3, 2006","{'TOR', 'NYK'}","{'Renaldo Balkman', 'Jalen Rose', 'Antonio Davis'}",True
-20,"February 9, 2006","{'CHA', 'HOU'}","{'Keith Bogans', 'Lonny Baxter'}",False
-21,"February 13, 2006","{'NOK', 'HOU'}","{'Moochie Norris', 'Maciej Lampe'}",False
-22,"February 14, 2006","{'LAC', 'SEA'}","{'Vladimir RadmanoviÄ\x87', 'Chris Wilcox'}",False
-23,"February 15, 2006","{'DET', 'ORL'}","{'Rodney Stuckey', 'Kelvin Cato', 'Carlos Arroyo', 'Darko MiliÄ\x8diÄ\x87'}",True
-24,"February 22, 2006","{'NYK', 'ORL'}","{'Anfernee Hardaway', 'Steve Francis', 'Trevor Ariza'}",False
-25,"February 23, 2006","{'PHI', 'CLE'}","{'Daniel Gibson', 'Lee Nailon'}",True
-26,"February 23, 2006","{'MIA', 'HOU'}","{'Gerald Fitch', 'Derek Anderson'}",False
-27,"February 23, 2006","{'DEN', 'POR', 'SEA', 'SAC'}","{'Bryon Russell', 'Sergei Monia', 'Ruben Patterson', 'Charles Smith', 'Voshon Lenard', 'Reggie Evans', 'Vitaly Potapenko', 'DeVon Hardin', 'Brian Skinner', 'Earl Watson'}",True
-28,"February 23, 2006","{'CLE', 'SEA'}","{'Ronald Murray', 'Mike Wilks'}",False
-29,"February 23, 2006","{'NJN', 'NOK'}","{'Linton Johnson', 'Marc Jackson', 'BoÅ¡tjan Nachbar'}",False
-30,"June 8, 2006","{'TOR', 'UTA'}","{'Rafael AraÃºjo', 'Kris Humphries', 'Robert Whaley'}",False
-31,"June 21, 2006","{'SAS', 'TOR'}","{'Jack McClinton', 'Eric Williams', 'Matt Bonner', 'Rasho NesteroviÄ\x87'}",True
-32,"June 28, 2006","{'PHO', 'BOS'}","{'Rudy FernÃ¡ndez', 'Rajon Rondo', 'Brian Grant'}",True
-33,"June 28, 2006","{'MIL', 'SAS'}","{'Damir Markota', 'Marcus Williams'}",True
-34,"June 28, 2006","{'DEN', 'BOS'}","{'Leon Powe', 'Aaron Gray'}",True
-35,"June 28, 2006","{'POR', 'CHI'}","{'Tyrus Thomas', 'Demetris Nichols', 'Viktor Khryapa', 'LaMarcus Aldridge'}",True
-36,"June 28, 2006","{'POR', 'IND'}","{'Mike Taylor', 'James White', 'Alexander Johnson', 'Derrick Byars'}",True
-37,"June 28, 2006","{'POR', 'MEM'}","{'Joey Dorsey', 'Alexander Johnson'}",True
-38,"June 28, 2006","{'LAL', 'DAL'}","{'Renaldas Seibutis', 'J.R. Pinnock'}",True
-39,"June 28, 2006","{'POR', 'BOS'}","{'Dan Dickau', 'Raef LaFrentz', 'Sebastian Telfair', 'Theo Ratliff', 'Trent Plaisted', 'Randy Foye'}",True
-40,"June 28, 2006","{'MIN', 'POR'}","{'Randy Foye', 'Brandon Roy'}",False
-41,"June 28, 2006","{'DET', 'LAL'}","{'Maurice Evans', 'Cheikh Samb'}",False
-42,"June 28, 2006","{'PHI', 'CHI'}","{'Rodney Carney', 'Kyrylo Fesenko', 'Thabo Sefolosha'}",True
-43,"June 28, 2006","{'MIN', 'PHI'}","{'Bobby Jones', 'Chris Richard'}",True
-44,"June 30, 2006","{'MIL', 'TOR'}","{'Charlie Villanueva', 'T.J. Ford'}",False
+,date,teams,players
+0,"August 2, 2005","{'WAS', 'LAL'}","{'Caron Butler', 'Kwame Brown', 'Chucky Atkins', 'Laron Profit'}"
+1,"August 2, 2005","{'UTA', 'NOK', 'MIA', 'BOS', 'MEM'}","{'Eddie Jones', 'Kirk Snyder', 'Andre Emmett', 'Qyntel Woods', 'Albert Miralles', 'Roberto Duenas', 'RaÃ¼l LÃ³pez', 'Curtis Borchardt', 'Antoine Walker', 'Greg Ostertag', 'Rasual Butler', 'Jason Williams', 'James Posey'}"
+2,"August 2, 2005","{'MEM', 'SAC'}","{'Greg Ostertag', 'Bobby Jackson', 'Bonzi Wells'}"
+3,"August 2, 2005","{'CHA', 'SAC'}",{'Jason Hart'}
+4,"August 2, 2005","{'PHO', 'CHA'}",{'Jake Voskuhl'}
+5,"August 9, 2005","{'NJN', 'PHI'}",{'Marc Jackson'}
+6,"August 12, 2005","{'MIN', 'LAC'}","{'Sam Cassell', 'Lionel Chalmers', 'Marko JariÄ\x87'}"
+7,"August 19, 2005","{'PHO', 'ATL'}","{'Boris Diaw', 'Joe Johnson'}"
+8,"August 25, 2005","{'PHO', 'IND'}",{'James Jones'}
+9,"September 30, 2005","{'BOS', 'NOK'}",{'Dan Dickau'}
+10,"October 4, 2005","{'TOR', 'HOU'}","{'Rafer Alston', 'Mike James'}"
+11,"October 4, 2005","{'NYK', 'CHI'}","{'Antonio Davis', 'Tim Thomas', 'Eddy Curry', 'Jermaine Jackson', 'Mike Sweetney'}"
+12,"October 26, 2005","{'CHA', 'LAL'}",{'Jumaine Jones'}
+13,"October 26, 2005","{'MIL', 'NOK'}","{'Desmond Mason', 'Jamaal Magloire'}"
+14,"October 31, 2005","{'MIN', 'DET'}",{'Ronald Dupree'}
+15,"January 25, 2006","{'SAC', 'IND'}","{'Metta World Peace', 'Peja StojakoviÄ\x87'}"
+16,"January 26, 2006","{'MIN', 'BOS'}","{'Justin Reed', 'Dwayne Jones', 'Mark Blount', 'Michael Olowokandi', 'Ricky Davis', 'Marcus Banks', 'Wally Szczerbiak'}"
+17,"January 26, 2006","{'MIN', 'PHO'}",{'Nikoloz Tskitishvili'}
+18,"January 31, 2006","{'TOR', 'NOK'}",{'Aaron Williams'}
+19,"February 3, 2006","{'TOR', 'NYK'}","{'Jalen Rose', 'Antonio Davis'}"
+20,"February 9, 2006","{'CHA', 'HOU'}","{'Keith Bogans', 'Lonny Baxter'}"
+21,"February 13, 2006","{'NOK', 'HOU'}","{'Moochie Norris', 'Maciej Lampe'}"
+22,"February 14, 2006","{'LAC', 'SEA'}","{'Vladimir RadmanoviÄ\x87', 'Chris Wilcox'}"
+23,"February 15, 2006","{'DET', 'ORL'}","{'Kelvin Cato', 'Carlos Arroyo', 'Darko MiliÄ\x8diÄ\x87'}"
+24,"February 22, 2006","{'NYK', 'ORL'}","{'Anfernee Hardaway', 'Steve Francis', 'Trevor Ariza'}"
+25,"February 23, 2006","{'PHI', 'CLE'}",{'Lee Nailon'}
+26,"February 23, 2006","{'MIA', 'HOU'}","{'Gerald Fitch', 'Derek Anderson'}"
+27,"February 23, 2006","{'DEN', 'POR', 'SEA', 'SAC'}","{'Bryon Russell', 'Sergei Monia', 'Ruben Patterson', 'Charles Smith', 'Voshon Lenard', 'Reggie Evans', 'Vitaly Potapenko', 'Brian Skinner', 'Earl Watson'}"
+28,"February 23, 2006","{'CLE', 'SEA'}","{'Ronald Murray', 'Mike Wilks'}"
+29,"February 23, 2006","{'NJN', 'NOK'}","{'Linton Johnson', 'Marc Jackson', 'BoÅ¡tjan Nachbar'}"
+30,"June 8, 2006","{'TOR', 'UTA'}","{'Rafael AraÃºjo', 'Kris Humphries', 'Robert Whaley'}"
+31,"June 21, 2006","{'SAS', 'TOR'}","{'Eric Williams', 'Matt Bonner', 'Rasho NesteroviÄ\x87'}"
+32,"June 28, 2006","{'PHO', 'BOS'}","{'Rajon Rondo', 'Brian Grant'}"
+33,"June 28, 2006","{'MIL', 'SAS'}",{'Damir Markota'}
+34,"June 28, 2006","{'DEN', 'BOS'}",{'Leon Powe'}
+35,"June 28, 2006","{'POR', 'CHI'}","{'Tyrus Thomas', 'Viktor Khryapa', 'LaMarcus Aldridge'}"
+36,"June 28, 2006","{'POR', 'IND'}","{'James White', 'Alexander Johnson'}"
+37,"June 28, 2006","{'POR', 'MEM'}",{'Alexander Johnson'}
+38,"June 28, 2006","{'LAL', 'DAL'}",{'J.R. Pinnock'}
+39,"June 28, 2006","{'POR', 'BOS'}","{'Dan Dickau', 'Theo Ratliff', 'Raef LaFrentz', 'Sebastian Telfair', 'Randy Foye'}"
+40,"June 28, 2006","{'MIN', 'POR'}","{'Randy Foye', 'Brandon Roy'}"
+41,"June 28, 2006","{'DET', 'LAL'}","{'Maurice Evans', 'Cheikh Samb'}"
+42,"June 28, 2006","{'PHI', 'CHI'}","{'Rodney Carney', 'Thabo Sefolosha'}"
+43,"June 28, 2006","{'MIN', 'PHI'}",{'Bobby Jones'}
+44,"June 30, 2006","{'MIL', 'TOR'}","{'Charlie Villanueva', 'T.J. Ford'}"

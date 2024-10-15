@@ -1,53 +1,53 @@
-,date,teams,players,includes_draft_picks
-0,"July 11, 2012","{'PHO', 'LAL'}","{'Steve Nash', ""Johnny O'Bryant"", 'Nemanja NedoviÄ\x87', 'Alex Oriakhi', 'Mikal Bridges'}",True
-1,"July 11, 2012","{'TOR', 'HOU'}","{'Gary Forbes', 'Kyle Lowry', 'Steven Adams'}",True
-2,"July 11, 2012","{'NOH', 'ORL'}","{'Gustavo AyÃ³n', 'Ryan Anderson'}",False
-3,"July 11, 2012","{'NYK', 'HOU'}","{'Montrezl Harrell', 'Marcus Camby', 'Nick Johnson', 'Jerome Jordan', 'Josh Harrellson', 'Toney Douglas'}",True
-4,"July 11, 2012","{'UTA', 'ATL'}","{'Marvin Williams', 'Devin Harris'}",False
-5,"July 11, 2012","{'BRK', 'ATL'}","{'Jordan Farmar', 'Johan Petro', 'Jordan Williams', 'Joe Johnson', 'DeShawn Stevenson', 'Anthony Morrow', 'Frank Jackson', 'Shane Larkin'}",True
-6,"July 11, 2012","{'GSW', 'PHI', 'NOH'}","{'Jarrett Jack', 'Dorell Wright', 'Darryl Watkins', 'Edin BavÄ\x8diÄ\x87'}",False
-7,"July 11, 2012","{'LAC', 'BRK'}","{'Reggie Evans', 'Marcus Paige', 'Cheick Diallo'}",True
-8,"July 12, 2012","{'DAL', 'IND'}","{'Darren Collison', 'Dahntay Jones', 'Ian Mahinmi'}",False
-9,"July 13, 2012","{'MIN', 'NOH'}","{'Brad Miller', 'Rade Zagorac', 'Lorenzo Brown'}",True
-10,"July 16, 2012","{'TOR', 'SAC'}","{'DeAndre Daniels', 'James Johnson'}",True
-11,"July 16, 2012","{'POR', 'NYK'}","{'Raymond Felton', 'Chinanu Onuaku', 'Jared Jeffries', 'Dan Gadzuric', 'Georgios Printezis', 'Kurt Thomas', 'Kostas Papanikolaou'}",True
-12,"July 16, 2012","{'CHI', 'ATL'}",{'Kyle Korver'},False
-13,"July 20, 2012","{'POR', 'BOS', 'HOU'}","{'Sean Williams', 'Jon Diebler', 'Sasha PavloviÄ\x87', ""E'Twaun Moore"", 'Ã\x81lex Abrines', 'Courtney Lee', 'JaJuan Johnson'}",True
-14,"July 24, 2012","{'MIN', 'MEM'}","{'Dante Cunningham', 'Wayne Ellington'}",False
-15,"July 25, 2012","{'MEM', 'CLE'}","{'Vasilije MiciÄ\x87', 'D.J. Kennedy', 'Jeremy Pargo'}",True
-16,"July 27, 2012","{'MIN', 'PHO', 'NOH'}","{'Wesley Johnson', 'Robin Lopez', 'Hakim Warrick', 'Brad Miller', 'Semi Ojeleye', 'Rade Zagorac', ""Johnny O'Bryant"", 'Lorenzo Brown', 'Jerome Dyson'}",True
-17,"July 30, 2012","{'LAC', 'ATL'}","{'Willie Green', 'Sofoklis Schortsanitis'}",False
-18,"August 10, 2012","{'DEN', 'LAL', 'PHI', 'ORL'}","{'Dario Å\xa0ariÄ\x87', 'Andre Iguodala', 'Al Harrington', 'Andrew Bynum', 'Arron Afflalo', 'Earl Clark', 'Dwight Howard', 'Nikola VuÄ\x8deviÄ\x87', 'Landry Shamet', 'Josh McRoberts', 'Maurice Harkless', 'Chris Duhon', 'Wesley Iwundu', 'Christian Eyenga', 'Romero Osby', 'Jason Richardson'}",True
-19,"October 27, 2012","{'OKC', 'HOU'}","{'Lazar Hayward', 'Cole Aldrich', 'Ã\x81lex Abrines', 'Daequan Cook', 'James Harden', 'Kevin Martin', 'Jeremy Lamb', 'Mitch McGary', 'Steven Adams'}",True
-20,"November 13, 2012","{'CHA', 'NOH'}","{'Hakim Warrick', 'Matt Carroll'}",False
-21,"January 22, 2013","{'MEM', 'CLE'}","{'Wayne Ellington', 'Jon Leuer', 'Harry Giles', 'Marreese Speights', 'Josh Selby'}",True
-22,"January 30, 2013","{'DET', 'TOR', 'MEM'}","{'JosÃ© CalderÃ³n', 'Hamed Haddadi', 'Austin Daye', 'Rudy Gay', 'Jamaal Franklin', 'Tayshaun Prince', 'Ed Davis'}",True
-23,"February 20, 2013","{'SAC', 'HOU'}","{'Francisco GarcÃ\xada', 'Toney Douglas', 'Thomas Robinson', 'Cole Aldrich', 'Patrick Patterson', 'Tyler Honeycutt'}",False
-24,"February 21, 2013","{'WAS', 'BOS'}","{'Leandro Barbosa', 'Jason Collins', 'Jordan Crawford'}",False
-25,"February 21, 2013","{'PHO', 'TOR'}","{'Hamed Haddadi', 'Lamar Patterson', 'Sebastian Telfair'}",True
-26,"February 21, 2013","{'GSW', 'PHI'}",{'Charles Jenkins'},True
-27,"February 21, 2013","{'CHA', 'ORL'}","{'Hakim Warrick', 'Josh McRoberts'}",False
-28,"February 21, 2013","{'POR', 'OKC'}","{'Georgios Printezis', 'Eric Maynor'}",False
-29,"February 21, 2013","{'OKC', 'NYK'}","{'Ronnie Brewer', 'Xavier Thames'}",True
-30,"February 21, 2013","{'MIL', 'ORL'}","{'Tobias Harris', 'Doron Lamb', 'Ish Smith', 'Gustavo AyÃ³n', 'Beno Udrih', 'J.J. Redick'}",False
-31,"February 21, 2013","{'MIA', 'MEM'}","{'Dexter Pittman', 'JÄ\x81nis Timma', 'Ricky SÃ¡nchez'}",True
-32,"February 21, 2013","{'GSW', 'ATL'}",{'Jeremy Tyler'},False
-33,"February 21, 2013","{'DAL', 'ATL'}","{'Anthony Morrow', 'Dahntay Jones'}",False
-34,"February 21, 2013","{'PHO', 'HOU'}","{'Isaiah Canaan', 'Marcus Morris'}",True
-35,"June 25, 2013","{'BOS', 'LAC'}",{'R.J. Hunter'},True
-36,"June 27, 2013","{'MIN', 'UTA'}","{'Shabazz Muhammad', 'Gorgui Dieng', 'Trey Burke'}",False
-37,"June 27, 2013","{'GSW', 'MIN'}","{'Andre Roberson', 'Alessandro Gentile', 'Malcolm Lee'}",True
-38,"June 27, 2013","{'GSW', 'OKC'}","{'Archie Goodwin', 'Andre Roberson'}",False
-39,"June 27, 2013","{'POR', 'CLE'}","{""Sir'Dominic Pointer"", 'Paul Zipser', 'Allen Crabbe'}",True
-40,"June 27, 2013","{'BOS', 'DAL'}","{'Cleanthony Early', 'Kelly Olynyk', 'Lucas Nogueira', 'Russ Smith'}",True
-41,"June 27, 2013","{'DAL', 'ATL'}","{'Mike Muscala', 'Jared Cunningham', 'Lucas Nogueira', 'Shane Larkin'}",False
-42,"June 27, 2013","{'DEN', 'UTA'}","{'Rudy Gobert', 'Erick Green'}",False
-43,"June 27, 2013","{'GSW', 'PHO'}","{'Archie Goodwin', 'Nemanja NedoviÄ\x87', 'Malcolm Lee'}",False
-44,"June 27, 2013","{'WAS', 'PHI'}","{'Arsalan Kazemi', 'Glen Rice Jr.', 'Nate Wolters'}",False
-45,"June 27, 2013","{'POR', 'OKC'}",{'Grant Jerrett'},False
-46,"June 27, 2013","{'MIA', 'ATL'}","{'James Ennis', 'Sterling Brown'}",True
-47,"June 27, 2013","{'BOS', 'IND'}",{'Colton Iverson'},False
-48,"June 27, 2013","{'DEN', 'MEM'}","{'Darrell Arthur', 'Kosta Koufos', 'Joffrey Lauvergne'}",False
-49,"June 27, 2013","{'PHI', 'DAL'}","{'Ricky Ledo', 'Russ Smith'}",True
-50,"June 27, 2013","{'UTA', 'ATL'}","{'Pat Connaughton', 'Raul Neto'}",True
-51,"June 27, 2013","{'MIL', 'PHI'}","{'Nemanja DangubiÄ\x87', 'Ricky Ledo', 'Nate Wolters'}",True
+,date,teams,players
+0,"July 11, 2012","{'PHO', 'LAL'}",{'Steve Nash'}
+1,"July 11, 2012","{'TOR', 'HOU'}","{'Gary Forbes', 'Kyle Lowry'}"
+2,"July 11, 2012","{'NOH', 'ORL'}","{'Gustavo AyÃ³n', 'Ryan Anderson'}"
+3,"July 11, 2012","{'NYK', 'HOU'}","{'Jerome Jordan', 'Marcus Camby', 'Josh Harrellson', 'Toney Douglas'}"
+4,"July 11, 2012","{'UTA', 'ATL'}","{'Marvin Williams', 'Devin Harris'}"
+5,"July 11, 2012","{'BRK', 'ATL'}","{'Jordan Farmar', 'Johan Petro', 'Jordan Williams', 'Joe Johnson', 'DeShawn Stevenson', 'Anthony Morrow'}"
+6,"July 11, 2012","{'GSW', 'PHI', 'NOH'}","{'Jarrett Jack', 'Dorell Wright', 'Darryl Watkins', 'Edin BavÄ\x8diÄ\x87'}"
+7,"July 11, 2012","{'LAC', 'BRK'}",{'Reggie Evans'}
+8,"July 12, 2012","{'DAL', 'IND'}","{'Darren Collison', 'Dahntay Jones', 'Ian Mahinmi'}"
+9,"July 13, 2012","{'MIN', 'NOH'}",{'Brad Miller'}
+10,"July 16, 2012","{'TOR', 'SAC'}",{'James Johnson'}
+11,"July 16, 2012","{'POR', 'NYK'}","{'Raymond Felton', 'Jared Jeffries', 'Dan Gadzuric', 'Georgios Printezis', 'Kurt Thomas', 'Kostas Papanikolaou'}"
+12,"July 16, 2012","{'CHI', 'ATL'}",{'Kyle Korver'}
+13,"July 20, 2012","{'POR', 'BOS', 'HOU'}","{'Sasha PavloviÄ\x87', ""E'Twaun Moore"", 'Sean Williams', 'Jon Diebler', 'Courtney Lee', 'JaJuan Johnson'}"
+14,"July 24, 2012","{'MIN', 'MEM'}","{'Dante Cunningham', 'Wayne Ellington'}"
+15,"July 25, 2012","{'MEM', 'CLE'}","{'D.J. Kennedy', 'Jeremy Pargo'}"
+16,"July 27, 2012","{'MIN', 'PHO', 'NOH'}","{'Wesley Johnson', 'Robin Lopez', 'Hakim Warrick', 'Brad Miller', 'Jerome Dyson'}"
+17,"July 30, 2012","{'LAC', 'ATL'}","{'Willie Green', 'Sofoklis Schortsanitis'}"
+18,"August 10, 2012","{'DEN', 'LAL', 'PHI', 'ORL'}","{'Arron Afflalo', 'Earl Clark', 'Nikola VuÄ\x8deviÄ\x87', 'Christian Eyenga', 'Jason Richardson', 'Andre Iguodala', 'Al Harrington', 'Andrew Bynum', 'Dwight Howard', 'Josh McRoberts', 'Maurice Harkless', 'Chris Duhon'}"
+19,"October 27, 2012","{'OKC', 'HOU'}","{'Lazar Hayward', 'Cole Aldrich', 'Daequan Cook', 'James Harden', 'Kevin Martin', 'Jeremy Lamb'}"
+20,"November 13, 2012","{'CHA', 'NOH'}","{'Hakim Warrick', 'Matt Carroll'}"
+21,"January 22, 2013","{'MEM', 'CLE'}","{'Wayne Ellington', 'Josh Selby', 'Marreese Speights', 'Jon Leuer'}"
+22,"January 30, 2013","{'DET', 'TOR', 'MEM'}","{'JosÃ© CalderÃ³n', 'Hamed Haddadi', 'Tayshaun Prince', 'Austin Daye', 'Rudy Gay', 'Ed Davis'}"
+23,"February 20, 2013","{'SAC', 'HOU'}","{'Francisco GarcÃ\xada', 'Thomas Robinson', 'Patrick Patterson', 'Cole Aldrich', 'Toney Douglas', 'Tyler Honeycutt'}"
+24,"February 21, 2013","{'WAS', 'BOS'}","{'Leandro Barbosa', 'Jason Collins', 'Jordan Crawford'}"
+25,"February 21, 2013","{'PHO', 'TOR'}","{'Hamed Haddadi', 'Sebastian Telfair'}"
+26,"February 21, 2013","{'GSW', 'PHI'}",{'Charles Jenkins'}
+27,"February 21, 2013","{'CHA', 'ORL'}","{'Hakim Warrick', 'Josh McRoberts'}"
+28,"February 21, 2013","{'POR', 'OKC'}","{'Georgios Printezis', 'Eric Maynor'}"
+29,"February 21, 2013","{'OKC', 'NYK'}",{'Ronnie Brewer'}
+30,"February 21, 2013","{'MIL', 'ORL'}","{'Tobias Harris', 'J.J. Redick', 'Doron Lamb', 'Ish Smith', 'Gustavo AyÃ³n', 'Beno Udrih'}"
+31,"February 21, 2013","{'MIA', 'MEM'}","{'Dexter Pittman', 'Ricky SÃ¡nchez'}"
+32,"February 21, 2013","{'GSW', 'ATL'}",{'Jeremy Tyler'}
+33,"February 21, 2013","{'DAL', 'ATL'}","{'Anthony Morrow', 'Dahntay Jones'}"
+34,"February 21, 2013","{'PHO', 'HOU'}",{'Marcus Morris'}
+35,"June 25, 2013","{'BOS', 'LAC'}",set()
+36,"June 27, 2013","{'MIN', 'UTA'}","{'Shabazz Muhammad', 'Gorgui Dieng', 'Trey Burke'}"
+37,"June 27, 2013","{'GSW', 'MIN'}","{'Andre Roberson', 'Malcolm Lee'}"
+38,"June 27, 2013","{'GSW', 'OKC'}","{'Archie Goodwin', 'Andre Roberson'}"
+39,"June 27, 2013","{'POR', 'CLE'}",{'Allen Crabbe'}
+40,"June 27, 2013","{'BOS', 'DAL'}","{'Kelly Olynyk', 'Lucas Nogueira'}"
+41,"June 27, 2013","{'DAL', 'ATL'}","{'Mike Muscala', 'Jared Cunningham', 'Lucas Nogueira', 'Shane Larkin'}"
+42,"June 27, 2013","{'DEN', 'UTA'}","{'Rudy Gobert', 'Erick Green'}"
+43,"June 27, 2013","{'GSW', 'PHO'}","{'Archie Goodwin', 'Nemanja NedoviÄ\x87', 'Malcolm Lee'}"
+44,"June 27, 2013","{'WAS', 'PHI'}","{'Arsalan Kazemi', 'Glen Rice Jr.', 'Nate Wolters'}"
+45,"June 27, 2013","{'POR', 'OKC'}",{'Grant Jerrett'}
+46,"June 27, 2013","{'MIA', 'ATL'}",{'James Ennis'}
+47,"June 27, 2013","{'BOS', 'IND'}",{'Colton Iverson'}
+48,"June 27, 2013","{'DEN', 'MEM'}","{'Darrell Arthur', 'Kosta Koufos', 'Joffrey Lauvergne'}"
+49,"June 27, 2013","{'PHI', 'DAL'}",{'Ricky Ledo'}
+50,"June 27, 2013","{'UTA', 'ATL'}",{'Raul Neto'}
+51,"June 27, 2013","{'MIL', 'PHI'}","{'Ricky Ledo', 'Nate Wolters'}"

@@ -1,28 +1,28 @@
-,date,teams,players,includes_draft_picks
-0,"July 1, 1994","{'GSW', 'LAL'}","{'Anthony Miller', 'Dwayne Whitfield'}",True
-1,"July 18, 1994","{'GSW', 'SEA'}","{'Byron Houston', 'Carlos Rogers', 'Å\xa0arÅ«nas MarÄ\x8diulionis', 'Martin Lewis', 'Ricky Pierce', 'Michael McDonald'}",True
-2,"July 19, 1994","{'SAS', 'DET'}","{""Charles O'Bannon"", 'Sean Elliott', 'Bill Curley'}",True
-3,"July 25, 1994","{'DET', 'PHI'}","{'Jamie Feick', 'Eric Leckner'}",True
-4,"July 29, 1994","{'WSB', 'ORL'}","{'Todd Fuller', 'Keon Clark', 'Scott Skiles', 'Vince Carter', 'Randy Livingston'}",True
-5,"August 1, 1994","{'PHO', 'DET'}","{'Russ Millard', 'Mark West'}",True
-6,"August 2, 1994","{'CHH', 'WSB'}","{'Michael Adams', 'Ronnie Henderson', 'Predrag Drobnjak'}",True
-7,"September 16, 1994","{'UTA', 'ATL'}","{'Cuonzo Martin', 'Adam Keefe', 'Tyrone Corbin'}",True
-8,"September 23, 1994","{'PHO', 'LAL'}","{'Cedric Ceballos', 'Michael Finley'}",True
-9,"October 13, 1994","{'LAL', 'NYK'}","{'Paul Rogers', 'Doug Christie'}",True
-10,"November 1, 1994","{'MIN', 'DAL'}","{'Sean Rooks', 'Kelvin Cato'}",True
-11,"November 2, 1994","{'GSW', 'MIA'}","{'Rony Seikaly', 'Sasha DaniloviÄ\x87', 'Billy Owens'}",False
-12,"November 7, 1994","{'MIA', 'ATL'}","{'Grant Long', 'Kevin Willis', 'Joe Vogel', 'Walter McCarty', 'Steve Smith'}",True
-13,"November 17, 1994","{'GSW', 'WSB'}","{'Todd Fuller', 'Chris Mihm', 'Chris Webber', 'Tom Gugliotta', 'Vince Carter'}",True
-14,"February 3, 1995","{'BOS', 'UTA'}","{'Blue Edwards', 'Jay Humphries', 'Junior Burrough'}",True
-15,"February 14, 1995","{'POR', 'HOU'}","{'Randolph Childress', 'Tracy Murray', 'Marcelo Nicola', 'Clyde Drexler', 'Otis Thorpe'}",True
-16,"February 18, 1995","{'GSW', 'MIN'}","{'Tom Gugliotta', 'Donyell Marshall'}",False
-17,"February 23, 1995","{'DAL', 'HOU'}","{'Erik Meek', 'Scott Brooks', 'Morlon Wiley'}",True
-18,"June 14, 1995","{'MIA', 'CLE'}","{'Harold Miner', 'Donny Marshall', 'George Banks'}",True
-19,"June 24, 1995",{'ORL'},set(),True
-20,"June 27, 1995","{'CHH', 'SEA'}","{'Hersey Hawkins', 'David Wingate', 'Kendall Gill'}",False
-21,"June 28, 1995","{'DET', 'POR'}","{'Don Reid', 'Randolph Childress', 'Theo Ratliff', 'Shawn Respert'}",True
-22,"June 28, 1995","{'MIA', 'WSB'}","{'Jeff Webster', 'Rex Chapman', 'Terrence Rencher', 'Ed Stokes'}",False
-23,"June 28, 1995","{'DEN', 'LAC'}","{'Randy Woods', 'Antonio McDyess', 'Brent Barry', 'Rodney Rogers'}",False
-24,"June 28, 1995","{'MIL', 'POR'}","{'Shawn Respert', 'Gary Trent', 'Paul Grant'}",True
-25,"June 28, 1995","{'MIL', 'SEA'}","{'Jeff Nordgaard', 'Eric Snow', 'Eurelijus Å½ukauskas'}",True
-26,"June 29, 1995","{'SAC', 'ATL'}","{'Spud Webb', 'Tyrone Corbin'}",False
+,date,teams,players
+0,"July 1, 1994","{'GSW', 'LAL'}",{'Anthony Miller'}
+1,"July 18, 1994","{'GSW', 'SEA'}","{'Ricky Pierce', 'Byron Houston', 'Carlos Rogers', 'Å\xa0arÅ«nas MarÄ\x8diulionis'}"
+2,"July 19, 1994","{'SAS', 'DET'}","{'Sean Elliott', 'Bill Curley'}"
+3,"July 25, 1994","{'DET', 'PHI'}",{'Eric Leckner'}
+4,"July 29, 1994","{'WSB', 'ORL'}",{'Scott Skiles'}
+5,"August 1, 1994","{'PHO', 'DET'}",{'Mark West'}
+6,"August 2, 1994","{'CHH', 'WSB'}",{'Michael Adams'}
+7,"September 16, 1994","{'UTA', 'ATL'}","{'Adam Keefe', 'Tyrone Corbin'}"
+8,"September 23, 1994","{'PHO', 'LAL'}",{'Cedric Ceballos'}
+9,"October 13, 1994","{'LAL', 'NYK'}",{'Doug Christie'}
+10,"November 1, 1994","{'MIN', 'DAL'}",{'Sean Rooks'}
+11,"November 2, 1994","{'GSW', 'MIA'}","{'Rony Seikaly', 'Sasha DaniloviÄ\x87', 'Billy Owens'}"
+12,"November 7, 1994","{'MIA', 'ATL'}","{'Kevin Willis', 'Grant Long', 'Steve Smith'}"
+13,"November 17, 1994","{'GSW', 'WSB'}","{'Chris Webber', 'Tom Gugliotta'}"
+14,"February 3, 1995","{'BOS', 'UTA'}","{'Blue Edwards', 'Jay Humphries'}"
+15,"February 14, 1995","{'POR', 'HOU'}","{'Tracy Murray', 'Marcelo Nicola', 'Clyde Drexler', 'Otis Thorpe'}"
+16,"February 18, 1995","{'GSW', 'MIN'}","{'Tom Gugliotta', 'Donyell Marshall'}"
+17,"February 23, 1995","{'DAL', 'HOU'}","{'Scott Brooks', 'Morlon Wiley'}"
+18,"June 14, 1995","{'MIA', 'CLE'}",{'Harold Miner'}
+19,"June 24, 1995",{'ORL'},set()
+20,"June 27, 1995","{'CHH', 'SEA'}","{'Hersey Hawkins', 'David Wingate', 'Kendall Gill'}"
+21,"June 28, 1995","{'DET', 'POR'}",set()
+22,"June 28, 1995","{'MIA', 'WSB'}","{'Jeff Webster', 'Rex Chapman', 'Terrence Rencher', 'Ed Stokes'}"
+23,"June 28, 1995","{'DEN', 'LAC'}","{'Randy Woods', 'Antonio McDyess', 'Brent Barry', 'Rodney Rogers'}"
+24,"June 28, 1995","{'MIL', 'POR'}","{'Shawn Respert', 'Gary Trent'}"
+25,"June 28, 1995","{'MIL', 'SEA'}","{'Eric Snow', 'Eurelijus Å½ukauskas'}"
+26,"June 29, 1995","{'SAC', 'ATL'}","{'Spud Webb', 'Tyrone Corbin'}"

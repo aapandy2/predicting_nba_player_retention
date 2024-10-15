@@ -1,46 +1,46 @@
-,date,teams,players,includes_draft_picks
-0,"July 6, 2019","{'PHO', 'MIA', 'IND'}","{'Luke Travers', 'KZ Okpala', 'T.J. Warren'}",True
-1,"July 6, 2019","{'BRK', 'ATL'}","{'Allen Crabbe', 'Marcus Zegarowski', 'Taurean Prince', 'Aleksej Pokusevski', 'Nickeil Alexander-Walker'}",True
-2,"July 6, 2019","{'MEM', 'UTA'}","{'Mike Conley', 'Kyle Korver', 'Walker Kessler', 'Darius Bazley', 'Jae Crowder', 'Grayson Allen'}",True
-3,"July 6, 2019","{'MIN', 'PHO'}","{'Dario Å\xa0ariÄ\x87', 'Cameron Johnson', 'Jarrett Culver'}",False
-4,"July 6, 2019","{'PHO', 'BOS'}","{'Desmond Bane', 'Aron Baynes', 'Ty Jerome'}",True
-5,"July 6, 2019","{'MIA', 'LAC', 'PHI', 'POR'}","{'Hassan Whiteside', 'Jaime Jaquez Jr.', 'Meyers Leonard', 'Mathias Lessort', 'Maurice Harkless', 'Josh Richardson', 'Jimmy Butler'}",True
-6,"July 6, 2019","{'WAS', 'MEM'}","{'Dwight Howard', 'C.J. Miles'}",False
-7,"July 6, 2019","{'SAS', 'WAS', 'BRK'}","{'DeMarre Carroll', 'Aaron White', 'Nemanja Dangubic', 'Davis Bertans'}",False
-8,"July 6, 2019","{'MIL', 'IND'}","{'R.J. Hampton', 'Max Christie', 'Malcolm Brogdon'}",True
-9,"July 6, 2019","{'NOP', 'LAL', 'WAS'}","{'Lonzo Ball', 'Dyson Daniels', 'Moritz Wagner', 'Jemerrio Jones', 'Brandon Ingram', ""De'Andre Hunter"", 'Josh Hart', 'Kennedy Chandler', 'Isaac Bonga', 'Anthony Davis'}",True
-10,"July 6, 2019","{'MEM', 'OKC'}","{'Darius Bazley', 'Bobi Klintman', 'Brandon Clarke'}",True
-11,"July 6, 2019","{'CHO', 'BOS'}","{'Kemba Walker', 'Yam Madar', 'Grant Riller', 'Terry Rozier'}",True
-12,"July 7, 2019","{'NOP', 'ATL'}","{'Seth Lundy', 'Nickeil Alexander-Walker', 'Marcos Louzada Silva', 'Herbert Jones', 'Jordan Bone', ""De'Andre Hunter"", 'Vince Williams Jr.', 'Solomon Hill', 'Jaxson Hayes'}",True
-13,"July 7, 2019","{'PHI', 'ATL'}","{'Jordan Bone', 'ThÃ©o Maledon', 'Colby Jones', 'Bruno Fernando'}",True
-14,"July 7, 2019","{'DET', 'PHI'}",{'Jordan Bone'},True
-15,"July 7, 2019","{'GSW', 'MEM'}","{'Andre Iguodala', 'Bub Carrington', 'Julian Washburn'}",True
-16,"July 7, 2019","{'PHO', 'MEM'}","{'Josh Jackson', 'Jevon Carter', 'Kyle Korver', 'Robert Woodard', ""De'Anthony Melton""}",True
-17,"July 7, 2019","{'MEM', 'ATL'}","{'Miles Plumlee', 'Chandler Parsons', 'Solomon Hill'}",False
-18,"July 7, 2019","{'WAS', 'CHI'}","{'TomÃ¡Å¡ SatoranskÃ½', 'Vit Krejci', 'Kennedy Chandler', 'Christian Koloko'}",True
-19,"July 7, 2019","{'NOP', 'UTA'}","{'David Johnson', 'Derrick Favors', 'Emoni Bates'}",True
-20,"July 7, 2019","{'GSW', 'BRK'}","{'Treveon Graham', ""D'Angelo Russell"", 'Shabazz Napier', 'Kevin Durant'}",True
-21,"July 8, 2019","{'GSW', 'ATL'}","{'Omari Spellman', 'Damian Jones'}",True
-22,"July 8, 2019","{'MIN', 'POR'}","{'Jake Layman', 'Bojan Dubljevic'}",False
-23,"July 8, 2019","{'DEN', 'OKC'}","{'Immanuel Quickley', 'Jerami Grant'}",True
-24,"July 8, 2019","{'DAL', 'MEM'}","{'Keyonte Johnson', 'Satnam Singh', 'Brandon Boston Jr.', 'Delon Wright'}",True
-25,"July 8, 2019","{'GSW', 'MIN'}","{'Treveon Graham', 'Shabazz Napier', 'Lior Eliyahu'}",False
-26,"July 10, 2019","{'LAC', 'OKC'}","{'Jaime Jaquez Jr.', 'Jalen Williams', 'Dillon Jones', 'Paul George', 'Shai Gilgeous-Alexander', 'Tre Mann', 'Danilo Gallinari'}",True
-27,"July 16, 2019","{'OKC', 'HOU'}","{'Chris Paul', 'Nikola TopiÄ\x87', 'Russell Westbrook'}",True
-28,"December 23, 2019","{'CLE', 'UTA'}","{'Dante Exum', 'Khalifa Diop', 'Jordan Clarkson', 'Emoni Bates'}",True
-29,"January 16, 2020","{'MIN', 'ATL'}","{'Treveon Graham', 'Jeff Teague', 'Allen Crabbe'}",False
-30,"January 21, 2020","{'POR', 'SAC'}","{'Kent Bazemore', 'Caleb Swanigan', 'Trevor Ariza', 'Wenyen Gabriel', 'Anthony Tolliver', 'Tyler Smith'}",True
-31,"January 24, 2020","{'DAL', 'OKC'}","{'Justin Patton', 'Isaiah Roby'}",False
-32,"January 25, 2020","{'GSW', 'DAL'}","{'Justinian Jessup', 'Willie Cauley-Stein'}",True
-33,"February 5, 2020","{'MIN', 'DEN', 'HOU', 'ATL'}","{'Robert Covington', 'Noah Vonleh', 'Malik Beasley', 'Aleksej Pokusevski', 'Zeke Nnaji', 'Evan Turner', 'Clint Capela', 'Juan Hernangomez', 'Jarred Vanderbilt', 'Keita Bates-Diop', 'Pelle Larsson', 'Shabazz Napier', 'Jordan Bell', 'Gerald Green', 'Nene'}",True
-34,"February 6, 2020","{'LAC', 'ATL'}",{'Derrick Walton'},True
-35,"February 6, 2020","{'PHI', 'ORL'}","{'James Ennis', 'Paul Reed'}",True
-36,"February 6, 2020","{'GSW', 'MIN'}","{'Andrew Wiggins', 'Jonathan Kuminga', ""D'Angelo Russell"", 'Miles McBride', 'Jacob Evans', 'Omari Spellman'}",True
-37,"February 6, 2020","{'POR', 'ATL'}",{'Skal Labissiere'},True
-38,"February 6, 2020","{'GSW', 'PHI'}","{'Aaron Wiggins', 'Alec Burks', 'Tyrese Martin', 'Nico Mannion', 'Glenn Robinson'}",True
-39,"February 6, 2020","{'DEN', 'WAS'}","{'Jordan McRae', 'Shabazz Napier'}",False
-40,"February 6, 2020","{'MIN', 'MIA', 'MEM'}","{'Andre Iguodala', 'James Johnson', 'Dion Waiters', 'Justise Winslow', 'Solomon Hill', 'Jae Crowder', 'Gorgui Dieng'}",False
-41,"February 6, 2020","{'MEM', 'HOU'}","{'Bruno Caboclo', 'Jordan Bell'}",True
-42,"February 6, 2020","{'WAS', 'LAC', 'NYK'}","{'Issuf Sanon', 'Jeremiah Robinson-Earl', 'Marcus Morris', 'Jerome Robinson', 'Maurice Harkless', 'Udoka Azubuike', 'Isaiah Thomas'}",True
-43,"February 6, 2020","{'SAC', 'ATL'}","{'Alex Len', 'Sharife Cooper', 'Jabari Parker', 'Dewayne Dedmon', 'Skylar Mays'}",True
-44,"February 6, 2020","{'DET', 'CLE'}","{'Brandon Knight', 'John Henson', 'Andre Drummond', 'Isaiah Wong'}",True
+,date,teams,players
+0,"July 6, 2019","{'PHO', 'MIA', 'IND'}","{'KZ Okpala', 'T.J. Warren'}"
+1,"July 6, 2019","{'BRK', 'ATL'}","{'Allen Crabbe', 'Taurean Prince', 'Nickeil Alexander-Walker'}"
+2,"July 6, 2019","{'MEM', 'UTA'}","{'Mike Conley', 'Darius Bazley', 'Kyle Korver', 'Jae Crowder', 'Grayson Allen'}"
+3,"July 6, 2019","{'MIN', 'PHO'}","{'Dario Å\xa0ariÄ\x87', 'Cameron Johnson', 'Jarrett Culver'}"
+4,"July 6, 2019","{'PHO', 'BOS'}","{'Aron Baynes', 'Ty Jerome'}"
+5,"July 6, 2019","{'MIA', 'LAC', 'PHI', 'POR'}","{'Josh Richardson', 'Hassan Whiteside', 'Meyers Leonard', 'Jimmy Butler', 'Mathias Lessort', 'Maurice Harkless'}"
+6,"July 6, 2019","{'WAS', 'MEM'}","{'Dwight Howard', 'C.J. Miles'}"
+7,"July 6, 2019","{'SAS', 'WAS', 'BRK'}","{'DeMarre Carroll', 'Aaron White', 'Nemanja Dangubic', 'Davis Bertans'}"
+8,"July 6, 2019","{'MIL', 'IND'}",{'Malcolm Brogdon'}
+9,"July 6, 2019","{'NOP', 'LAL', 'WAS'}","{'Lonzo Ball', 'Moritz Wagner', 'Jemerrio Jones', 'Brandon Ingram', ""De'Andre Hunter"", 'Josh Hart', 'Isaac Bonga', 'Anthony Davis'}"
+10,"July 6, 2019","{'MEM', 'OKC'}","{'Darius Bazley', 'Brandon Clarke'}"
+11,"July 6, 2019","{'CHO', 'BOS'}","{'Kemba Walker', 'Terry Rozier'}"
+12,"July 7, 2019","{'NOP', 'ATL'}","{'Nickeil Alexander-Walker', 'Marcos Louzada Silva', 'Jordan Bone', ""De'Andre Hunter"", 'Solomon Hill', 'Jaxson Hayes'}"
+13,"July 7, 2019","{'PHI', 'ATL'}","{'Jordan Bone', 'Bruno Fernando'}"
+14,"July 7, 2019","{'DET', 'PHI'}",{'Jordan Bone'}
+15,"July 7, 2019","{'GSW', 'MEM'}","{'Andre Iguodala', 'Julian Washburn'}"
+16,"July 7, 2019","{'PHO', 'MEM'}","{'Josh Jackson', 'Jevon Carter', 'Kyle Korver', ""De'Anthony Melton""}"
+17,"July 7, 2019","{'MEM', 'ATL'}","{'Miles Plumlee', 'Chandler Parsons', 'Solomon Hill'}"
+18,"July 7, 2019","{'WAS', 'CHI'}",{'TomÃ¡Å¡ SatoranskÃ½'}
+19,"July 7, 2019","{'NOP', 'UTA'}",{'Derrick Favors'}
+20,"July 7, 2019","{'GSW', 'BRK'}","{'Treveon Graham', ""D'Angelo Russell"", 'Shabazz Napier', 'Kevin Durant'}"
+21,"July 8, 2019","{'GSW', 'ATL'}","{'Omari Spellman', 'Damian Jones'}"
+22,"July 8, 2019","{'MIN', 'POR'}","{'Jake Layman', 'Bojan Dubljevic'}"
+23,"July 8, 2019","{'DEN', 'OKC'}",{'Jerami Grant'}
+24,"July 8, 2019","{'DAL', 'MEM'}","{'Satnam Singh', 'Delon Wright'}"
+25,"July 8, 2019","{'GSW', 'MIN'}","{'Treveon Graham', 'Shabazz Napier', 'Lior Eliyahu'}"
+26,"July 10, 2019","{'LAC', 'OKC'}","{'Paul George', 'Shai Gilgeous-Alexander', 'Danilo Gallinari'}"
+27,"July 16, 2019","{'OKC', 'HOU'}","{'Chris Paul', 'Russell Westbrook'}"
+28,"December 23, 2019","{'CLE', 'UTA'}","{'Dante Exum', 'Jordan Clarkson'}"
+29,"January 16, 2020","{'MIN', 'ATL'}","{'Treveon Graham', 'Jeff Teague', 'Allen Crabbe'}"
+30,"January 21, 2020","{'POR', 'SAC'}","{'Wenyen Gabriel', 'Anthony Tolliver', 'Kent Bazemore', 'Caleb Swanigan', 'Trevor Ariza'}"
+31,"January 24, 2020","{'DAL', 'OKC'}","{'Justin Patton', 'Isaiah Roby'}"
+32,"January 25, 2020","{'GSW', 'DAL'}",{'Willie Cauley-Stein'}
+33,"February 5, 2020","{'MIN', 'DEN', 'HOU', 'ATL'}","{'Robert Covington', 'Noah Vonleh', 'Malik Beasley', 'Evan Turner', 'Clint Capela', 'Juan Hernangomez', 'Jarred Vanderbilt', 'Keita Bates-Diop', 'Shabazz Napier', 'Jordan Bell', 'Gerald Green', 'Nene'}"
+34,"February 6, 2020","{'LAC', 'ATL'}",{'Derrick Walton'}
+35,"February 6, 2020","{'PHI', 'ORL'}",{'James Ennis'}
+36,"February 6, 2020","{'GSW', 'MIN'}","{'Jacob Evans', 'Andrew Wiggins', ""D'Angelo Russell"", 'Omari Spellman'}"
+37,"February 6, 2020","{'POR', 'ATL'}",{'Skal Labissiere'}
+38,"February 6, 2020","{'GSW', 'PHI'}","{'Alec Burks', 'Glenn Robinson'}"
+39,"February 6, 2020","{'DEN', 'WAS'}","{'Jordan McRae', 'Shabazz Napier'}"
+40,"February 6, 2020","{'MIN', 'MIA', 'MEM'}","{'Andre Iguodala', 'Dion Waiters', 'Justise Winslow', 'James Johnson', 'Jae Crowder', 'Gorgui Dieng', 'Solomon Hill'}"
+41,"February 6, 2020","{'MEM', 'HOU'}","{'Bruno Caboclo', 'Jordan Bell'}"
+42,"February 6, 2020","{'WAS', 'LAC', 'NYK'}","{'Issuf Sanon', 'Marcus Morris', 'Jerome Robinson', 'Isaiah Thomas', 'Maurice Harkless'}"
+43,"February 6, 2020","{'SAC', 'ATL'}","{'Alex Len', 'Jabari Parker', 'Dewayne Dedmon'}"
+44,"February 6, 2020","{'DET', 'CLE'}","{'Brandon Knight', 'John Henson', 'Andre Drummond'}"
