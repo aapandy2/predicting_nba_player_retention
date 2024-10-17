@@ -1,0 +1,1452 @@
+,date,teams,players
+0,"August 1, 1990","{'POR', 'SAC'}","{'Danny Ainge', 'Byron Irvin'}"
+1,"August 1, 1990","{'GSW', 'PHI'}",{'Manute Bol'}
+2,"August 1, 1990","{'MIL', 'SAS'}","{'Paul Pressey', 'Frank Brickowski'}"
+3,"August 1, 1990","{'DEN', 'MIL'}","{'Terry Mills', 'Danny Schayes'}"
+4,"August 3, 1990","{'DEN', 'LAL'}",{'Orlando Woolridge'}
+5,"September 25, 1990","{'SAS', 'LAL'}",{'Mark McNamara'}
+6,"September 25, 1990","{'GSW', 'LAL'}",{'Terry Teagle'}
+7,"September 27, 1990","{'HOU', 'ATL'}","{'Tim McCormick', 'John Lucas', 'Roy Marble', 'Kenny Smith'}"
+8,"September 28, 1990","{'DEN', 'DET'}",{'Anthony Cook'}
+9,"September 28, 1990","{'PHO', 'WSB'}",{'Mike Morrison'}
+10,"October 2, 1990","{'MIA', 'CHI'}",{'Jeff Sanders'}
+11,"October 24, 1990","{'DEN', 'SEA'}",{'Avery Johnson'}
+12,"October 28, 1990","{'PHO', 'PHI'}",{'Jayson Williams'}
+13,"October 30, 1990","{'WSB', 'SAC'}","{'Steve Colter', 'Byron Irvin'}"
+14,"October 30, 1990","{'SAS', 'ORL'}","{'Mark McNamara', 'Sidney Green'}"
+15,"November 10, 1990","{'MIN', 'PHI'}",{'Bob Thornton'}
+16,"December 7, 1990","{'PHO', 'SEA'}","{'Eddie Johnson', 'Xavier McDaniel'}"
+17,"January 4, 1991","{'CHH', 'PHI'}","{'Dave Hoppen', 'Armen Gilliam', 'Mike Gminski'}"
+18,"January 16, 1991","{'MIL', 'NJN'}","{'Greg Anderson', 'Lester Conner'}"
+19,"January 23, 1991","{'DEN', 'POR', 'NJN'}","{'Greg Anderson', 'DraÅ¾en PetroviÄ\x87', 'Terry Mills', 'Walter Davis'}"
+20,"January 29, 1991","{'CHH', 'SAC'}",{'Eric Leckner'}
+21,"February 15, 1991","{'MIL', 'SEA'}","{'Dale Ellis', 'Ricky Pierce'}"
+22,"February 20, 1991","{'LAC', 'SEA'}","{'Benoit Benjamin', 'Olden Polynice'}"
+23,"June 11, 1991","{'DEN', 'WSB'}",{'Michael Adams'}
+24,"June 26, 1991","{'LAC', 'ATL'}",{'Doc Rivers'}
+25,"June 26, 1991","{'GSW', 'POR'}",{'Lamont Strothers'}
+26,"June 26, 1991","{'CLE', 'HOU'}",{'Keith Hughes'}
+27,"June 26, 1991","{'DEN', 'LAC'}",{'Winston Garland'}
+28,"July 1, 1991","{'SAC', 'ATL'}","{'Spud Webb', 'Travis Mays'}"
+29,"July 1, 1991","{'DEN', 'MIL', 'ATL'}","{'Anthony Avent', 'Blair Rasmussen', 'Kevin Brooks'}"
+30,"July 3, 1991","{'LAC', 'NYK'}",{'Joe Wylie'}
+31,"August 13, 1991","{'DEN', 'DET'}","{'Scott Hastings', 'Orlando Woolridge'}"
+32,"August 13, 1991","{'DET', 'LAC'}","{'Jeff Martin', 'James Edwards'}"
+33,"September 5, 1991","{'DET', 'WSB'}",{'Darrell Walker'}
+34,"September 23, 1991","{'SAS', 'SAC'}","{'Antoine Carr', 'Dwayne Schintzius'}"
+35,"October 1, 1991","{'PHO', 'NYK'}","{'Jerrod Mustaf', 'Trent Tucker', 'Xavier McDaniel'}"
+36,"October 2, 1991","{'LAL', 'SEA'}",{'Sedale Threatt'}
+37,"October 3, 1991","{'NYK', 'ATL'}","{'Tim McCormick', 'Maurice Cheeks'}"
+38,"November 1, 1991","{'GSW', 'SAC'}","{'Les Jepsen', 'Mitch Richmond', 'Billy Owens'}"
+39,"November 4, 1991","{'SAC', 'CHI'}","{'Dennis Hopson', 'Bob Hansen'}"
+40,"November 25, 1991","{'MIN', 'UTA'}","{'Thurl Bailey', 'Tyrone Corbin'}"
+41,"January 10, 1992","{'MIA', 'BOS'}","{'Brian Shaw', 'Sherman Douglas'}"
+42,"February 19, 1992","{'CHH', 'WSB'}","{'Tom Hammonds', 'Rex Chapman'}"
+43,"February 20, 1992","{'DAL', 'NYK'}","{'James Donaldson', 'Brian Quinnett'}"
+44,"May 11, 1992","{'MIL', 'LAL'}",{'Mike Dunleavy'}
+45,"June 17, 1992","{'PHO', 'PHI'}","{'Jeff Hornacek', 'Charles Barkley', 'Tim Perry', 'Andrew Lang'}"
+46,"June 24, 1992","{'MIL', 'UTA'}","{'Blue Edwards', 'Jay Humphries', 'Eric Murdock', 'Larry Krystkowiak'}"
+47,"June 24, 1992","{'DET', 'LAC'}","{'William Bedford', 'Don MacLean', 'Olden Polynice'}"
+48,"June 24, 1992","{'DAL', 'NYK'}",{'Rolando Blackman'}
+49,"July 1, 1992","{'MIL', 'POR'}","{'Alaa Abdelnaby', 'Tracy Murray'}"
+50,"July 1, 1992","{'MIL', 'SAS'}","{'Dale Ellis', 'Tracy Murray'}"
+51,"July 7, 1992","{'ORL', 'CHI'}",{'Litterial Green'}
+52,"August 4, 1992","{'MIL', 'ORL'}","{'Lester Conner', 'Sam Vincent'}"
+53,"September 8, 1992","{'MIN', 'IND'}","{'Sam Mitchell', 'Micheal Williams', 'Chuck Person', 'Pooh Richardson'}"
+54,"September 8, 1992","{'DET', 'MIA'}","{'John Salley', 'Isaiah Morris'}"
+55,"September 13, 1992","{'MIN', 'NYK'}",{'Tony Campbell'}
+56,"September 18, 1992","{'GSW', 'DAL', 'CHI'}","{'Rodney McCray', 'Byron Houston'}"
+57,"September 22, 1992","{'LAC', 'NYK', 'ORL'}","{'Charles Smith', 'Mark Jackson', 'Doc Rivers', 'Bo Kimble', 'Stanley Roberts'}"
+58,"September 25, 1992","{'MIN', 'HOU'}",{'Scott Brooks'}
+59,"October 5, 1992","{'SAS', 'HOU'}",{'David Wood'}
+60,"October 8, 1992","{'LAC', 'WSB'}","{'William Bedford', 'John Williams', 'Don MacLean'}"
+61,"October 8, 1992","{'NJN', 'PHI'}",{'Jayson Williams'}
+62,"October 23, 1992","{'DEN', 'POR'}",{'Robert Pack'}
+63,"November 3, 1992","{'NJN', 'ATL'}","{'Rumeal Robinson', 'Mookie Blaylock', 'Roy Hinson'}"
+64,"November 15, 1992","{'MIN', 'DET'}","{'Gerald Glass', 'Lance Blanks', 'Mark Randall', 'Brad Sellers'}"
+65,"November 25, 1992","{'SEA', 'SAC'}",{'Vincent Askew'}
+66,"December 2, 1992","{'CLE', 'ORL'}",{'Steve Kerr'}
+67,"December 4, 1992","{'MIL', 'BOS'}","{'Alaa Abdelnaby', 'Jon Barry'}"
+68,"December 9, 1992","{'SAS', 'CHH'}","{'Sidney Green', 'J.R. Reid'}"
+69,"February 22, 1993","{'LAL', 'SEA'}","{'Sam Perkins', 'Benoit Benjamin', 'Doug Christie'}"
+70,"February 25, 1993","{'GSW', 'CHI'}",{'Ed Nealy'}
+71,"February 25, 1993","{'MIL', 'DET'}","{'Orlando Woolridge', 'Alvin Robertson'}"
+72,"June 21, 1993","{'NJN', 'LAL'}","{'Benoit Benjamin', 'Sam Bowie'}"
+73,"June 24, 1993","{'POR', 'WSB'}","{'Kevin Duckworth', 'Harvey Grant'}"
+74,"June 30, 1993","{'MIN', 'UTA'}","{'Felton Spencer', 'Mike Brown'}"
+75,"June 30, 1993","{'DAL', 'HOU'}","{'Popeye Jones', 'Eric Riley'}"
+76,"June 30, 1993","{'GSW', 'ORL'}","{'Chris Webber', 'Anfernee Hardaway'}"
+77,"June 30, 1993","{'DEN', 'GSW'}","{'Darnell Mee', 'Josh Grant'}"
+78,"July 15, 1993","{'GSW', 'CLE'}",{'Tyrone Hill'}
+79,"August 2, 1993","{'POR', 'HOU'}",{'Mario Elie'}
+80,"August 19, 1993","{'DEN', 'ORL'}","{'Bison Dele', 'Anthony Cook', 'Todd Lichti'}"
+81,"September 1, 1993","{'CHH', 'SEA'}","{'Kendall Gill', 'Dana Barros', 'Eddie Johnson'}"
+82,"September 3, 1993","{'CHH', 'PHI'}","{'Sidney Green', 'Dana Barros', 'Hersey Hawkins', 'Greg Graham'}"
+83,"October 1, 1993","{'SAS', 'DET'}","{'Isaiah Morris', 'David Wood', 'Sean Elliott', 'Dennis Rodman'}"
+84,"October 11, 1993","{'PHI', 'IND'}",{'Sean Green'}
+85,"November 1, 1993","{'SEA', 'IND'}","{'Derrick McKey', 'Detlef Schrempf', 'Gerald Paddio'}"
+86,"November 4, 1993","{'MIN', 'CHI'}",{'Jo Jo English'}
+87,"November 8, 1993","{'PHO', 'SAS'}",{'Negele Knight'}
+88,"November 19, 1993","{'DEN', 'DET'}","{'Mark Macon', 'Marcus Liberty', 'Alvin Robertson'}"
+89,"December 10, 1993","{'NJN', 'CHH'}","{'Johnny Newman', 'Rumeal Robinson'}"
+90,"January 6, 1994","{'DAL', 'NYK'}","{'Derek Harper', 'Tony Campbell'}"
+91,"January 15, 1994","{'MIL', 'ORL'}","{'Anthony Avent', 'Anthony Cook'}"
+92,"February 20, 1994","{'DET', 'SAC'}","{'Pete Chilcutt', 'Olden Polynice'}"
+93,"February 23, 1994","{'MIN', 'CHI'}","{'Stacey King', 'Luc Longley'}"
+94,"February 24, 1994","{'MIL', 'CHH'}","{'Mike Gminski', 'Frank Brickowski'}"
+95,"February 24, 1994","{'PHI', 'UTA'}","{'Sean Green', 'Jeff Malone', 'Jeff Hornacek'}"
+96,"February 24, 1994","{'LAC', 'ATL'}","{'Dominique Wilkins', 'Danny Manning'}"
+97,"June 22, 1994","{'MIL', 'ATL'}","{'Ken Norman', 'Roy Hinson'}"
+98,"June 29, 1994","{'MIN', 'SEA'}",{'Å½eljko RebraÄ\x8da'}
+99,"June 29, 1994","{'MIL', 'BOS'}","{'Blue Edwards', 'Ed Pinckney', 'Andrei Fetisov', 'Derek Strong'}"
+100,"June 30, 1994","{'LAC', 'IND'}","{'Eric Piatkowski', 'Greg Minor', 'Pooh Richardson', 'Mark Jackson', 'Malik Sealy'}"
+101,"July 1, 1994","{'GSW', 'LAL'}",{'Anthony Miller'}
+102,"July 18, 1994","{'GSW', 'SEA'}","{'Ricky Pierce', 'Byron Houston', 'Carlos Rogers', 'Å\xa0arÅ«nas MarÄ\x8diulionis'}"
+103,"July 19, 1994","{'SAS', 'DET'}","{'Sean Elliott', 'Bill Curley'}"
+104,"July 25, 1994","{'DET', 'PHI'}",{'Eric Leckner'}
+105,"July 29, 1994","{'WSB', 'ORL'}",{'Scott Skiles'}
+106,"August 1, 1994","{'PHO', 'DET'}",{'Mark West'}
+107,"August 2, 1994","{'CHH', 'WSB'}",{'Michael Adams'}
+108,"September 16, 1994","{'UTA', 'ATL'}","{'Adam Keefe', 'Tyrone Corbin'}"
+109,"September 23, 1994","{'PHO', 'LAL'}",{'Cedric Ceballos'}
+110,"October 13, 1994","{'LAL', 'NYK'}",{'Doug Christie'}
+111,"November 1, 1994","{'MIN', 'DAL'}",{'Sean Rooks'}
+112,"November 2, 1994","{'GSW', 'MIA'}","{'Rony Seikaly', 'Sasha DaniloviÄ\x87', 'Billy Owens'}"
+113,"November 7, 1994","{'MIA', 'ATL'}","{'Kevin Willis', 'Grant Long', 'Steve Smith'}"
+114,"November 17, 1994","{'GSW', 'WSB'}","{'Chris Webber', 'Tom Gugliotta'}"
+115,"February 3, 1995","{'BOS', 'UTA'}","{'Blue Edwards', 'Jay Humphries'}"
+116,"February 14, 1995","{'POR', 'HOU'}","{'Tracy Murray', 'Marcelo Nicola', 'Clyde Drexler', 'Otis Thorpe'}"
+117,"February 18, 1995","{'GSW', 'MIN'}","{'Tom Gugliotta', 'Donyell Marshall'}"
+118,"February 23, 1995","{'DAL', 'HOU'}","{'Scott Brooks', 'Morlon Wiley'}"
+119,"June 14, 1995","{'MIA', 'CLE'}",{'Harold Miner'}
+120,"June 24, 1995",{'ORL'},set()
+121,"June 27, 1995","{'CHH', 'SEA'}","{'Hersey Hawkins', 'David Wingate', 'Kendall Gill'}"
+122,"June 28, 1995","{'DET', 'POR'}",set()
+123,"June 28, 1995","{'MIA', 'WSB'}","{'Jeff Webster', 'Rex Chapman', 'Terrence Rencher', 'Ed Stokes'}"
+124,"June 28, 1995","{'DEN', 'LAC'}","{'Randy Woods', 'Antonio McDyess', 'Brent Barry', 'Rodney Rogers'}"
+125,"June 28, 1995","{'MIL', 'POR'}","{'Shawn Respert', 'Gary Trent'}"
+126,"June 28, 1995","{'MIL', 'SEA'}","{'Eric Snow', 'Eurelijus Å½ukauskas'}"
+127,"June 29, 1995","{'SAC', 'ATL'}","{'Spud Webb', 'Tyrone Corbin'}"
+128,"September 1, 1995","{'MIA', 'NYK'}",{'Pat Riley'}
+129,"September 18, 1995","{'GSW', 'TOR'}","{'Martin Lewis', 'Carlos Rogers', 'Victor Alexander', 'Michael McDonald', 'Dwayne Whitfield', 'B.J. Armstrong'}"
+130,"September 18, 1995","{'SEA', 'SAC'}","{'Byron Houston', 'Frank Brickowski', 'Å\xa0arÅ«nas MarÄ\x8diulionis'}"
+131,"September 19, 1995","{'DEN', 'LAC'}","{'Elmore Spencer', 'Bison Dele'}"
+132,"September 20, 1995","{'DET', 'POR'}","{'Randolph Childress', 'Bill Curley', 'Otis Thorpe'}"
+133,"September 27, 1995","{'WSB', 'CLE'}",{'Mark Price'}
+134,"October 2, 1995","{'SAS', 'CHI'}","{'Will Perdue', 'Dennis Rodman'}"
+135,"October 7, 1995","{'PHO', 'CLE'}","{'Dan Majerle', 'Hot Rod Williams', 'Antonio Lang'}"
+136,"October 18, 1995","{'MIL', 'WSB'}","{'Bob McCann', 'Kevin Duckworth'}"
+137,"October 30, 1995","{'DEN', 'WSB'}","{'Don MacLean', 'Doug Overton', 'Robert Pack'}"
+138,"November 1, 1995","{'VAN', 'ORL'}","{'Anthony Avent', 'Kevin Pritchard', 'Larry Stewart'}"
+139,"November 3, 1995","{'CHH', 'MIA'}","{'Alonzo Mourning', 'Khalid Reeves', 'Glen Rice', 'Pete Myers', 'LeRon Ellis', 'Matt Geiger'}"
+140,"November 26, 1995","{'MIL', 'BOS'}","{'Todd Day', 'Sherman Douglas', 'Alton Lister'}"
+141,"November 27, 1995","{'MIL', 'VAN'}","{'Benoit Benjamin', 'Eric Murdock', 'Eric Mobley'}"
+142,"November 30, 1995","{'NJN', 'PHI'}","{'Derrick Coleman', 'Shawn Bradley', 'Sean Higgins', 'Greg Graham', 'Tim Perry', 'Rex Walters'}"
+143,"January 12, 1996","{'MIN', 'VAN'}",{'Darrick Martin'}
+144,"January 19, 1996","{'NJN', 'CHH'}","{'Gerald Glass', 'Kenny Anderson', 'Khalid Reeves', 'Kendall Gill'}"
+145,"February 8, 1996","{'SAS', 'NYK'}","{'Monty Williams', 'J.R. Reid', 'Charles Smith', 'Brad Lohaus'}"
+146,"February 18, 1996","{'TOR', 'NYK'}","{'Victor Alexander', 'Willie Anderson', 'Doug Christie', 'Herb Williams'}"
+147,"February 22, 1996","{'GSW', 'MIA'}","{'Kevin Willis', 'Bimbo Coles', 'Tim Hardaway', 'Chris Gatling'}"
+148,"February 22, 1996","{'MIA', 'SAC'}","{'Walt Williams', 'Kevin Gamble', 'Billy Owens', 'Tyrone Corbin'}"
+149,"February 22, 1996","{'MIN', 'ATL'}","{'Spud Webb', 'Christian Laettner', 'Andrew Lang', 'Sean Rooks'}"
+150,"February 22, 1996","{'TOR', 'PHI'}","{'Tony Massenburg', 'Ed Pinckney', 'Sharone Wright'}"
+151,"February 22, 1996","{'PHO', 'MIA'}","{'Terrence Rencher', 'Tony Smith'}"
+152,"February 22, 1996","{'VAN', 'ORL'}","{'Kenny Gattison', 'Jeff Turner'}"
+153,"June 13, 1996","{'DEN', 'SAC'}","{'Mahmoud Abdul-Rauf', 'Å\xa0arÅ«nas MarÄ\x8diulionis'}"
+154,"June 13, 1996","{'DEN', 'IND'}","{'Ricky Pierce', 'Jalen Rose', 'Reggie Williams', 'Mark Jackson'}"
+155,"June 19, 1996","{'VAN', 'HOU'}","{'Pete Chilcutt', 'Tim Breaux'}"
+156,"June 21, 1996","{'BOS', 'DAL'}",{'Eric Montross'}
+157,"June 25, 1996","{'SEA', 'ATL'}",set()
+158,"June 26, 1996","{'MIA', 'UTA'}",{'Martin MÃ¼Ã¼rsepp'}
+159,"June 26, 1996","{'MIL', 'MIN'}","{'Stephon Marbury', 'Ray Allen'}"
+160,"June 28, 1996","{'DET', 'SEA'}",{'Ron Riley'}
+161,"June 29, 1996","{'MIN', 'DAL'}",{'Cherokee Parks'}
+162,"July 11, 1996","{'CHH', 'LAL'}","{'Kobe Bryant', 'Vlade Divac'}"
+163,"July 11, 1996","{'MIL', 'MIN'}",{'Andrew Lang'}
+164,"July 14, 1996","{'CHH', 'NYK'}","{'Anthony Mason', 'Larry Johnson', 'Brad Lohaus'}"
+165,"July 15, 1996","{'DET', 'ATL'}","{'Stacey Augmon', 'Grant Long'}"
+166,"July 15, 1996","{'POR', 'WSB'}","{'Mitchell Butler', 'Rod Strickland', 'Rasheed Wallace', 'Harvey Grant'}"
+167,"July 16, 1996","{'NJN', 'SEA'}","{'Greg Graham', 'Vincent Askew'}"
+168,"July 16, 1996","{'VAN', 'LAL'}","{'Anthony Peeler', 'George Lynch'}"
+169,"July 23, 1996","{'TOR', 'DAL'}","{'Popeye Jones', 'Jimmy King'}"
+170,"July 23, 1996","{'MIN', 'POR'}","{'Isaiah Rider', 'James Robinson', 'Bill Curley'}"
+171,"July 24, 1996","{'TOR', 'NYK'}",{'Hubert Davis'}
+172,"August 9, 1996","{'ORL', 'UTA'}","{'Kenny Gattison', 'Brooks Thompson', 'Felton Spencer'}"
+173,"August 19, 1996","{'PHO', 'HOU'}","{'Mark Bryant', 'Charles Barkley', 'Robert Horry', 'Chucky Brown', 'Sam Cassell'}"
+174,"September 25, 1996","{'MIL', 'PHO'}","{'Elliot Perry', 'Marty Conlon'}"
+175,"November 2, 1996","{'GSW', 'ORL'}","{'Rony Seikaly', 'Donald Royal', 'Clifford Rozier', 'Jon Koncak', 'Felton Spencer'}"
+176,"November 4, 1996","{'NJN', 'IND'}","{'Vincent Askew', 'Reggie Williams'}"
+177,"December 4, 1996","{'MIL', 'PHO'}","{'Chucky Brown', 'Darrin Hancock'}"
+178,"December 26, 1996","{'PHO', 'DAL'}","{'Loren Meyer', 'Tony Dumas', 'A.C. Green', 'Jason Kidd', 'Michael Finley', 'Sam Cassell'}"
+179,"January 10, 1997","{'PHO', 'LAL'}","{'Joe Kleine', 'Rumeal Robinson', 'Cedric Ceballos', 'Robert Horry'}"
+180,"January 24, 1997","{'DET', 'POR'}","{'Randolph Childress', 'Reggie Jordan', 'Aaron McKie', 'Stacey Augmon'}"
+181,"February 14, 1997","{'MIA', 'DAL'}","{'Sasha DaniloviÄ\x87', 'Jamal Mashburn', 'Martin MÃ¼Ã¼rsepp', 'Kurt Thomas'}"
+182,"February 17, 1997","{'NJN', 'DAL'}","{'George McCloud', 'Jim Jackson', 'Chris Gatling', 'Eric Montross', 'Shawn Bradley', 'Khalid Reeves', ""Ed O'Bannon"", 'Robert Pack', 'Sam Cassell'}"
+183,"February 20, 1997","{'DEN', 'IND'}","{'Eddie Johnson', 'LaSalle Thompson', 'Vincent Askew', 'Mark Jackson'}"
+184,"February 20, 1997","{'NJN', 'LAL'}","{'George McCloud', 'Joe Kleine'}"
+185,"February 20, 1997","{'GSW', 'CHH'}","{'Donald Royal', 'Scott Burrell'}"
+186,"February 20, 1997","{'DEN', 'CHH'}","{'Ricky Pierce', 'Anthony Goldwire', 'George ZÃ\xaddek'}"
+187,"February 20, 1997","{'DEN', 'IND'}","{'Darvin Ham', 'Jerome Allen'}"
+188,"February 20, 1997","{'MIL', 'TOR'}","{'Shawn Respert', 'Acie Earl'}"
+189,"May 27, 1997","{'MIA', 'BOS'}",{'Chris Wallace'}
+190,"June 25, 1997","{'DEN', 'MIL'}","{'Ervin Johnson', 'Joe Wolf', 'Johnny Newman', 'Danny Fortson'}"
+191,"June 25, 1997","{'MIN', 'LAC'}","{'Stojko VrankoviÄ\x87', 'Stanley Roberts'}"
+192,"June 25, 1997","{'POR', 'DAL'}","{'Chris Anstey', 'Kelvin Cato'}"
+193,"June 25, 1997","{'LAC', 'PHI'}",{'James Collins'}
+194,"June 25, 1997","{'DEN', 'SEA'}","{'Bobby Jackson', 'James Cotton'}"
+195,"June 25, 1997","{'DEN', 'ORL'}","{'Eric Washington', 'Jason Lawson'}"
+196,"June 27, 1997","{'NJN', 'PHI'}","{'Keith Van Horn', 'Anthony Parker', 'Tim Thomas', 'Jim Jackson', 'Don MacLean', 'Eric Montross', 'Michael Cage', 'Lucious Harris'}"
+197,"August 7, 1997","{'VAN', 'DET'}",{'Otis Thorpe'}
+198,"August 12, 1997","{'MIA', 'SAC'}","{'Matt Fish', 'Duane Causwell', 'Gary Grant'}"
+199,"August 12, 1997","{'GSW', 'IND'}","{'Chris Mullin', 'Duane Ferrell', 'Erick Dampier'}"
+200,"August 21, 1997","{'DEN', 'BOS'}",{'Eric Williams'}
+201,"September 22, 1997","{'GSW', 'CHI'}","{'Dickey Simpkins', 'Scott Burrell'}"
+202,"September 24, 1997","{'DAL', 'ORL'}","{'Derek Harper', ""Ed O'Bannon"", 'Dennis Scott'}"
+203,"September 25, 1997","{'MIL', 'CLE', 'SEA'}","{'Tyrone Hill', 'Shawn Kemp', 'Sherman Douglas', 'Vin Baker', 'Terrell Brandon'}"
+204,"September 29, 1997","{'DEN', 'ATL'}","{'Priest Lauderdale', 'Efthimis Rentzias'}"
+205,"October 1, 1997","{'PHO', 'DEN', 'CLE'}","{'Tony Dumas', 'Antonio McDyess', 'Wesley Person'}"
+206,"October 2, 1997","{'DEN', 'SEA'}","{'Dale Ellis', 'Steve Scheffler', 'Greg Graham'}"
+207,"October 10, 1997","{'POR', 'TOR', 'NYK'}","{'John Wallace', 'Chris Dudley'}"
+208,"October 20, 1997","{'DEN', 'CLE'}","{'Sherman Douglas', 'Greg Graham'}"
+209,"October 22, 1997","{'BOS', 'NYK'}","{'John Thomas', 'Chris Mills', ""Dontae' Jones"", 'Scott Brooks', 'Walter McCarty'}"
+210,"October 28, 1997","{'VAN', 'HOU'}",{'Sam Mack'}
+211,"October 28, 1997","{'VAN', 'BOS'}","{'Tony Massenburg', 'Roy Rogers'}"
+212,"October 28, 1997","{'GSW', 'ORL'}","{'Brian Shaw', 'David Vaughn', 'Mark Price'}"
+213,"November 7, 1997","{'GSW', 'CHH'}","{'Muggsy Bogues', 'B.J. Armstrong', 'Tony Delk'}"
+214,"November 21, 1997","{'PHO', 'PHI'}","{'Marko MiliÄ\x8d', 'Tom Chambers'}"
+215,"December 18, 1997","{'DET', 'PHI'}","{'Aaron McKie', 'Jerry Stackhouse', 'Theo Ratliff', 'Eric Montross'}"
+216,"January 18, 1998","{'PHI', 'SEA'}",{'Eric Snow'}
+217,"February 13, 1998","{'POR', 'TOR'}","{'Damon Stoudamire', 'Gary Trent', 'Carlos Rogers', 'Kenny Anderson', 'Walt Williams', 'Alvin Williams'}"
+218,"February 17, 1998","{'GSW', 'PHI'}","{'Brian Shaw', 'Clarence Weatherspoon', 'Jim Jackson', 'Joe Smith'}"
+219,"February 18, 1998","{'TOR', 'BOS'}","{'Chauncey Billups', 'John Thomas', 'Å½an Tabak', 'Popeye Jones', 'Roy Rogers', 'Dee Brown', 'Kenny Anderson'}"
+220,"February 18, 1998","{'PHO', 'DAL'}","{'Dennis Scott', 'Cedric Ceballos'}"
+221,"February 18, 1998","{'VAN', 'SAC'}","{'Chris Robinson', 'Michael Smith', 'Otis Thorpe', 'Bobby Hurley'}"
+222,"February 18, 1998","{'MIN', 'VAN'}","{'Anthony Peeler', 'Doug West'}"
+223,"February 19, 1998","{'MIA', 'LAC'}","{'Isaac Austin', 'Charles Smith', 'Brent Barry'}"
+224,"February 19, 1998","{'NJN', 'ORL'}","{'Rony Seikaly', 'David Benoit', 'Kevin Edwards', 'Brian Evans', 'Yinka Dare'}"
+225,"February 19, 1998","{'GSW', 'CHI'}","{'Jason Caffey', 'David Vaughn'}"
+226,"February 19, 1998","{'PHI', 'NYK'}","{'Terry Cummings', 'Ron Grandison', 'Herb Williams'}"
+227,"May 14, 1998","{'WAS', 'SAC'}","{'Chris Webber', 'Mitch Richmond', 'Otis Thorpe'}"
+228,"June 9, 1998","{'TOR', 'HOU'}","{'Kevin Willis', 'Roy Rogers'}"
+229,"June 24, 1998","{'DEN', 'LAL'}","{'Tony Battie', 'Nick Van Exel', 'Tyronn Lue'}"
+230,"June 24, 1998","{'GSW', 'TOR'}","{'Vince Carter', 'Antawn Jamison'}"
+231,"June 24, 1998","{'SAS', 'VAN'}","{'Antonio Daniels', 'Carl Herrera', 'Felipe LÃ³pez'}"
+232,"June 24, 1998","{'PHI', 'UTA'}",{'Nazr Mohammed'}
+233,"June 24, 1998","{'PHO', 'DAL'}","{'Martin MÃ¼Ã¼rsepp', 'Steve Nash', 'Pat Garrity', 'Bubba Wells'}"
+234,"June 24, 1998","{'MIL', 'DAL'}","{'Dirk Nowitzki', 'Pat Garrity', 'Robert Traylor'}"
+235,"June 24, 1998","{'CHI', 'ATL'}","{'Shammond Williams', 'Cory Carr'}"
+236,"June 25, 1998","{'TOR', 'NYK'}","{'Charles Oakley', 'Sean Marks', 'Marcus Camby'}"
+237,"January 21, 1999","{'BOS', 'LAL'}","{'Tony Battie', 'Travis Knight'}"
+238,"January 21, 1999","{'DEN', 'TOR', 'MIN'}","{'Bobby Jackson', 'Dean Garrett', 'Chauncey Billups', 'Micheal Williams', 'Å½eljko RebraÄ\x8da', 'Tyson Wheeler'}"
+239,"January 21, 1999","{'GSW', 'NYK'}","{'John Starks', 'Chris Mills', 'Terry Cummings', 'Latrell Sprewell'}"
+240,"January 21, 1999","{'SAS', 'CHI'}","{'Chuck Person', 'Steve Kerr'}"
+241,"January 21, 1999","{'NJN', 'SEA'}","{'Jim McIlvaine', 'Don MacLean', 'Michael Cage'}"
+242,"January 21, 1999","{'DEN', 'ORL'}","{'Johnny Taylor', 'Keon Clark'}"
+243,"January 21, 1999","{'PHI', 'HOU'}",{'Mirsad TÃ¼rkcan'}
+244,"January 22, 1999","{'HOU', 'CHI'}","{'Scottie Pippen', 'Roy Rogers'}"
+245,"January 22, 1999","{'DET', 'POR'}",{'Bonzi Wells'}
+246,"January 22, 1999","{'DET', 'ATL'}","{'Scot Pollard', 'Christian Laettner'}"
+247,"January 22, 1999","{'MIL', 'CHI'}",{'Andrew Lang'}
+248,"January 23, 1999","{'PHO', 'CHI'}","{'Mark Bryant', 'Martin MÃ¼Ã¼rsepp', 'Bubba Wells', 'Luc Longley'}"
+249,"February 4, 1999","{'GSW', 'UTA'}",{'Todd Fuller'}
+250,"March 10, 1999","{'CHH', 'LAL'}","{'Eddie Jones', 'J.R. Reid', 'Glen Rice', 'Elden Campbell', 'B.J. Armstrong'}"
+251,"March 11, 1999","{'MIL', 'MIN', 'NJN'}","{'Chris Gatling', 'Chris Carr', 'Stephon Marbury', 'Paul Grant', 'Elliot Perry', 'Bill Curley', 'Terrell Brandon', 'Brian Evans', 'Sam Cassell'}"
+252,"March 11, 1999","{'BOS', 'CLE'}","{'Andrew DeClercq', 'Vitaly Potapenko'}"
+253,"March 11, 1999","{'MIL', 'PHI'}","{'Scott Williams', 'Tyrone Hill', 'Jerald Honeycutt', 'Tim Thomas'}"
+254,"March 11, 1999","{'VAN', 'HOU'}","{'Rodrick Rhodes', 'Sam Mack'}"
+255,"March 11, 1999","{'PHI', 'NYK'}",{'Mirsad TÃ¼rkcan'}
+256,"June 29, 1999","{'GSW', 'ATL'}","{'Duane Ferrell', 'Mookie Blaylock', 'Bimbo Coles'}"
+257,"June 30, 1999","{'SAS', 'DAL'}","{'Leon Smith', 'Gordan GiriÄ\x8dek'}"
+258,"June 30, 1999","{'GSW', 'IND'}","{'Jeff Foster', 'Vonteego Cummings'}"
+259,"June 30, 1999","{'ORL', 'SEA'}","{'Corey Maggette', 'Don MacLean', 'Dale Ellis', 'Billy Owens', 'Horace Grant'}"
+260,"June 30, 1999","{'PHI', 'ATL'}",{'Jumaine Jones'}
+261,"August 1, 1999","{'TOR', 'IND'}","{'Jonathan Bender', 'Antonio Davis'}"
+262,"August 2, 1999","{'POR', 'ATL'}","{'Isaiah Rider', 'Ed Gray', 'Jim Jackson', 'Steve Smith'}"
+263,"August 3, 1999","{'ORL', 'SAC'}","{'Tariq Abdul-Wahad', 'Nick Anderson'}"
+264,"August 3, 1999","{'DEN', 'BOS'}","{'Eric Washington', 'Ron Mercer', 'Popeye Jones', 'Danny Fortson', 'Dwayne Schintzius', 'Eric Williams'}"
+265,"August 4, 1999","{'LAC', 'CLE'}","{'Johnny Newman', 'Lamond Murray', 'Derek Anderson'}"
+266,"August 5, 1999","{'PHO', 'ORL'}","{'Anfernee Hardaway', 'Danny Manning', 'Pat Garrity'}"
+267,"August 8, 1999","{'LAC', 'ATL'}",{'Lorenzen Wright'}
+268,"August 11, 1999","{'WAS', 'ORL'}","{'Jeff McInnis', 'Tim Legler', 'Terry Davis', 'Isaac Austin', 'Ben Wallace'}"
+269,"August 12, 1999","{'SEA', 'CHI'}","{'Hersey Hawkins', 'James Cotton', 'Brent Barry'}"
+270,"August 13, 1999","{'PHI', 'ORL'}","{'Anthony Parker', 'Billy Owens', 'Harvey Grant'}"
+271,"August 19, 1999","{'MIL', 'ORL'}","{'Dale Ellis', 'Armen Gilliam', 'Danny Manning', 'Chris Gatling'}"
+272,"August 27, 1999","{'VAN', 'ORL', 'HOU'}","{'Don MacLean', 'Michael Dickerson', 'Brent Price', 'Steve Francis', 'Michael Smith', 'Lee Mayberry', 'Rodrick Rhodes', 'Othella Harrington', 'Tony Massenburg', ""Makhtar N'Diaye"", 'Antoine Carr'}"
+273,"September 1, 1999","{'LAL', 'DAL'}","{'Sean Rooks', 'A.C. Green'}"
+274,"September 22, 1999","{'WAS', 'ORL'}",{'Laron Profit'}
+275,"September 23, 1999","{'NJN', 'LAC'}","{'Johnny Newman', 'Eric Murdock'}"
+276,"September 29, 1999","{'DAL', 'CHI'}",{'Chris Anstey'}
+277,"October 2, 1999","{'POR', 'HOU'}","{'Walt Williams', 'Scottie Pippen', 'Ed Gray', 'Carlos Rogers', 'Stacey Augmon', 'Brian Shaw', 'Kelvin Cato'}"
+278,"January 18, 2000","{'MIL', 'CHH'}",{'Dale Ellis'}
+279,"February 1, 2000","{'DEN', 'ORL'}","{'Chauncey Billups', 'Johnny Taylor', 'Ron Mercer', 'Chris Gatling', 'Tariq Abdul-Wahad'}"
+280,"February 16, 2000","{'GSW', 'PHI', 'CHI'}","{'Larry Hughes', 'John Starks', 'Bruce Bowen', 'Toni KukoÄ\x8d', 'Billy Owens'}"
+281,"February 24, 2000","{'ORL', 'ATL'}",{'Anthony Johnson'}
+282,"June 23, 2000","{'DEN', 'UTA'}",set()
+283,"June 27, 2000","{'GSW', 'CLE', 'MIL'}","{'Jason Caffey', 'Vinny Del Negro', 'J.R. Reid', 'Bob Sura', 'Billy Owens', 'Robert Traylor'}"
+284,"June 27, 2000","{'DEN', 'MIA'}","{'Voshon Lenard', 'Mark Strickland', 'Chris Gatling'}"
+285,"June 28, 2000","{'BOS', 'SEA'}",{'Josip Sesar'}
+286,"June 28, 2000","{'CLE', 'CHI'}","{'Chris Mihm', 'Jamal Crawford'}"
+287,"June 28, 2000","{'MIL', 'HOU'}","{'Joel Przybilla', 'Jason Collier'}"
+288,"June 28, 2000","{'DAL', 'ORL'}",{'Courtney Alexander'}
+289,"June 28, 2000","{'DAL', 'HOU'}","{'Eduardo NÃ¡jera', 'Dan Langhi'}"
+290,"June 28, 2000","{'LAC', 'ORL'}","{'Keyon Dooling', 'Corey Maggette', 'Derek Strong'}"
+291,"June 28, 2000","{'DAL', 'NYK'}","{'John Wallace', 'Pete Mickeal', 'Erick Strickland', 'Donnell Harvey'}"
+292,"June 28, 2000","{'LAC', 'DAL'}","{'Sean Rooks', 'Eric Murdock'}"
+293,"June 28, 2000","{'SAS', 'LAL'}",{'Cory Hightower'}
+294,"August 1, 2000","{'CHH', 'MIA'}","{'P.J. Brown', 'Eddie Jones', 'Dale Ellis', 'Rodney Buford', 'Jamal Mashburn', 'Anthony Mason', 'Ricky Davis', 'Tim James', 'Otis Thorpe'}"
+295,"August 3, 2000","{'DET', 'ORL'}","{'Grant Hill', 'Ben Wallace', 'Chucky Atkins'}"
+296,"August 3, 2000","{'CLE', 'ORL'}","{'Andrew DeClercq', 'Matt Harpring'}"
+297,"August 3, 2000","{'TOR', 'ORL'}",{'Tracy McGrady'}
+298,"August 16, 2000","{'GSW', 'BOS', 'DAL', 'UTA'}","{'Danny Fortson', 'Donyell Marshall', 'Bruno Å\xa0undov', 'Hot Rod Williams', 'Howard Eisley', 'Dana Barros', 'Adam Keefe', 'Bill Curley', 'Robert Pack'}"
+299,"August 22, 2000","{'VAN', 'WAS'}","{'Obinna Ekezie', 'Felipe LÃ³pez', 'Isaac Austin', 'Cherokee Parks', 'Dennis Scott'}"
+300,"August 22, 2000","{'MIL', 'DET'}","{'Lindsey Hunter', 'Billy Owens'}"
+301,"August 29, 2000","{'DET', 'DAL'}","{'Christian Laettner', 'Cedric Ceballos', 'Eric Murdock', 'John Wallace', 'Terry Mills'}"
+302,"August 30, 2000","{'POR', 'CLE', 'MIA'}","{'Chris Gatling', 'Shawn Kemp', 'Clarence Weatherspoon', 'Gary Grant', 'Brian Grant'}"
+303,"August 31, 2000","{'POR', 'IND'}","{'Dale Davis', ""Jermaine O'Neal"", 'Joe Kleine'}"
+304,"September 20, 2000","{'PHO', 'LAL', 'NYK', 'SEA'}","{'Glen Rice', 'Vernon Maxwell', 'Vladimir Stepania', 'Travis Knight', 'Horace Grant', 'Chris Dudley', 'Patrick Ewing', 'Chuck Person', 'Lazaro Borrell', 'Emanual Davis', 'Greg Foster', 'Luc Longley'}"
+305,"September 25, 2000","{'DEN', 'WAS'}","{'Popeye Jones', 'Tracy Murray'}"
+306,"September 28, 2000","{'HOU', 'CHI'}",{'Bryce Drew'}
+307,"September 30, 2000","{'TOR', 'SAC'}","{'Corliss Williamson', 'Doug Christie'}"
+308,"October 16, 2000","{'DEN', 'BOS'}","{'Bryant Stith', 'Chris Herren', 'Calbert Cheaney', 'Robert Pack'}"
+309,"October 17, 2000","{'DET', 'DAL'}","{'Loy Vaught', 'Dana Barros', 'Ansu Sesay'}"
+310,"November 26, 2000","{'DET', 'MIA'}",{'Cedric Ceballos'}
+311,"November 28, 2000","{'WAS', 'LAC'}","{'Obinna Ekezie', 'Cherokee Parks', 'Tyrone Nesby'}"
+312,"January 2, 2001","{'CLE', 'ATL'}","{'Larry Robinson', 'Brevin Knight', 'Anthony Johnson', 'Jim Jackson'}"
+313,"January 12, 2001","{'DEN', 'TOR'}","{'Tracy Murray', 'Aleksandar RadojeviÄ\x87', 'Garth Joseph', 'Kevin Willis', ""Mamadou N'Diaye"", 'Keon Clark'}"
+314,"January 26, 2001","{'GSW', 'PHO'}","{'Vinny Del Negro', 'Corie Blount', 'RubÃ©n GarcÃ©s', 'Paul McPherson'}"
+315,"January 30, 2001","{'VAN', 'NYK'}","{'Othella Harrington', 'Erick Strickland'}"
+316,"February 22, 2001","{'PHI', 'ATL'}","{'Nazr Mohammed', 'Toni KukoÄ\x8d', 'Roshown McLeod', 'Pepe SÃ¡nchez', 'Theo Ratliff', 'Dikembe Mutombo'}"
+317,"February 22, 2001","{'DET', 'TOR'}","{'KornÃ©l DÃ¡vid', 'Corliss Williamson', 'Jerome Williams', 'Eric Montross', 'Tyrone Corbin'}"
+318,"February 22, 2001","{'TOR', 'NYK'}","{'Chris Childs', 'Mark Jackson', 'Muggsy Bogues'}"
+319,"February 22, 2001","{'WAS', 'DAL'}","{'Calvin Booth', 'Loy Vaught', 'Obinna Ekezie', 'Christian Laettner', 'Juwan Howard', 'Hubert Davis', 'Etan Thomas', 'Courtney Alexander'}"
+320,"June 2, 2001","{'DET', 'ORL', 'HOU'}",set()
+321,"June 14, 2001","{'CHH', 'CHI'}",{'Roberto Duenas'}
+322,"June 26, 2001","{'LAC', 'PHI'}",set()
+323,"June 27, 2001","{'DEN', 'ORL'}",{'Omar Cook'}
+324,"June 27, 2001","{'HOU', 'ATL'}",{'Terence Morris'}
+325,"June 27, 2001","{'WAS', 'SEA'}","{'Bobby Simmons', 'Predrag Drobnjak'}"
+326,"June 27, 2001","{'VAN', 'ATL'}","{'Jamaal Tinsley', 'Shareef Abdur-Rahim', 'Pau Gasol', 'Lorenzen Wright', 'Brevin Knight'}"
+327,"June 27, 2001","{'IND', 'ATL'}",{'Jamaal Tinsley'}
+328,"June 27, 2001","{'VAN', 'SAC'}","{'Brent Price', 'Jason Williams', 'Mike Bibby', 'Nick Anderson'}"
+329,"June 27, 2001","{'LAC', 'CHI'}","{'Elton Brand', 'Brian Skinner', 'Tyson Chandler'}"
+330,"June 27, 2001","{'CLE', 'ORL'}","{'Brendan Haywood', 'Michael Doleac'}"
+331,"June 27, 2001","{'NJN', 'HOU'}","{'Eddie Griffin', 'Brandon Armstrong', 'Richard Jefferson', 'Jason Collins'}"
+332,"June 28, 2001","{'MIL', 'LAL'}","{'Lindsey Hunter', 'Greg Foster'}"
+333,"July 18, 2001","{'DET', 'TOR'}",{'Å½eljko RebraÄ\x8da'}
+334,"July 18, 2001","{'TOR', 'CHI'}","{'Charles Oakley', 'Brian Skinner'}"
+335,"July 18, 2001","{'NJN', 'PHO'}","{'Johnny Newman', 'Stephon Marbury', 'Soumaila Samake', 'Jason Kidd', 'Chris Dudley'}"
+336,"July 18, 2001","{'PHO', 'DET'}","{'Jud Buechler', 'John Wallace', 'Clifford Robinson'}"
+337,"July 20, 2001","{'POR', 'CHI'}",{'Greg Anthony'}
+338,"July 25, 2001","{'SAS', 'POR'}","{'Derek Anderson', 'Steve Kerr', 'Steve Smith'}"
+339,"August 1, 2001","{'WAS', 'ORL'}","{'Brendan Haywood', 'Laron Profit'}"
+340,"August 2, 2001","{'TOR', 'HOU'}",{'Hakeem Olajuwon'}
+341,"August 3, 2001","{'PHI', 'CLE'}","{'Tyrone Hill', 'Cedric Henderson', 'Jumaine Jones', 'Matt Harpring', 'Robert Traylor'}"
+342,"August 3, 2001","{'BOS', 'PHI'}","{'JÃ©rÃ´me MoÃ¯so', 'Roshown McLeod'}"
+343,"August 10, 2001","{'DAL', 'NYK', 'HOU'}","{'Muggsy Bogues', 'Howard Eisley', 'Glen Rice', 'Kyle Hill', 'Shandon Anderson'}"
+344,"August 22, 2001","{'MIA', 'DAL'}",{'Tim Hardaway'}
+345,"September 7, 2001","{'DET', 'SAC'}","{'Mateen Cleaves', 'Jon Barry'}"
+346,"September 25, 2001","{'DEN', 'DAL'}",{'Kenny Satterfield'}
+347,"October 1, 2001","{'MIA', 'CHI'}",{'Sean Lampley'}
+348,"October 22, 2001","{'DEN', 'MIL'}","{'Kevin Willis', 'Scott Williams', 'Aleksandar RadojeviÄ\x87'}"
+349,"October 22, 2001","{'MIL', 'HOU'}",{'Kevin Willis'}
+350,"October 25, 2001","{'GSW', 'CHH', 'PHI'}","{'Derrick Coleman', 'George Lynch', 'Chris Porter', 'Robert Traylor', 'JÃ©rÃ´me MoÃ¯so', 'Corie Blount', 'Vonteego Cummings', 'Cedric Henderson'}"
+351,"October 26, 2001","{'MIA', 'TOR', 'CLE'}","{'Ricky Davis', 'Brian Skinner', 'Don MacLean', 'Chris Gatling'}"
+352,"October 29, 2001","{'PHO', 'CHI'}","{'Jake Voskuhl', 'Soumaila Samake'}"
+353,"October 29, 2001","{'POR', 'LAC'}","{'Doron Sheffer', 'Will Perdue'}"
+354,"November 16, 2001","{'PHO', 'LAC', 'ORL'}","{'Jud Buechler', 'Bo Outlaw', 'Vinny Del Negro'}"
+355,"February 19, 2002","{'IND', 'CHI'}","{'Norm Richardson', 'Jalen Rose', 'Brad Miller', 'Travis Best', 'Metta World Peace', 'Ron Mercer', 'Kevin Ollie'}"
+356,"February 20, 2002","{'PHO', 'BOS'}","{'Tony Delk', 'Milt Palacio', 'Randy Brown', 'Joe Johnson', 'Rodney Rogers'}"
+357,"February 21, 2002","{'DEN', 'DAL'}","{'Donnell Harvey', 'Raef LaFrentz', 'Juwan Howard', 'Tim Hardaway', 'Avery Johnson', 'Tariq Abdul-Wahad', 'Nick Van Exel'}"
+358,"February 21, 2002","{'GSW', 'MIN'}","{'Marc Jackson', 'Dean Garrett'}"
+359,"June 25, 2002","{'CHH', 'WAS'}",{'Courtney Alexander'}
+360,"June 26, 2002","{'LAC', 'ORL'}",{'Mario Kasun'}
+361,"June 26, 2002","{'GSW', 'PHI'}",{'JiÅ\x99Ã\xad Welsch'}
+362,"June 26, 2002","{'ORL', 'UTA'}","{'Jamal Sampson', 'Ryan Humphrey', 'Curtis Borchardt'}"
+363,"June 26, 2002","{'MIL', 'ORL'}","{'Jamal Sampson', 'Rashard Griffith'}"
+364,"June 26, 2002","{'DEN', 'NYK'}","{'NenÃª', 'Frank Williams', 'Marcus Camby', 'Antonio McDyess', 'Mark Jackson'}"
+365,"June 26, 2002","{'SAS', 'PHI'}","{'Mark Bryant', 'Randy Holcomb', 'John Salmons', 'Speedy Claxton'}"
+366,"June 26, 2002","{'TOR', 'LAL'}","{'Chris Jefferies', 'Tracy Murray', 'Kareem Rush', 'Lindsey Hunter'}"
+367,"June 26, 2002","{'MEM', 'CLE'}","{'Matt Barnes', 'Wesley Person', 'Nick Anderson'}"
+368,"June 26, 2002","{'MIL', 'MEM'}",{'Chris Owens'}
+369,"June 26, 2002","{'PHI', 'ATL'}",{'Efthimis Rentzias'}
+370,"June 26, 2002","{'SAC', 'ATL'}",{'Dan Dickau'}
+371,"June 28, 2002","{'SAS', 'MEM'}",{'Gordan GiriÄ\x8dek'}
+372,"July 22, 2002","{'BOS', 'SEA'}","{'Shammond Williams', 'Vitaly Potapenko', 'Vin Baker', 'Joseph Forte', 'Kenny Anderson'}"
+373,"July 30, 2002","{'LAC', 'CLE'}","{'Darius Miles', 'Bryant Stith', 'Andre Miller', 'Harold Jamison'}"
+374,"August 1, 2002","{'DEN', 'ORL'}",{'Don Reid'}
+375,"August 2, 2002","{'MIL', 'ATL'}","{'Leon Smith', 'Glenn Robinson', 'Toni KukoÄ\x8d'}"
+376,"August 5, 2002","{'SAS', 'POR'}","{'Erick Barkley', 'Amal McCaskill', 'Antonio Daniels', 'Charles Smith', 'Steve Kerr'}"
+377,"August 6, 2002","{'NJN', 'PHI'}","{'Keith Van Horn', 'Todd MacCulloch', 'Dikembe Mutombo'}"
+378,"September 11, 2002","{'DET', 'WAS'}","{'Jerry Stackhouse', 'Bobby Simmons', 'Hubert Davis', 'Brian Cardinal', 'Ratko Varda', 'Richard Hamilton'}"
+379,"September 17, 2002","{'PHO', 'CLE'}",{'Milt Palacio'}
+380,"September 25, 2002","{'TOR', 'CLE'}","{'Michael Stewart', 'Lamond Murray'}"
+381,"October 1, 2002","{'DEN', 'DET'}","{'Rodney White', 'Don Reid', 'Mengke Bateer'}"
+382,"October 3, 2002","{'SAS', 'DET'}",{'Mengke Bateer'}
+383,"October 24, 2002","{'DEN', 'WAS'}","{'George McCloud', 'Chris Whitney'}"
+384,"December 18, 2002","{'DEN', 'PHI', 'HOU'}","{'Mark Bryant', 'Kenny Thomas', 'Art Long', 'James Posey'}"
+385,"February 19, 2003","{'MEM', 'ORL'}","{'Mike Miller', 'Drew Gooden', 'Gordan GiriÄ\x8dek', 'Ryan Humphrey'}"
+386,"February 20, 2003","{'MIL', 'SEA'}","{'Ray Allen', 'Desmond Mason', 'Ronald Murray', 'Gary Payton', 'Kevin Ollie'}"
+387,"February 20, 2003","{'NOH', 'SEA'}","{'Elden Campbell', 'Kenny Anderson'}"
+388,"February 20, 2003","{'DEN', 'BOS'}","{'Mark Bryant', 'Mark Blount', 'Shammond Williams'}"
+389,"June 11, 2003","{'NYK', 'HOU'}",{'Jeff Van Gundy (coach)'}
+390,"June 23, 2003","{'DEN', 'DAL'}",{'Xue Yuyang'}
+391,"June 25, 2003","{'BOS', 'SAC'}",{'Darius Songaila'}
+392,"June 26, 2003","{'TOR', 'CHI'}",{'Matt Bonner'}
+393,"June 26, 2003","{'BOS', 'MEM'}","{'Marcus Banks', 'Dahntay Jones', 'Kendrick Perkins', 'Troy Bell'}"
+394,"June 26, 2003","{'PHI', 'SEA'}","{'Willie Green', 'Paccelis Morlende'}"
+395,"June 26, 2003","{'PHO', 'SAS'}",{'Leandro Barbosa'}
+396,"June 26, 2003","{'MIL', 'ORL'}",{'Keith Bogans'}
+397,"June 27, 2003","{'MIL', 'MIN'}","{'Ervin Johnson', 'Anthony Peeler', 'Joe Smith', 'Sam Cassell'}"
+398,"July 23, 2003","{'MIN', 'PHI', 'NYK', 'ATL'}","{'Keith Van Horn', 'Glenn Robinson', 'Marc Jackson', 'Randy Holcomb', 'Latrell Sprewell', 'Terrell Brandon'}"
+399,"July 24, 2003","{'SAC', 'SAS', 'IND'}","{'Danny Ferry', 'Hedo TÃ¼rkoÄ\x9flu', 'Scot Pollard', 'Ron Mercer', 'Brad Miller'}"
+400,"July 29, 2003","{'BOS', 'CLE'}","{'J.R. Bremer', 'Bruno Å\xa0undov', 'Jumaine Jones'}"
+401,"August 5, 2003","{'UTA', 'SAC'}",{'Keon Clark'}
+402,"August 18, 2003","{'GSW', 'DAL'}","{'Evan Eschmeyer', 'Antawn Jamison', 'Danny Fortson', 'Nick Van Exel', 'JiÅ\x99Ã\xad Welsch', 'Chris Mills', 'Avery Johnson', 'Popeye Jones', 'Antoine Rigaudeau'}"
+403,"August 21, 2003","{'GSW', 'DET'}","{'Bob Sura', 'Pepe SÃ¡nchez', 'Clifford Robinson'}"
+404,"August 28, 2003","{'DET', 'TOR'}","{'Michael Curry', 'Lindsey Hunter'}"
+405,"September 28, 2003","{'LAC', 'SEA'}",{'Predrag Drobnjak'}
+406,"September 30, 2003","{'UTA', 'HOU'}","{'Glen Rice', 'John Amaechi'}"
+407,"September 30, 2003","{'PHO', 'MEM'}","{'Bo Outlaw', 'Robert Archibald', 'Jake Tsakalidis', 'Brevin Knight', 'Cezary TrybaÅ\x84ski'}"
+408,"October 20, 2003","{'BOS', 'DAL'}","{'Chris Mills', 'Tony Delk', 'Raef LaFrentz', 'Antoine Walker', 'JiÅ\x99Ã\xad Welsch'}"
+409,"October 25, 2003","{'SAS', 'CHI'}",{'Erick Barkley'}
+410,"November 5, 2003","{'PHO', 'WAS'}","{'Brevin Knight', 'Jahidi White'}"
+411,"December 1, 2003","{'TOR', 'CHI'}","{'Chris Jefferies', 'Jerome Williams', 'Jalen Rose', 'Antonio Davis', 'Lonny Baxter', 'Donyell Marshall'}"
+412,"December 3, 2003","{'POR', 'MEM'}","{'Bonzi Wells', 'Wesley Person'}"
+413,"December 15, 2003","{'BOS', 'CLE'}","{'Tony Battie', 'Ricky Davis', 'Kedrick Brown', 'Michael Stewart', 'Chris Mihm', 'Eric Williams'}"
+414,"December 16, 2003","{'TOR', 'CHI'}","{'Roger Mason', 'Rick Brunson'}"
+415,"December 23, 2003","{'PHI', 'ORL'}",{'Monty Williams'}
+416,"December 23, 2003","{'PHO', 'ORL'}",{'Donnell Harvey'}
+417,"December 26, 2003","{'PHO', 'ORL'}",{'Robert Archibald'}
+418,"December 30, 2003","{'NYK', 'HOU'}","{'Moochie Norris', 'Clarence Weatherspoon', 'John Amaechi'}"
+419,"January 2, 2004","{'TOR', 'ORL'}","{'Remon Van der Hare', 'Robert Archibald', 'Mengke Bateer'}"
+420,"January 5, 2004","{'PHO', 'NYK'}","{'Anfernee Hardaway', 'Charlie Ward', 'Milos Vujanic', 'Antonio McDyess', 'Cezary TrybaÅ\x84ski', 'Stephon Marbury', 'Maciej Lampe', 'Howard Eisley'}"
+421,"January 21, 2004","{'POR', 'CLE'}","{'Darius Miles', 'Jeff McInnis', 'Ruben Boumtje-Boumtje'}"
+422,"February 9, 2004","{'POR', 'ATL'}","{'Dan Dickau', 'Rasheed Wallace', 'Shareef Abdur-Rahim', 'Wesley Person', 'Theo Ratliff'}"
+423,"February 15, 2004","{'MIL', 'NYK', 'ATL'}","{'Keith Van Horn', 'Nazr Mohammed', 'Michael Doleac', 'Tim Thomas', 'Joel Przybilla'}"
+424,"February 19, 2004","{'DET', 'BOS', 'ATL'}","{'Rasheed Wallace', 'Bob Sura', 'Lindsey Hunter', 'Å½eljko RebraÄ\x8da', 'Chris Mills', 'Mike James', 'Chucky Atkins'}"
+425,"February 19, 2004","{'ORL', 'UTA'}","{'Gordan GiriÄ\x8dek', 'DeShawn Stevenson'}"
+426,"February 19, 2004","{'PHO', 'UTA'}","{'Tom Gugliotta', 'Ben Handlogten', 'Keon Clark'}"
+427,"February 19, 2004","{'NOH', 'ORL'}","{'Sean Rooks', 'Shammond Williams'}"
+428,"June 22, 2004",{'LAC'},set()
+429,"June 22, 2004",{'PHO'},set()
+430,"June 23, 2004",{'MIL'},{'Zaza Pachulia'}
+431,"June 23, 2004",{'CLE'},{'Sasha PavloviÄ\x87'}
+432,"June 24, 2004","{'SAS', 'ATL'}",{'Viktor Sanikidze'}
+433,"June 24, 2004","{'DAL', 'UTA'}",{'Pavel Podkolzin'}
+434,"June 24, 2004","{'DEN', 'ORL'}",{'Jameer Nelson'}
+435,"June 24, 2004","{'PHO', 'CHI'}","{'Luol Deng', 'Jackson Vroman'}"
+436,"June 24, 2004","{'DAL', 'HOU'}","{'Luis Flores', 'Vassilis Spanoulis'}"
+437,"June 24, 2004","{'WAS', 'DAL'}","{'Christian Laettner', 'Jerry Stackhouse', 'Devin Harris', 'Antawn Jamison'}"
+438,"June 24, 2004","{'NJN', 'POR'}","{'Eddie Gill', 'Viktor Khryapa'}"
+439,"June 24, 2004","{'MEM', 'SEA'}",{'Andre Emmett'}
+440,"June 24, 2004","{'MIA', 'TOR'}","{'Pape Sow', 'Albert Miralles'}"
+441,"June 29, 2004","{'ORL', 'HOU'}","{'Juwan Howard', 'Tracy McGrady', 'Reece Gaines', 'Steve Francis', 'Cuttino Mobley', 'Kelvin Cato', 'Tyronn Lue'}"
+442,"July 14, 2004","{'MIA', 'LAL'}","{""Shaquille O'Neal"", 'Lamar Odom', 'Caron Butler', 'Brian Grant'}"
+443,"July 14, 2004","{'CHA', 'LAC'}","{'Melvin Ely', 'Eddie House'}"
+444,"July 15, 2004","{'IND', 'ATL'}","{'Stephen Jackson', 'Al Harrington'}"
+445,"July 15, 2004","{'DEN', 'NJN'}",{'Kenyon Martin'}
+446,"July 20, 2004","{'GSW', 'POR'}","{'Nick Van Exel', 'Dale Davis', 'Dan Dickau'}"
+447,"July 20, 2004","{'PHI', 'CLE'}","{'Kevin Ollie', 'Kedrick Brown', 'Eric Snow'}"
+448,"July 23, 2004","{'CLE', 'ORL'}","{'Tony Battie', 'Drew Gooden', 'Anderson VarejÃ£o', 'Steven Hunter'}"
+449,"July 26, 2004","{'DAL', 'SEA'}","{'Calvin Booth', 'Danny Fortson'}"
+450,"July 29, 2004","{'NJN', 'LAC'}",{'Kerry Kittles'}
+451,"August 4, 2004","{'DET', 'PHI'}","{'Corliss Williamson', 'Amal McCaskill', 'Derrick Coleman'}"
+452,"August 4, 2004","{'DAL', 'ATL'}","{'Jason Terry', 'Alan Henderson', 'Tony Delk', 'Antoine Walker'}"
+453,"August 5, 2004","{'NYK', 'CHI'}","{'Jamal Crawford', 'Frank Williams', 'Othella Harrington', 'Jerome Williams', 'Dikembe Mutombo', 'Cezary TrybaÅ\x84ski'}"
+454,"August 6, 2004","{'BOS', 'LAL'}","{'Gary Payton', 'Rick Fox', 'Chris Mihm', 'Jumaine Jones', 'Chucky Atkins'}"
+455,"August 16, 2004","{'CHA', 'ATL'}",{'Predrag Drobnjak'}
+456,"August 24, 2004","{'GSW', 'DAL'}","{'Dan Dickau', 'Luis Flores', 'Mladen Sekularac', 'Evan Eschmeyer', 'Christian Laettner', 'Eduardo NÃ¡jera', 'Erick Dampier', 'Steve Logan'}"
+457,"September 8, 2004","{'HOU', 'CHI'}","{'Adrian Griffin', 'Eric Piatkowski', 'Mike Wilks', 'Dikembe Mutombo'}"
+458,"November 1, 2004","{'CHA', 'ORL'}","{'Keith Bogans', 'Brandon Hunter'}"
+459,"December 3, 2004","{'DAL', 'NOH'}","{'Dan Dickau', 'Darrell Armstrong'}"
+460,"December 6, 2004","{'CHA', 'LAL'}",{'Kareem Rush'}
+461,"December 17, 2004","{'NJN', 'TOR'}","{'Alonzo Mourning', 'Vince Carter', 'Aaron Williams', 'Eric Williams'}"
+462,"December 23, 2004","{'HOU', 'ATL'}","{'Jon Barry', 'Tyronn Lue'}"
+463,"December 27, 2004","{'NOH', 'HOU'}","{'BoÅ¡tjan Nachbar', 'David Wesley', 'Jim Jackson'}"
+464,"January 3, 2005","{'GSW', 'PHO'}",{'Å½arko Ä\x8cabarkapa'}
+465,"January 10, 2005","{'ORL', 'SAC'}","{'Michael Bradley', 'Cuttino Mobley', 'Doug Christie'}"
+466,"January 21, 2005","{'DET', 'UTA'}","{'Elden Campbell', 'Carlos Arroyo'}"
+467,"January 21, 2005","{'PHO', 'NOH'}","{'Maciej Lampe', 'Jim Jackson', 'Jackson Vroman', 'Casey Jacobsen'}"
+468,"February 8, 2005","{'PHO', 'BOS'}",{'Walter McCarty'}
+469,"February 14, 2005","{'GSW', 'NJN'}",{'Clifford Robinson'}
+470,"February 23, 2005","{'PHI', 'SAC'}","{'Chris Webber', 'Kenny Thomas', 'Matt Barnes', 'Michael Bradley', 'Corliss Williamson', 'Brian Skinner'}"
+471,"February 24, 2005","{'PHI', 'NOH'}","{'Glenn Robinson', 'Jamal Mashburn', 'Rodney Rogers'}"
+472,"February 24, 2005","{'MIA', 'CHA'}","{'Malik Allen', 'Steve Smith'}"
+473,"February 24, 2005","{'NYK', 'HOU'}","{'Moochie Norris', 'Vin Baker', 'Maurice Taylor'}"
+474,"February 24, 2005","{'MIL', 'DAL'}","{'Keith Van Horn', 'Calvin Booth', 'Alan Henderson'}"
+475,"February 24, 2005","{'GSW', 'NOH'}","{'Dale Davis', 'Baron Davis', 'Speedy Claxton'}"
+476,"February 24, 2005","{'MIL', 'HOU'}","{'Zendon Hamilton', 'Mike James', 'Reece Gaines'}"
+477,"February 24, 2005","{'SAS', 'NYK'}","{'Malik Rose', 'Nazr Mohammed', 'Jamison Brewer'}"
+478,"February 24, 2005","{'DEN', 'GSW'}","{'Luis Flores', 'Nikoloz Tskitishvili', 'Eduardo NÃ¡jera', 'Rodney White'}"
+479,"February 24, 2005","{'BOS', 'ATL'}","{'Tom Gugliotta', 'Michael Stewart', 'Gary Payton', 'Antoine Walker'}"
+480,"February 24, 2005","{'BOS', 'CLE'}",{'JiÅ\x99Ã\xad Welsch'}
+481,"June 7, 2005","{'PHI', 'UTA'}",set()
+482,"June 28, 2005","{'POR', 'UTA'}",set()
+483,"June 28, 2005","{'CLE', 'ORL'}",{'Martynas AndriuÅ¡keviÄ\x8dius'}
+484,"June 28, 2005","{'MEM', 'SEA'}",{'Lawrence Roberts'}
+485,"June 28, 2005","{'PHO', 'NYK'}","{'Nate Robinson', 'Quentin Richardson', 'Kurt Thomas', 'Dijon Thompson'}"
+486,"June 28, 2005","{'MIL', 'CLE'}",{'JiÅ\x99Ã\xad Welsch'}
+487,"June 28, 2005","{'DEN', 'POR'}","{'Jarrett Jack', 'Linas Kleiza', 'Ricky SÃ¡nchez'}"
+488,"June 28, 2005","{'PHO', 'ORL'}",{'Marcin Gortat'}
+489,"August 2, 2005","{'WAS', 'LAL'}","{'Caron Butler', 'Kwame Brown', 'Chucky Atkins', 'Laron Profit'}"
+490,"August 2, 2005","{'UTA', 'NOK', 'MIA', 'BOS', 'MEM'}","{'Eddie Jones', 'Kirk Snyder', 'Andre Emmett', 'Qyntel Woods', 'Albert Miralles', 'Roberto Duenas', 'RaÃ¼l LÃ³pez', 'Curtis Borchardt', 'Antoine Walker', 'Greg Ostertag', 'Rasual Butler', 'Jason Williams', 'James Posey'}"
+491,"August 2, 2005","{'MEM', 'SAC'}","{'Greg Ostertag', 'Bobby Jackson', 'Bonzi Wells'}"
+492,"August 2, 2005","{'CHA', 'SAC'}",{'Jason Hart'}
+493,"August 2, 2005","{'PHO', 'CHA'}",{'Jake Voskuhl'}
+494,"August 9, 2005","{'NJN', 'PHI'}",{'Marc Jackson'}
+495,"August 12, 2005","{'MIN', 'LAC'}","{'Sam Cassell', 'Lionel Chalmers', 'Marko JariÄ\x87'}"
+496,"August 19, 2005","{'PHO', 'ATL'}","{'Boris Diaw', 'Joe Johnson'}"
+497,"August 25, 2005","{'PHO', 'IND'}",{'James Jones'}
+498,"September 30, 2005","{'BOS', 'NOK'}",{'Dan Dickau'}
+499,"October 4, 2005","{'TOR', 'HOU'}","{'Rafer Alston', 'Mike James'}"
+500,"October 4, 2005","{'NYK', 'CHI'}","{'Antonio Davis', 'Tim Thomas', 'Eddy Curry', 'Jermaine Jackson', 'Mike Sweetney'}"
+501,"October 26, 2005","{'CHA', 'LAL'}",{'Jumaine Jones'}
+502,"October 26, 2005","{'MIL', 'NOK'}","{'Desmond Mason', 'Jamaal Magloire'}"
+503,"October 31, 2005","{'MIN', 'DET'}",{'Ronald Dupree'}
+504,"January 25, 2006","{'SAC', 'IND'}","{'Metta World Peace', 'Peja StojakoviÄ\x87'}"
+505,"January 26, 2006","{'MIN', 'BOS'}","{'Justin Reed', 'Dwayne Jones', 'Mark Blount', 'Michael Olowokandi', 'Ricky Davis', 'Marcus Banks', 'Wally Szczerbiak'}"
+506,"January 26, 2006","{'MIN', 'PHO'}",{'Nikoloz Tskitishvili'}
+507,"January 31, 2006","{'TOR', 'NOK'}",{'Aaron Williams'}
+508,"February 3, 2006","{'TOR', 'NYK'}","{'Jalen Rose', 'Antonio Davis'}"
+509,"February 9, 2006","{'CHA', 'HOU'}","{'Keith Bogans', 'Lonny Baxter'}"
+510,"February 13, 2006","{'NOK', 'HOU'}","{'Moochie Norris', 'Maciej Lampe'}"
+511,"February 14, 2006","{'LAC', 'SEA'}","{'Vladimir RadmanoviÄ\x87', 'Chris Wilcox'}"
+512,"February 15, 2006","{'DET', 'ORL'}","{'Kelvin Cato', 'Carlos Arroyo', 'Darko MiliÄ\x8diÄ\x87'}"
+513,"February 22, 2006","{'NYK', 'ORL'}","{'Anfernee Hardaway', 'Steve Francis', 'Trevor Ariza'}"
+514,"February 23, 2006","{'PHI', 'CLE'}",{'Lee Nailon'}
+515,"February 23, 2006","{'MIA', 'HOU'}","{'Gerald Fitch', 'Derek Anderson'}"
+516,"February 23, 2006","{'DEN', 'POR', 'SEA', 'SAC'}","{'Bryon Russell', 'Sergei Monia', 'Ruben Patterson', 'Charles Smith', 'Voshon Lenard', 'Reggie Evans', 'Vitaly Potapenko', 'Brian Skinner', 'Earl Watson'}"
+517,"February 23, 2006","{'CLE', 'SEA'}","{'Ronald Murray', 'Mike Wilks'}"
+518,"February 23, 2006","{'NJN', 'NOK'}","{'Linton Johnson', 'Marc Jackson', 'BoÅ¡tjan Nachbar'}"
+519,"June 8, 2006","{'TOR', 'UTA'}","{'Rafael AraÃºjo', 'Kris Humphries', 'Robert Whaley'}"
+520,"June 21, 2006","{'SAS', 'TOR'}","{'Eric Williams', 'Matt Bonner', 'Rasho NesteroviÄ\x87'}"
+521,"June 28, 2006","{'PHO', 'BOS'}","{'Rajon Rondo', 'Brian Grant'}"
+522,"June 28, 2006","{'MIL', 'SAS'}",{'Damir Markota'}
+523,"June 28, 2006","{'DEN', 'BOS'}",{'Leon Powe'}
+524,"June 28, 2006","{'POR', 'CHI'}","{'Tyrus Thomas', 'Viktor Khryapa', 'LaMarcus Aldridge'}"
+525,"June 28, 2006","{'POR', 'IND'}","{'James White', 'Alexander Johnson'}"
+526,"June 28, 2006","{'POR', 'MEM'}",{'Alexander Johnson'}
+527,"June 28, 2006","{'LAL', 'DAL'}",{'J.R. Pinnock'}
+528,"June 28, 2006","{'POR', 'BOS'}","{'Dan Dickau', 'Theo Ratliff', 'Raef LaFrentz', 'Sebastian Telfair', 'Randy Foye'}"
+529,"June 28, 2006","{'MIN', 'POR'}","{'Randy Foye', 'Brandon Roy'}"
+530,"June 28, 2006","{'DET', 'LAL'}","{'Maurice Evans', 'Cheikh Samb'}"
+531,"June 28, 2006","{'PHI', 'CHI'}","{'Rodney Carney', 'Thabo Sefolosha'}"
+532,"June 28, 2006","{'MIN', 'PHI'}",{'Bobby Jones'}
+533,"June 30, 2006","{'MIL', 'TOR'}","{'Charlie Villanueva', 'T.J. Ford'}"
+534,"July 12, 2006","{'MEM', 'HOU'}","{'Stromile Swift', 'Shane Battier', 'Rudy Gay'}"
+535,"July 12, 2006","{'GSW', 'UTA'}","{'Derek Fisher', 'Keith McLeod', 'Andre Owens', 'Devin Brown'}"
+536,"July 12, 2006","{'DAL', 'IND'}","{'Austin Croshere', 'Marquis Daniels'}"
+537,"July 12, 2006","{'NOK', 'IND'}","{'Peja StojakoviÄ\x87', 'Andrew Betts'}"
+538,"July 14, 2006","{'NOK', 'CHI'}","{'P.J. Brown', 'Tyson Chandler', 'J.R. Smith'}"
+539,"July 14, 2006","{'NOK', 'HOU'}",{'Kirk Snyder'}
+540,"July 20, 2006","{'DEN', 'CHI'}","{'J.R. Smith', 'Howard Eisley'}"
+541,"July 24, 2006","{'DAL', 'IND'}","{'Rawle Marshall', 'Darrell Armstrong', 'Anthony Johnson', 'Josh Powell'}"
+542,"July 27, 2006","{'NJN', 'SEA'}",{'Mikki Moore'}
+543,"July 31, 2006","{'MIL', 'POR'}","{'Steve Blake', 'Brian Skinner', 'Jamaal Magloire', 'Ha Seung-Jin'}"
+544,"August 10, 2006","{'DEN', 'MIL'}","{'Ruben Patterson', 'Joe Smith'}"
+545,"August 18, 2006","{'CLE', 'CHI'}","{'Eddie Basden', 'Martynas AndriuÅ¡keviÄ\x8dius'}"
+546,"August 22, 2006","{'IND', 'ATL'}","{'Al Harrington', 'John Edwards'}"
+547,"October 13, 2006","{'BOS', 'CLE'}","{'Dwayne Jones', 'Luke Jackson'}"
+548,"December 19, 2006","{'DEN', 'PHI'}","{'Allen Iverson', 'Ivan McFarlin', 'Andre Miller', 'Joe Smith'}"
+549,"January 3, 2007","{'NJN', 'CHA'}","{'Bernard Robinson', 'Jeff McInnis'}"
+550,"January 11, 2007","{'DEN', 'MIL'}","{'Steve Blake', 'Earl Boykins', 'Julius Hodge'}"
+551,"January 16, 2007","{'GSW', 'IND'}","{'Josh Powell', 'Mike Dunleavy', 'Al Harrington', 'Stephen Jackson', 'Troy Murphy', 'Keith McLeod', 'Å\xa0arÅ«nas JasikeviÄ\x8dius', 'Ike Diogu'}"
+552,"February 13, 2007","{'SAS', 'CHA'}","{'Melvin Ely', 'Eric Williams'}"
+553,"February 13, 2007","{'MEM', 'HOU'}","{'Jake Tsakalidis', 'Scott Padgett'}"
+554,"February 22, 2007","{'POR', 'TOR'}","{'Fred Jones', 'Juan Dixon'}"
+555,"February 22, 2007","{'DAL', 'ATL'}",{'Anthony Johnson'}
+556,"June 8, 2007","{'MIA', 'ORL'}",{'Stan Van Gundy (coach)'}
+557,"June 14, 2007","{'MIN', 'HOU'}","{'Justin Reed', 'Juwan Howard', 'Mike James'}"
+558,"June 15, 2007","{'DET', 'TOR'}",{'Carlos Delfino'}
+559,"June 28, 2007","{'ORL', 'HOU'}",set()
+560,"June 28, 2007","{'PHI', 'UTA'}","{'Kyrylo Fesenko', 'Herbert Hill'}"
+561,"June 28, 2007","{'SAS', 'TOR'}",{'Georgios Printezis'}
+562,"June 28, 2007","{'MIA', 'IND'}",{'Stanko BaraÄ\x87'}
+563,"June 28, 2007","{'POR', 'PHI'}","{'Derrick Byars', 'Petteri Koponen'}"
+564,"June 28, 2007","{'DAL', 'ORL'}","{'Milovan RakoviÄ\x87', 'Reyshawn Terry'}"
+565,"June 28, 2007","{'SEA', 'HOU'}",{'Carl Landry'}
+566,"June 28, 2007","{'BOS', 'SEA'}","{'Ray Allen', 'Delonte West', 'Glen Davis', 'Wally Szczerbiak', 'Jeff Green'}"
+567,"June 28, 2007","{'POR', 'NYK'}","{'Channing Frye', 'Dan Dickau', 'Fred Jones', 'Zach Randolph', 'Steve Francis'}"
+568,"June 28, 2007","{'MIA', 'PHI'}","{'Jason Smith', 'Daequan Cook'}"
+569,"June 28, 2007","{'GSW', 'CHA'}","{'Brandan Wright', 'Jermareo Davidson', 'Jason Richardson'}"
+570,"June 28, 2007","{'POR', 'NYK'}",{'Demetris Nichols'}
+571,"July 11, 2007","{'PHO', 'POR'}","{'Rudy FernÃ¡ndez', 'James Jones'}"
+572,"July 11, 2007","{'ORL', 'SEA'}",{'Rashard Lewis'}
+573,"July 12, 2007","{'SAS', 'HOU'}","{'Jackie Butler', 'Luis Scola', 'Vassilis Spanoulis'}"
+574,"July 20, 2007","{'PHO', 'SEA'}",{'Kurt Thomas'}
+575,"July 31, 2007","{'MIN', 'BOS'}","{'Ryan Gomes', 'Al Jefferson', 'Sebastian Telfair', 'Kevin Garnett', 'Theo Ratliff', 'Gerald Green'}"
+576,"August 17, 2007","{'WAS', 'MEM'}",{'Juan Carlos Navarro'}
+577,"September 10, 2007","{'DEN', 'PHI'}","{'Bobby Jones', 'Reggie Evans', 'Steven Hunter', 'Ricky SÃ¡nchez'}"
+578,"September 29, 2007","{'NOH', 'CLE'}","{'Cedric Simmons', 'David Wesley'}"
+579,"October 1, 2007","{'MIN', 'DAL'}","{'Greg Buckner', 'Trenton Hassell'}"
+580,"October 24, 2007","{'MIN', 'MIA'}","{'Ricky Davis', 'Wayne Simien', 'Antoine Walker', 'Michael Doleac', 'Mark Blount'}"
+581,"October 29, 2007","{'NJN', 'NOH'}","{'Mile IliÄ\x87', 'David Wesley', 'Bernard Robinson'}"
+582,"October 29, 2007","{'MIN', 'SAS'}",{'Beno Udrih'}
+583,"November 20, 2007","{'LAL', 'ORL'}","{'Maurice Evans', 'Brian Cook', 'Trevor Ariza'}"
+584,"December 14, 2007","{'DET', 'CHA'}","{'Nazr Mohammed', 'PrimoÅ¾ Brezec', 'Walter Herrmann'}"
+585,"December 29, 2007","{'PHI', 'UTA'}","{'Gordan GiriÄ\x8dek', 'Kyle Korver'}"
+586,"February 1, 2008","{'LAL', 'MEM'}","{'Marc Gasol', 'Aaron McKie', 'Kwame Brown', 'Pau Gasol', 'Javaris Crittenton'}"
+587,"February 4, 2008","{'NJN', 'MEM'}","{'Stromile Swift', 'Jason Collins'}"
+588,"February 6, 2008","{'PHO', 'MIA'}","{""Shaquille O'Neal"", 'Marcus Banks', 'Shawn Marion'}"
+589,"February 16, 2008","{'SAC', 'ATL'}","{'Mike Bibby', 'Anthony Johnson', 'Shelden Williams', 'Lorenzen Wright', 'Tyronn Lue'}"
+590,"February 19, 2008","{'NJN', 'DAL'}","{'Keith Van Horn', 'Malik Allen', 'DeSagana Diop', 'Maurice Ager', 'Antoine Wright', 'Trenton Hassell', 'Jason Kidd', 'Devin Harris'}"
+591,"February 20, 2008","{'SAS', 'SEA'}","{'Francisco Elson', 'Kurt Thomas', 'Brent Barry'}"
+592,"February 21, 2008","{'DET', 'TOR'}","{'PrimoÅ¾ Brezec', 'Juan Dixon'}"
+593,"February 21, 2008","{'CLE', 'SEA', 'CHI'}","{'Larry Hughes', 'Cedric Simmons', 'Ira Newble', 'Delonte West', 'Shannon Brown', 'Adrian Griffin', 'Ben Wallace', 'Joe Smith', 'Drew Gooden', 'Wally Szczerbiak', 'Donyell Marshall'}"
+594,"February 21, 2008","{'MIN', 'HOU'}","{'Kirk Snyder', 'Gerald Green'}"
+595,"February 21, 2008","{'NOH', 'MEM', 'HOU'}","{'Bobby Jackson', 'Malick Badiane', 'Adam Haluska', 'Mike James', 'Sergei Lishouk', 'Marcus Vinicius', 'Bonzi Wells'}"
+596,"February 21, 2008","{'DEN', 'POR'}","{'Von Wafer', 'Taurean Green'}"
+597,"June 25, 2008","{'DEN', 'CHA'}",set()
+598,"June 26, 2008","{'POR', 'LAC'}",{'Mike Taylor'}
+599,"June 26, 2008","{'MIN', 'MIA'}",{'Mario Chalmers'}
+600,"June 26, 2008","{'MIA', 'CLE'}",{'Darnell Jackson'}
+601,"June 26, 2008","{'DET', 'SEA'}","{'Trent Plaisted', 'D.J. White', 'Walter Sharpe'}"
+602,"June 26, 2008","{'POR', 'MEM', 'HOU'}","{'Nicolas Batum', 'Joey Dorsey', 'DontÃ© Greene', 'Darrell Arthur'}"
+603,"June 26, 2008","{'MIN', 'MEM'}","{'O.J. Mayo', 'Marko JariÄ\x87', 'Brian Cardinal', 'Mike Miller', 'Antoine Walker', 'Kevin Love', 'Greg Buckner', 'Jason Collins'}"
+604,"June 26, 2008","{'MIL', 'NJN'}","{'Yi Jianlian', 'Bobby Simmons', 'Richard Jefferson'}"
+605,"June 28, 2008","{'PHO', 'SAS'}","{'Malik Hairston', 'Goran DragiÄ\x87'}"
+606,"June 28, 2008","{'DEN', 'POR', 'CHI'}","{'Ã\x96mer AÅ\x9fÄ±k', 'Sonny Weems'}"
+607,"July 9, 2008","{'TOR', 'IND'}","{'Nathan Jawai', ""Jermaine O'Neal"", 'Roy Hibbert', 'Rasho NesteroviÄ\x87', 'Maceo Baston', 'T.J. Ford'}"
+608,"July 9, 2008","{'MIN', 'PHI'}","{'Rodney Carney', 'Calvin Booth'}"
+609,"July 9, 2008","{'POR', 'IND'}","{'Jarrett Jack', 'Jerryd Bayless', 'Brandon Rush', 'Ike Diogu', 'Josh McRoberts'}"
+610,"July 15, 2008","{'DEN', 'LAC'}",{'Marcus Camby'}
+611,"July 22, 2008","{'GSW', 'NJN'}",{'Marcus Williams'}
+612,"July 23, 2008","{'LAC', 'UTA'}","{'Jason Hart', 'Brevin Knight'}"
+613,"July 28, 2008","{'DEN', 'NYK'}","{'Bobby Jones', 'Taurean Green', 'Renaldo Balkman'}"
+614,"August 6, 2008","{'LAC', 'HOU'}",{'Steve Novak'}
+615,"August 11, 2008","{'CHA', 'OKC'}",{'Kyle Weaver'}
+616,"August 13, 2008","{'MIL', 'OKC', 'CLE'}","{'Desmond Mason', 'Luke Ridnour', 'Damon Jones', 'Mo Williams', 'Adrian Griffin', 'Joe Smith'}"
+617,"August 14, 2008","{'SAC', 'HOU'}","{'Metta World Peace', 'Bobby Jackson', 'DontÃ© Greene', 'Patrick Ewing', 'Sean Singletary'}"
+618,"August 25, 2008","{'PHO', 'HOU'}","{'D.J. Strawberry', 'Sean Singletary'}"
+619,"August 29, 2008","{'NYK', 'HOU'}","{'Patrick Ewing', 'Frederic Weis'}"
+620,"October 10, 2008","{'DAL', 'IND'}","{'Eddie Jones', 'Shawne Williams'}"
+621,"November 3, 2008","{'DEN', 'DET'}","{'Allen Iverson', 'Antonio McDyess', 'Cheikh Samb', 'Chauncey Billups'}"
+622,"November 21, 2008","{'LAC', 'NYK'}","{'Zach Randolph', 'Mardy Collins', 'Cuttino Mobley', 'Tim Thomas'}"
+623,"November 21, 2008","{'GSW', 'NYK'}","{'Al Harrington', 'Jamal Crawford'}"
+624,"December 10, 2008","{'PHO', 'CHA'}","{'Raja Bell', 'Jared Dudley', 'Boris Diaw', 'Sean Singletary', 'Jason Richardson'}"
+625,"December 10, 2008","{'WAS', 'NOH', 'MEM'}","{'Javaris Crittenton', 'Antonio Daniels', 'Mike James'}"
+626,"December 23, 2008","{'MEM', 'HOU'}",{'Steve Francis'}
+627,"January 1, 2009","{'TOR', 'LAC'}",{'Hassan Adams'}
+628,"January 5, 2009","{'DEN', 'LAC'}",{'Cheikh Samb'}
+629,"January 7, 2009","{'MIA', 'MEM'}",{'Shaun Livingston'}
+630,"January 7, 2009","{'DEN', 'OKC'}","{'Johan Petro', 'Chucky Atkins'}"
+631,"January 16, 2009","{'CHA', 'DAL'}","{'Matt Carroll', 'Ryan Hollins', 'DeSagana Diop'}"
+632,"February 5, 2009","{'MIL', 'ORL'}","{'Keith Bogans', 'Tyronn Lue'}"
+633,"February 7, 2009","{'CHA', 'LAL'}","{'Shannon Brown', 'Vladimir RadmanoviÄ\x87', 'Adam Morrison'}"
+634,"February 13, 2009","{'MIA', 'TOR'}","{""Jermaine O'Neal"", 'Marcus Banks', 'Shawn Marion', 'Jamario Moon'}"
+635,"February 16, 2009","{'DET', 'LAC'}",{'Alex Acker'}
+636,"February 17, 2009","{'BOS', 'SAC'}",{'Sam Cassell'}
+637,"February 18, 2009","{'SAC', 'CHI'}","{'Cedric Simmons', 'Drew Gooden', 'John Salmons', 'Brad Miller', 'Michael Ruffin', 'AndrÃ©s Nocioni'}"
+638,"February 18, 2009","{'POR', 'SAC'}","{'Michael Ruffin', 'Ike Diogu'}"
+639,"February 18, 2009","{'LAL', 'MEM'}",{'Chris Mihm'}
+640,"February 19, 2009","{'MIN', 'SAC'}","{'Calvin Booth', 'Bobby Brown', 'Rashad McCants', 'Shelden Williams'}"
+641,"February 19, 2009","{'MEM', 'ORL', 'HOU'}","{'Rafer Alston', 'Mike Wilks', 'Brian Cook', 'Kyle Lowry', 'Adonal Foyle'}"
+642,"February 19, 2009","{'TOR', 'BOS'}","{""Patrick O'Bryant""}"
+643,"February 19, 2009","{'NYK', 'CHI'}","{'Larry Hughes', 'Jerome James', 'Tim Thomas', 'Anthony Roberson'}"
+644,"February 19, 2009","{'OKC', 'NYK'}","{'Malik Rose', 'Chris Wilcox'}"
+645,"February 19, 2009","{'OKC', 'CHI'}",{'Thabo Sefolosha'}
+646,"June 9, 2009","{'TOR', 'PHI'}","{'Jason Kapono', 'Reggie Evans'}"
+647,"June 23, 2009","{'MIL', 'SAS'}","{'Bruce Bowen', 'Richard Jefferson', 'Fabricio Oberto', 'Kurt Thomas'}"
+648,"June 23, 2009","{'MIL', 'DET'}","{'Amir Johnson', 'Fabricio Oberto'}"
+649,"June 24, 2009","{'MIN', 'WAS'}","{'Mike Miller', 'Oleksiy Pecherov', 'Etan Thomas', 'Randy Foye', 'Darius Songaila'}"
+650,"June 24, 2009","{'POR', 'DAL'}",set()
+651,"June 25, 2009","{'DEN', 'MIN'}",{'Ty Lawson'}
+652,"June 25, 2009","{'DAL', 'OKC'}","{'Rodrigue Beaubois', 'Byron Mullens'}"
+653,"June 25, 2009","{'LAL', 'NYK'}",{'Toney Douglas'}
+654,"June 25, 2009","{'POR', 'SAC'}","{'Jeff Ayres', 'Sergio RodrÃ\xadguez', 'Jon Brockman'}"
+655,"June 25, 2009","{'MIA', 'LAL'}",{'Patrick Beverley'}
+656,"June 25, 2009","{'MIA', 'NOH'}",{'Marcus Thornton'}
+657,"June 25, 2009","{'DET', 'HOU'}",{'Chase Budinger'}
+658,"June 25, 2009","{'MIN', 'DAL'}",{'Nick Calathes'}
+659,"June 25, 2009","{'GSW', 'ATL'}","{'Acie Law', 'Jamal Crawford', 'Speedy Claxton'}"
+660,"June 25, 2009","{'NJN', 'ORL'}","{'Tony Battie', 'Vince Carter', 'Courtney Lee', 'Rafer Alston', 'Ryan Anderson'}"
+661,"June 25, 2009","{'MEM', 'NYK'}","{'Quentin Richardson', 'Darko MiliÄ\x8diÄ\x87'}"
+662,"June 26, 2009","{'PHO', 'CLE'}","{'Sasha PavloviÄ\x87', ""Shaquille O'Neal"", 'Ben Wallace'}"
+663,"July 9, 2009","{'TOR', 'DAL', 'MEM', 'ORL'}","{'Hedo TÃ¼rkoÄ\x9flu', 'Nathan Jawai', 'Kris Humphries', 'Jerry Stackhouse', 'Shawn Marion', 'Antoine Wright', 'Greg Buckner', 'Devean George'}"
+664,"July 13, 2009","{'DEN', 'DET'}","{'Walter Sharpe', 'Arron Afflalo'}"
+665,"July 17, 2009","{'LAC', 'MEM'}","{'Zach Randolph', 'Quentin Richardson'}"
+666,"July 20, 2009","{'MIN', 'LAC'}","{'Mark Madsen', 'Sebastian Telfair', 'Quentin Richardson', 'Craig Smith'}"
+667,"July 27, 2009","{'MIN', 'OKC'}","{'Etan Thomas', 'Chucky Atkins', 'Damien Wilkins'}"
+668,"July 28, 2009","{'CHA', 'NOH'}","{'Tyson Chandler', 'Emeka Okafor'}"
+669,"July 29, 2009","{'GSW', 'TOR'}","{'Marco Belinelli', 'Devean George'}"
+670,"July 31, 2009","{'DEN', 'MIL'}","{'Malik Allen', 'Sonny Weems', 'Walter Sharpe'}"
+671,"August 7, 2009","{'DEN', 'MEM'}",{'Steven Hunter'}
+672,"August 12, 2009","{'LAC', 'NOH'}",{'Rasual Butler'}
+673,"August 13, 2009","{'MIN', 'MIA'}","{'Quentin Richardson', 'Mark Blount'}"
+674,"August 18, 2009","{'MIL', 'TOR'}","{'Carlos Delfino', 'Amir Johnson', 'Sonny Weems', 'Roko UkiÄ\x87'}"
+675,"September 9, 2009","{'MIN', 'NOH'}","{'Antonio Daniels', 'Bobby Brown', 'Darius Songaila'}"
+676,"September 22, 2009","{'DEN', 'HOU'}","{'James White', 'Axel Hervelle'}"
+677,"October 20, 2009","{'MIN', 'DAL'}",{'Nathan Jawai'}
+678,"November 16, 2009","{'GSW', 'CHA'}","{'Raja Bell', 'Stephen Jackson', 'Vladimir RadmanoviÄ\x87', 'Acie Law'}"
+679,"December 22, 2009","{'OKC', 'UTA'}","{'Eric Maynor', 'Matt Harpring', 'Peter Fehse'}"
+680,"December 29, 2009","{'MIN', 'PHO'}","{'Jason Hart', 'Alando Tucker'}"
+681,"January 5, 2010","{'NJN', 'MIA'}",{'Chris Quinn'}
+682,"January 11, 2010","{'NJN', 'DAL'}","{'Kris Humphries', 'Eduardo NÃ¡jera', 'Shawne Williams'}"
+683,"January 11, 2010","{'NOH', 'SAC'}",{'Hilton Armstrong'}
+684,"January 25, 2010","{'NOH', 'CHI'}","{'Devin Brown', 'Aaron Gray'}"
+685,"January 26, 2010","{'LAC', 'NOH'}",{'Bobby Brown'}
+686,"February 13, 2010","{'WAS', 'DAL'}","{'DeShawn Stevenson', 'Drew Gooden', 'James Singleton', 'Caron Butler', 'Brendan Haywood', 'Quinton Ross', 'Josh Howard'}"
+687,"February 16, 2010","{'POR', 'LAC'}","{'Steve Blake', 'Travis Outlaw', 'Marcus Camby'}"
+688,"February 17, 2010","{'WAS', 'LAC', 'CLE'}","{'Drew Gooden', 'Emir PreldÅ¾iÄ\x87', 'Antawn Jamison', 'Zydrunas Ilgauskas', 'Sebastian Telfair', 'Al Thornton'}"
+689,"February 17, 2010","{'MIN', 'NYK'}","{'Brian Cardinal', 'Darko MiliÄ\x8diÄ\x87'}"
+690,"February 18, 2010","{'BOS', 'NYK'}","{'Nate Robinson', 'J.R. Giddens', 'Eddie House', 'Marcus Landry', 'Henry Walker'}"
+691,"February 18, 2010","{'SAC', 'NYK', 'HOU'}","{'Joey Dorsey', 'Larry Hughes', 'Hilton Armstrong', 'Tracy McGrady', 'Jared Jeffries', 'Jordan Hill', 'Kevin Martin', 'Sergio RodrÃ\xadguez', 'Carl Landry'}"
+692,"February 18, 2010","{'MIL', 'PHI'}","{'Francisco Elson', 'Royal Ivey', 'PrimoÅ¾ Brezec', 'Jodie Meeks'}"
+693,"February 18, 2010","{'MEM', 'UTA'}",{'Ronnie Brewer'}
+694,"February 18, 2010","{'WAS', 'SAC'}",{'Dominic McGuire'}
+695,"February 18, 2010","{'CHA', 'CHI'}","{'Tyrus Thomas', 'Ronald Murray', 'Acie Law'}"
+696,"February 18, 2010","{'SAS', 'CHA'}",{'Theo Ratliff'}
+697,"February 18, 2010","{'MIL', 'CHI'}","{'John Salmons', 'Hakim Warrick', 'Joe Alexander'}"
+698,"June 20, 2010","{'PHI', 'SAC'}","{'AndrÃ©s Nocioni', 'Spencer Hawes', 'Samuel Dalembert'}"
+699,"June 21, 2010","{'GSW', 'POR'}",set()
+700,"June 22, 2010","{'GSW', 'MIL'}","{'Charlie Bell', 'Corey Maggette', 'Dan Gadzuric'}"
+701,"June 23, 2010","{'MIA', 'OKC'}",{'Daequan Cook'}
+702,"June 23, 2010","{'MIL', 'NJN'}",{'Chris Douglas-Roberts'}
+703,"June 24, 2010","{'NOH', 'OKC'}","{'Quincy Pondexter', 'Cole Aldrich', 'Craig Brackins', 'Morris Peterson'}"
+704,"June 24, 2010","{'MIN', 'POR'}","{'Ryan Gomes', 'Martell Webster', 'Luke Babbitt'}"
+705,"June 24, 2010","{'WAS', 'CHI'}","{'Kirk Hinrich', 'Vladimir Veremeenko', 'Kevin SÃ©raphin'}"
+706,"June 24, 2010","{'LAC', 'OKC'}",{'Eric Bledsoe'}
+707,"June 24, 2010","{'MIN', 'WAS'}","{'Lazar Hayward', 'Nemanja Bjelica', ""Hamady N'Diaye"", 'Trevor Booker'}"
+708,"June 24, 2010","{'NJN', 'ATL'}","{'Tibor PleiÃ\x9f', 'Damion James', 'Jordan Crawford'}"
+709,"June 24, 2010","{'MIA', 'OKC'}",{'Latavious Williams'}
+710,"June 24, 2010","{'TOR', 'DAL'}",{'Solomon Alabi'}
+711,"June 24, 2010","{'OKC', 'IND'}","{'Ryan Reid', 'Magnum Rolle'}"
+712,"June 29, 2010","{'NJN', 'WAS'}","{'Yi Jianlian', 'Quinton Ross'}"
+713,"July 8, 2010","{'PHO', 'CHI'}",{'Hakim Warrick'}
+714,"July 8, 2010","{'PHO', 'NYK'}","{""Amar'e Stoudemire""}"
+715,"July 8, 2010","{'UTA', 'CHI'}","{'Mario Austin', 'Carlos Boozer'}"
+716,"July 9, 2010","{'GSW', 'NYK'}","{'Anthony Randolph', 'Ronny Turiaf', 'Kelenna Azubuike', 'David Lee'}"
+717,"July 10, 2010","{'MIA', 'CLE'}",{'LeBron James'}
+718,"July 10, 2010","{'MIA', 'TOR'}",{'Chris Bosh'}
+719,"July 12, 2010","{'MIN', 'MIA'}",{'Michael Beasley'}
+720,"July 13, 2010","{'CHA', 'DAL'}","{'Eduardo NÃ¡jera', 'Alexis AjinÃ§a', 'Erick Dampier', 'Matt Carroll', 'Tyson Chandler'}"
+721,"July 13, 2010","{'MIN', 'UTA'}","{'Kosta Koufos', 'Al Jefferson'}"
+722,"July 13, 2010","{'GSW', 'NJN'}",{'Anthony Morrow'}
+723,"July 14, 2010","{'PHO', 'ATL'}",{'Josh Childress'}
+724,"July 14, 2010","{'PHO', 'TOR'}","{'Dwayne Jones', 'Leandro Barbosa', 'Hedo TÃ¼rkoÄ\x9flu'}"
+725,"July 21, 2010","{'MIL', 'SAC'}","{'Darnell Jackson', 'Jon Brockman'}"
+726,"July 22, 2010","{'GSW', 'CHI'}",{'C.J. Watson'}
+727,"July 26, 2010","{'MIN', 'CLE'}","{'Delonte West', 'Ryan Hollins', 'Ramon Sessions', 'Sebastian Telfair'}"
+728,"July 28, 2010","{'TOR', 'HOU'}",{'David Andersen'}
+729,"August 11, 2010","{'NJN', 'NOH', 'IND', 'HOU'}","{'Darren Collison', 'Courtney Lee', 'James Posey', 'Trevor Ariza', 'Troy Murphy'}"
+730,"August 11, 2010","{'TOR', 'NOH'}","{'Julian Wright', 'Marco Belinelli'}"
+731,"September 23, 2010","{'PHI', 'NOH'}","{'Craig Brackins', 'Willie Green', 'Jason Smith', 'Darius Songaila'}"
+732,"October 23, 2010","{'POR', 'NOH'}",{'Jerryd Bayless'}
+733,"November 20, 2010","{'TOR', 'NOH'}","{'Jarrett Jack', 'Jerryd Bayless', 'Peja StojakoviÄ\x87', 'Marcus Banks', 'David Andersen'}"
+734,"December 15, 2010","{'NJN', 'LAL', 'HOU'}","{'Sasha VujaÄ\x8diÄ\x87', 'Joe Smith', 'Terrence Williams', 'Sergei Lishouk'}"
+735,"December 15, 2010","{'SAC', 'HOU'}",{'Jermaine Taylor'}
+736,"December 18, 2010","{'WAS', 'ORL'}","{'Rashard Lewis', 'Gilbert Arenas'}"
+737,"December 18, 2010","{'PHO', 'ORL'}","{'Hedo TÃ¼rkoÄ\x9flu', 'MickaÃ«l PiÃ©trus', 'Vince Carter', 'Earl Clark', 'Marcin Gortat', 'Jason Richardson'}"
+738,"January 24, 2011","{'TOR', 'DAL'}","{'Georgios Printezis', 'Alexis AjinÃ§a'}"
+739,"February 22, 2011","{'DEN', 'MIN', 'NYK'}","{'Danilo Gallinari', 'Raymond Felton', 'Timofey Mozgov', 'Renaldo Balkman', 'Kosta Koufos', 'Shelden Williams', 'Anthony Carter', 'Chauncey Billups', 'Wilson Chandler', 'Corey Brewer', 'Carmelo Anthony', 'Anthony Randolph', 'Eddy Curry'}"
+740,"February 22, 2011","{'TOR', 'CHI'}",{'James Johnson'}
+741,"February 23, 2011","{'NJN', 'UTA'}","{'Deron Williams', 'Devin Harris', 'Derrick Favors'}"
+742,"February 23, 2011","{'NOH', 'SAC'}","{'Carl Landry', 'Marcus Thornton'}"
+743,"February 23, 2011","{'WAS', 'ATL'}","{'Hilton Armstrong', 'Mike Bibby', 'Kirk Hinrich', 'Maurice Evans', 'Jordan Crawford'}"
+744,"February 23, 2011","{'GSW', 'NJN'}","{'Brandan Wright', 'Troy Murphy', 'Dan Gadzuric'}"
+745,"February 24, 2011","{'BOS', 'CLE'}","{'Semih Erden', 'Luke Harangody'}"
+746,"February 24, 2011","{'BOS', 'OKC'}","{'Kendrick Perkins', 'Nenad KrstiÄ\x87', 'Nate Robinson', 'Jeff Green'}"
+747,"February 24, 2011","{'POR', 'CHA'}","{'Sean Marks', 'Gerald Wallace', 'Dante Cunningham', 'Joel Przybilla'}"
+748,"February 24, 2011","{'LAC', 'CLE'}","{'Baron Davis', 'Jamario Moon', 'Mo Williams'}"
+749,"February 24, 2011","{'PHO', 'HOU'}","{'Goran DragiÄ\x87', 'Aaron Brooks'}"
+750,"February 24, 2011","{'MEM', 'HOU'}","{'Hasheem Thabeet', 'DeMarre Carroll', 'Ish Smith', 'Shane Battier'}"
+751,"February 24, 2011","{'BOS', 'SAC'}",{'Marquis Daniels'}
+752,"February 24, 2011","{'CHA', 'OKC'}","{'Nazr Mohammed', 'D.J. White', 'Morris Peterson'}"
+753,"June 23, 2011","{'SAS', 'IND'}","{'Erazem Lorbek', 'DÄ\x81vis BertÄ\x81ns', 'George Hill', 'Kawhi Leonard'}"
+754,"June 23, 2011","{'NJN', 'BOS'}","{'JaJuan Johnson', 'MarShon Brooks'}"
+755,"June 23, 2011","{'MIL', 'CHA', 'SAC'}","{'Stephen Jackson', 'Tobias Harris', 'Jimmer Fredette', 'Shaun Livingston', 'Beno Udrih', 'Bismack Biyombo', 'Corey Maggette', 'John Salmons'}"
+756,"June 23, 2011","{'MIN', 'HOU'}","{'Donatas MotiejÅ«nas', 'Nikola MirotiÄ\x87', 'Chandler Parsons', 'Brad Miller', 'Jonny Flynn'}"
+757,"June 23, 2011","{'DEN', 'POR', 'DAL'}","{'Raymond Felton', 'Tanguy Ngombo', 'Petteri Koponen', 'Rudy FernÃ¡ndez', 'Jordan Hamilton', 'Andre Miller'}"
+758,"June 23, 2011","{'NOH', 'NYK'}",{'Josh Harrellson'}
+759,"June 23, 2011","{'CLE', 'ORL'}",{'Justin Harper'}
+760,"June 23, 2011","{'GSW', 'CHA'}",{'Jeremy Tyler'}
+761,"June 23, 2011","{'MIN', 'CHI'}","{'Norris Cole', 'Nikola MirotiÄ\x87', 'Malcolm Lee'}"
+762,"June 23, 2011","{'MIN', 'MIA'}","{'Bojan BogdanoviÄ\x87', 'Norris Cole'}"
+763,"June 23, 2011","{'DEN', 'LAL'}",{'Chukwudiebere Maduabum'}
+764,"June 23, 2011","{'MIN', 'NJN'}",{'Bojan BogdanoviÄ\x87'}
+765,"June 23, 2011","{'MIN', 'HOU'}",{'Chandler Parsons'}
+766,"June 27, 2011","{'MIN', 'POR'}",{'Tanguy Ngombo'}
+767,"June 30, 2011","{'CLE', 'SAC'}","{'J.J. Hickson', 'Omri Casspi'}"
+768,"December 9, 2011","{'MIL', 'BOS'}","{'Keyon Dooling', 'Albert Miralles'}"
+769,"December 10, 2011","{'WAS', 'DAL', 'NYK'}","{'Andy Rautins', 'Georgios Printezis', 'Ronny Turiaf', 'Ahman Nivins', 'Tyson Chandler'}"
+770,"December 11, 2011","{'LAL', 'DAL'}",{'Lamar Odom'}
+771,"December 12, 2011","{'BOS', 'ORL'}","{'Von Wafer', 'Brandon Bass', 'Glen Davis'}"
+772,"December 13, 2011","{'DEN', 'DAL'}","{'Rudy FernÃ¡ndez', 'Corey Brewer'}"
+773,"December 13, 2011","{'MIN', 'OKC'}","{'Lazar Hayward', 'Robert Vaden'}"
+774,"December 14, 2011","{'LAC', 'NOH'}","{'Chris Paul', 'Chris Kaman', 'Al-Farouq Aminu', 'Eric Gordon'}"
+775,"December 19, 2011","{'CHA', 'OKC'}",{'Byron Mullens'}
+776,"December 19, 2011","{'GSW', 'IND'}","{'Lou Amundson', 'Brandon Rush'}"
+777,"December 22, 2011","{'NJN', 'UTA'}",{'Mehmet Okur'}
+778,"December 24, 2011","{'NOH', 'MEM'}","{'Quincy Pondexter', 'Greivis VÃ¡squez'}"
+779,"January 4, 2012","{'PHI', 'NOH', 'MEM'}","{'Marreese Speights', 'Xavier Henry'}"
+780,"March 13, 2012","{'GSW', 'MIL'}","{'Kwame Brown', 'Andrew Bogut', 'Stephen Jackson', 'Monta Ellis', 'Ekpe Udoh'}"
+781,"March 15, 2012","{'GSW', 'ATL'}",set()
+782,"March 15, 2012","{'PHI', 'MEM'}","{'Ricky SÃ¡nchez', 'Sam Young'}"
+783,"March 15, 2012","{'TOR', 'IND'}",{'Leandro Barbosa'}
+784,"March 15, 2012","{'LAL', 'HOU'}","{'Derek Fisher', 'Jordan Hill'}"
+785,"March 15, 2012","{'GSW', 'SAS'}","{'Stephen Jackson', 'Richard Jefferson', 'T.J. Ford'}"
+786,"March 15, 2012","{'LAL', 'CLE'}","{'Christian Eyenga', 'Ramon Sessions', 'Luke Walton', 'Jason Kapono'}"
+787,"March 15, 2012","{'NJN', 'POR'}","{'Mehmet Okur', 'Gerald Wallace', 'Shawne Williams'}"
+788,"March 15, 2012","{'DEN', 'WAS', 'LAC'}","{'NenÃª', 'Nick Young', 'JaVale McGee', 'Brian Cook', 'Ronny Turiaf'}"
+789,"March 15, 2012","{'POR', 'HOU'}","{'Hasheem Thabeet', 'Jonny Flynn', 'Marcus Camby'}"
+790,"June 20, 2012","{'WAS', 'NOH'}","{'Rashard Lewis', 'Trevor Ariza', 'Emeka Okafor'}"
+791,"June 26, 2012","{'BOS', 'OKC'}","{'Kendrick Perkins', 'Nenad KrstiÄ\x87', 'Nate Robinson', 'Jeff Green'}"
+792,"June 26, 2012","{'MIN', 'HOU'}","{'Chase Budinger', 'Lior Eliyahu'}"
+793,"June 26, 2012","{'DET', 'CHA'}","{'Ben Gordon', 'Corey Maggette'}"
+794,"June 27, 2012","{'MIL', 'HOU'}","{'Jon Brockman', 'Samuel Dalembert', 'Jon Leuer', 'Shaun Livingston'}"
+795,"June 29, 2012","{'MIA', 'PHI'}","{'Arnett Moultrie', 'Justin Hamilton'}"
+796,"June 29, 2012","{'SAC', 'IND'}",{'Orlando Johnson'}
+797,"June 29, 2012","{'DAL', 'CLE'}","{'Bernard James', 'Jared Cunningham', 'Tyler Zeller', 'Jae Crowder', 'Kelenna Azubuike'}"
+798,"June 29, 2012","{'NJN', 'PHI'}",{'Tornike Shengelia'}
+799,"June 29, 2012","{'LAL', 'DAL'}",{'Darius Johnson-Odom'}
+800,"June 29, 2012","{'NJN', 'POR'}",{'Tyshawn Taylor'}
+801,"June 29, 2012","{'LAC', 'DAL', 'UTA', 'HOU'}","{'Shan Foster', 'Tadija DragiÄ\x87eviÄ\x87', 'Lamar Odom', 'Mo Williams', 'Furkan Aldemir'}"
+802,"July 11, 2012","{'PHO', 'LAL'}",{'Steve Nash'}
+803,"July 11, 2012","{'TOR', 'HOU'}","{'Gary Forbes', 'Kyle Lowry'}"
+804,"July 11, 2012","{'NOH', 'ORL'}","{'Gustavo AyÃ³n', 'Ryan Anderson'}"
+805,"July 11, 2012","{'NYK', 'HOU'}","{'Jerome Jordan', 'Marcus Camby', 'Josh Harrellson', 'Toney Douglas'}"
+806,"July 11, 2012","{'UTA', 'ATL'}","{'Marvin Williams', 'Devin Harris'}"
+807,"July 11, 2012","{'BRK', 'ATL'}","{'Jordan Farmar', 'Johan Petro', 'Jordan Williams', 'Joe Johnson', 'DeShawn Stevenson', 'Anthony Morrow'}"
+808,"July 11, 2012","{'GSW', 'PHI', 'NOH'}","{'Jarrett Jack', 'Dorell Wright', 'Darryl Watkins', 'Edin BavÄ\x8diÄ\x87'}"
+809,"July 11, 2012","{'LAC', 'BRK'}",{'Reggie Evans'}
+810,"July 12, 2012","{'DAL', 'IND'}","{'Darren Collison', 'Dahntay Jones', 'Ian Mahinmi'}"
+811,"July 13, 2012","{'MIN', 'NOH'}",{'Brad Miller'}
+812,"July 16, 2012","{'TOR', 'SAC'}",{'James Johnson'}
+813,"July 16, 2012","{'POR', 'NYK'}","{'Raymond Felton', 'Jared Jeffries', 'Dan Gadzuric', 'Georgios Printezis', 'Kurt Thomas', 'Kostas Papanikolaou'}"
+814,"July 16, 2012","{'CHI', 'ATL'}",{'Kyle Korver'}
+815,"July 20, 2012","{'POR', 'BOS', 'HOU'}","{'Sasha PavloviÄ\x87', ""E'Twaun Moore"", 'Sean Williams', 'Jon Diebler', 'Courtney Lee', 'JaJuan Johnson'}"
+816,"July 24, 2012","{'MIN', 'MEM'}","{'Dante Cunningham', 'Wayne Ellington'}"
+817,"July 25, 2012","{'MEM', 'CLE'}","{'D.J. Kennedy', 'Jeremy Pargo'}"
+818,"July 27, 2012","{'MIN', 'PHO', 'NOH'}","{'Wesley Johnson', 'Robin Lopez', 'Hakim Warrick', 'Brad Miller', 'Jerome Dyson'}"
+819,"July 30, 2012","{'LAC', 'ATL'}","{'Willie Green', 'Sofoklis Schortsanitis'}"
+820,"August 10, 2012","{'DEN', 'LAL', 'PHI', 'ORL'}","{'Arron Afflalo', 'Earl Clark', 'Nikola VuÄ\x8deviÄ\x87', 'Christian Eyenga', 'Jason Richardson', 'Andre Iguodala', 'Al Harrington', 'Andrew Bynum', 'Dwight Howard', 'Josh McRoberts', 'Maurice Harkless', 'Chris Duhon'}"
+821,"October 27, 2012","{'OKC', 'HOU'}","{'Lazar Hayward', 'Cole Aldrich', 'Daequan Cook', 'James Harden', 'Kevin Martin', 'Jeremy Lamb'}"
+822,"November 13, 2012","{'CHA', 'NOH'}","{'Hakim Warrick', 'Matt Carroll'}"
+823,"January 22, 2013","{'MEM', 'CLE'}","{'Wayne Ellington', 'Josh Selby', 'Marreese Speights', 'Jon Leuer'}"
+824,"January 30, 2013","{'DET', 'TOR', 'MEM'}","{'JosÃ© CalderÃ³n', 'Hamed Haddadi', 'Tayshaun Prince', 'Austin Daye', 'Rudy Gay', 'Ed Davis'}"
+825,"February 20, 2013","{'SAC', 'HOU'}","{'Francisco GarcÃ\xada', 'Thomas Robinson', 'Patrick Patterson', 'Cole Aldrich', 'Toney Douglas', 'Tyler Honeycutt'}"
+826,"February 21, 2013","{'WAS', 'BOS'}","{'Leandro Barbosa', 'Jason Collins', 'Jordan Crawford'}"
+827,"February 21, 2013","{'PHO', 'TOR'}","{'Hamed Haddadi', 'Sebastian Telfair'}"
+828,"February 21, 2013","{'GSW', 'PHI'}",{'Charles Jenkins'}
+829,"February 21, 2013","{'CHA', 'ORL'}","{'Hakim Warrick', 'Josh McRoberts'}"
+830,"February 21, 2013","{'POR', 'OKC'}","{'Georgios Printezis', 'Eric Maynor'}"
+831,"February 21, 2013","{'OKC', 'NYK'}",{'Ronnie Brewer'}
+832,"February 21, 2013","{'MIL', 'ORL'}","{'Tobias Harris', 'J.J. Redick', 'Doron Lamb', 'Ish Smith', 'Gustavo AyÃ³n', 'Beno Udrih'}"
+833,"February 21, 2013","{'MIA', 'MEM'}","{'Dexter Pittman', 'Ricky SÃ¡nchez'}"
+834,"February 21, 2013","{'GSW', 'ATL'}",{'Jeremy Tyler'}
+835,"February 21, 2013","{'DAL', 'ATL'}","{'Anthony Morrow', 'Dahntay Jones'}"
+836,"February 21, 2013","{'PHO', 'HOU'}",{'Marcus Morris'}
+837,"June 25, 2013","{'BOS', 'LAC'}",set()
+838,"June 27, 2013","{'MIN', 'UTA'}","{'Shabazz Muhammad', 'Gorgui Dieng', 'Trey Burke'}"
+839,"June 27, 2013","{'GSW', 'MIN'}","{'Andre Roberson', 'Malcolm Lee'}"
+840,"June 27, 2013","{'GSW', 'OKC'}","{'Archie Goodwin', 'Andre Roberson'}"
+841,"June 27, 2013","{'POR', 'CLE'}",{'Allen Crabbe'}
+842,"June 27, 2013","{'BOS', 'DAL'}","{'Kelly Olynyk', 'Lucas Nogueira'}"
+843,"June 27, 2013","{'DAL', 'ATL'}","{'Mike Muscala', 'Jared Cunningham', 'Lucas Nogueira', 'Shane Larkin'}"
+844,"June 27, 2013","{'DEN', 'UTA'}","{'Rudy Gobert', 'Erick Green'}"
+845,"June 27, 2013","{'GSW', 'PHO'}","{'Archie Goodwin', 'Nemanja NedoviÄ\x87', 'Malcolm Lee'}"
+846,"June 27, 2013","{'WAS', 'PHI'}","{'Arsalan Kazemi', 'Glen Rice Jr.', 'Nate Wolters'}"
+847,"June 27, 2013","{'POR', 'OKC'}",{'Grant Jerrett'}
+848,"June 27, 2013","{'MIA', 'ATL'}",{'James Ennis'}
+849,"June 27, 2013","{'BOS', 'IND'}",{'Colton Iverson'}
+850,"June 27, 2013","{'DEN', 'MEM'}","{'Darrell Arthur', 'Kosta Koufos', 'Joffrey Lauvergne'}"
+851,"June 27, 2013","{'PHI', 'DAL'}",{'Ricky Ledo'}
+852,"June 27, 2013","{'UTA', 'ATL'}",{'Raul Neto'}
+853,"June 27, 2013","{'MIL', 'PHI'}","{'Ricky Ledo', 'Nate Wolters'}"
+854,"July 10, 2013","{'TOR', 'NYK'}","{'Steve Novak', 'Andrea Bargnani', 'Marcus Camby', 'Quentin Richardson'}"
+855,"July 10, 2013","{'MIL', 'LAC', 'PHO'}","{'Eric Bledsoe', 'Jared Dudley', 'J.J. Redick', 'Caron Butler'}"
+856,"July 10, 2013","{'POR', 'HOU'}","{'Thomas Robinson', 'Marko TodoroviÄ\x87', 'Kostas Papanikolaou'}"
+857,"July 10, 2013","{'DEN', 'GSW', 'UTA'}","{'Andre Iguodala', 'Richard Jefferson', 'Kevin Murphy', 'Brandon Rush', 'Andris BiedriÅ\x86Å¡', 'Randy Foye'}"
+858,"July 10, 2013","{'NOP', 'POR', 'SAC'}","{'Jeff Withey', 'Robin Lopez', 'Tyreke Evans', 'Greivis VÃ¡squez', 'Terrel Harris'}"
+859,"July 11, 2013","{'MIL', 'MIN', 'OKC'}","{'Szymon Szewczyk', 'Kevin Martin', 'Luke Ridnour'}"
+860,"July 12, 2013","{'BOS', 'BRK'}","{'Kris Humphries', 'D.J. White', 'Gerald Wallace', 'Kevin Garnett', 'MarShon Brooks', 'Paul Pierce', 'Jason Terry', 'Keith Bogans', 'Kris Joseph'}"
+861,"July 12, 2013","{'MIL', 'SAC'}",{'Luc Mbah a Moute'}
+862,"July 12, 2013","{'NOP', 'PHI'}","{'Jrue Holiday', 'Nerlens Noel', 'Pierre Jackson'}"
+863,"July 13, 2013","{'PHI', 'HOU'}","{'Royce White', 'Furkan Aldemir'}"
+864,"July 22, 2013","{'DAL', 'MEM'}",{'Nick Calathes'}
+865,"July 27, 2013","{'PHO', 'IND'}","{'Luis Scola', 'Gerald Green', 'Miles Plumlee'}"
+866,"July 31, 2013","{'MIL', 'DET'}","{'Brandon Knight', 'Khris Middleton', 'Brandon Jennings', 'Viacheslav Kravtsov'}"
+867,"August 15, 2013","{'BOS', 'MEM'}","{'DontÃ© Greene', 'Fab Melo'}"
+868,"August 22, 2013","{'PHI', 'MEM'}",{'Tony Wroten'}
+869,"August 29, 2013","{'MIL', 'PHO'}","{'Ish Smith', 'Viacheslav Kravtsov', 'Caron Butler'}"
+870,"October 25, 2013","{'PHO', 'WAS'}","{'Kendall Marshall', 'Emeka Okafor', 'Shannon Brown', 'Marcin Gortat', 'Malcolm Lee'}"
+871,"November 26, 2013","{'MIN', 'SAC'}","{'Luc Mbah a Moute', 'Derrick Williams'}"
+872,"December 9, 2013","{'TOR', 'SAC'}","{'Quincy Acy', 'Patrick Patterson', 'John Salmons', 'Rudy Gay', 'Aaron Gray', 'Greivis VÃ¡squez', 'Chuck Hayes'}"
+873,"January 6, 2014","{'CLE', 'CHI'}","{'Andrew Bynum', 'Luol Deng'}"
+874,"January 7, 2014","{'BOS', 'MEM', 'OKC'}","{'Ryan Gomes', 'Jerryd Bayless', 'Courtney Lee'}"
+875,"January 15, 2014","{'GSW', 'MIA', 'BOS'}","{'Joel Anthony', 'Jordan Crawford', 'Toney Douglas', 'MarShon Brooks'}"
+876,"January 21, 2014","{'BRK', 'CHI'}","{'Tornike Shengelia', 'Marquis Teague'}"
+877,"January 21, 2014","{'NOP', 'BRK'}","{'Tyshawn Taylor', 'Edin BavÄ\x8diÄ\x87'}"
+878,"February 19, 2014","{'GSW', 'LAL'}","{'Steve Blake', 'Kent Bazemore', 'MarShon Brooks'}"
+879,"February 19, 2014","{'BRK', 'SAC'}","{'Reggie Evans', 'Marcus Thornton', 'Jason Terry'}"
+880,"February 20, 2014","{'DEN', 'WAS', 'PHI'}","{'Jan VeselÃ½', 'Eric Maynor', 'Andre Miller'}"
+881,"February 20, 2014","{'MIL', 'CHA'}","{'Jeff Adrien', 'Gary Neal', 'Luke Ridnour', 'Ramon Sessions'}"
+882,"February 20, 2014","{'MIA', 'SAC'}",{'Roger Mason'}
+883,"February 20, 2014","{'PHI', 'CLE'}","{'Earl Clark', 'Spencer Hawes', 'Henry Sims'}"
+884,"February 20, 2014","{'PHI', 'IND'}","{'Evan Turner', 'Lavoy Allen', 'Danny Granger'}"
+885,"February 20, 2014","{'LAC', 'PHI'}",{'Byron Mullens'}
+886,"February 20, 2014","{'LAC', 'ATL'}","{'Cenk Akyol', 'Antawn Jamison'}"
+887,"February 20, 2014","{'DEN', 'HOU'}","{'Jordan Hamilton', 'Aaron Brooks'}"
+888,"February 20, 2014","{'SAS', 'TOR'}","{'Nando De Colo', 'Austin Daye'}"
+889,"June 25, 2014","{'DAL', 'NYK'}","{'JosÃ© CalderÃ³n', 'Wayne Ellington', 'Samuel Dalembert', 'Raymond Felton', 'Tyson Chandler', 'Shane Larkin'}"
+890,"June 26, 2014","{'DEN', 'CHI'}","{'Jusuf NurkiÄ\x87', 'Anthony Randolph', 'Doug McDermott', 'Gary Harris'}"
+891,"June 26, 2014","{'MEM', 'UTA'}",{'Jarnell Stokes'}
+892,"June 26, 2014","{'PHI', 'ORL'}","{'Dario Å\xa0ariÄ\x87', 'Elfrid Payton'}"
+893,"June 26, 2014","{'SAS', 'PHI'}","{'Jordan McRae', 'Nemanja DangubiÄ\x87'}"
+894,"June 26, 2014","{'SAS', 'BRK'}",{'Cory Jefferson'}
+895,"June 26, 2014","{'MIN', 'HOU'}",{'Alessandro Gentile'}
+896,"June 27, 2014","{'MIL', 'ATL'}",{'Lamar Patterson'}
+897,"June 27, 2014","{'MIN', 'BRK'}",{'Markel Brown'}
+898,"June 27, 2014","{'TOR', 'BRK'}",{'Xavier Thames'}
+899,"June 27, 2014","{'MIA', 'CHA'}","{'P.J. Hairston', 'Shabazz Napier', 'Semaj Christon'}"
+900,"June 27, 2014","{'DEN', 'ORL'}","{'Evan Fournier', 'Arron Afflalo', 'Devyn Marble'}"
+901,"June 27, 2014","{'WAS', 'LAL'}",{'Jordan Clarkson'}
+902,"June 27, 2014","{'NYK', 'IND'}",{'Louis Labeyrie'}
+903,"June 29, 2014","{'TOR', 'ATL'}","{'Lou Williams', 'Lucas Nogueira', 'John Salmons'}"
+904,"June 30, 2014","{'MIL', 'BRK'}",{'Jason Kidd'}
+905,"July 10, 2014","{'BOS', 'BRK', 'CLE'}","{'Jarrett Jack', 'Tyler Zeller', 'Sergey Karasev', 'Ä°lkan Karaman', 'Marcus Thornton', 'Edin BavÄ\x8diÄ\x87'}"
+906,"July 10, 2014","{'TOR', 'UTA'}","{'Steve Novak', 'Diante Garrett'}"
+907,"July 11, 2014","{'NOP', 'CLE'}",{'Alonzo Gee'}
+908,"July 12, 2014",{'CLE'},"{'Scotty Hopson', 'Brendan Haywood', 'Dwight Powell'}"
+909,"July 12, 2014","{'PHO', 'SAC'}","{'Isaiah Thomas', 'Alex Oriakhi'}"
+910,"July 14, 2014","{'DAL', 'CHI'}","{'Tadija DragiÄ\x87eviÄ\x87', 'Greg Smith'}"
+911,"July 14, 2014","{'ORL', 'CHI'}","{'Anthony Randolph', 'Milovan RakoviÄ\x87'}"
+912,"July 14, 2014",{'NOP'},{'Scotty Hopson'}
+913,"July 15, 2014","{'OKC', 'ATL'}","{'Georgios Printezis', 'Thabo Sefolosha', 'Sofoklis Schortsanitis'}"
+914,"July 15, 2014","{'NOP', 'WAS', 'HOU'}","{'Melvin Ely', 'Ã\x96mer AÅ\x9fÄ±k', 'Alonzo Gee', 'Scotty Hopson', 'Trevor Ariza', 'Omri Casspi'}"
+915,"July 15, 2014","{'LAL', 'HOU'}","{'Sergei Lishouk', 'Jeremy Lin'}"
+916,"July 16, 2014","{'WAS', 'DAL'}","{'DeJuan Blair', 'Emir PreldÅ¾iÄ\x87'}"
+917,"July 19, 2014","{'WAS', 'BOS'}",{'Kris Humphries'}
+918,"July 22, 2014","{'CLE', 'UTA'}","{'Malcolm Thomas', 'Carrick Felix', 'Erik Murphy', 'John Lucas III'}"
+919,"August 6, 2014","{'NYK', 'SAC'}","{'Quincy Acy', 'Wayne Ellington', 'Jeremy Tyler', 'Travis Outlaw'}"
+920,"August 23, 2014","{'MIN', 'PHI', 'CLE'}","{'Alexey Shved', 'Thaddeus Young', 'Andrew Wiggins', 'Kevin Love', 'Luc Mbah a Moute', 'Anthony Bennett'}"
+921,"August 26, 2014","{'MIL', 'LAC'}","{'Jared Dudley', 'Miroslav Raduljica', 'Carlos Delfino'}"
+922,"August 26, 2014","{'PHI', 'OKC'}",{'Hasheem Thabeet'}
+923,"September 17, 2014","{'SAC', 'HOU'}","{'Jason Terry', 'Alonzo Gee', 'Scotty Hopson'}"
+924,"September 25, 2014","{'BOS', 'CLE'}","{'Keith Bogans', 'Erik Murphy', 'Malcolm Thomas', 'Dwight Powell', 'John Lucas III'}"
+925,"September 27, 2014","{'PHI', 'CLE'}",{'Keith Bogans'}
+926,"October 17, 2014","{'DET', 'BOS'}","{'Will Bynum', 'Joel Anthony'}"
+927,"October 24, 2014","{'PHI', 'BRK'}","{'Marquis Teague', 'Casper Ware'}"
+928,"October 27, 2014","{'PHI', 'NYK'}","{'Arnett Moultrie', 'Travis Outlaw'}"
+929,"December 10, 2014","{'PHI', 'BRK'}","{'Andrei Kirilenko', 'Brandon Davies', 'Jorge GutiÃ©rrez'}"
+930,"December 18, 2014","{'BOS', 'DAL'}","{'Rajon Rondo', 'Brandan Wright', 'Jae Crowder', 'Dwight Powell', 'Jameer Nelson'}"
+931,"December 19, 2014","{'MIN', 'PHI', 'HOU'}","{'Sergei Lishouk', 'Alexey Shved', 'Troy Daniels', 'Corey Brewer', 'Ronny Turiaf'}"
+932,"December 24, 2014","{'PHO', 'DET'}","{'Tony Mitchell', 'Anthony Tolliver'}"
+933,"January 5, 2015","{'OKC', 'CLE', 'NYK'}","{'J.R. Smith', 'Lance Thomas', 'Lou Amundson', 'Iman Shumpert', 'Alex Kirk', 'Dion Waiters'}"
+934,"January 7, 2015","{'LAC', 'PHI'}","{'Sergei Lishouk', 'Jared Cunningham', 'Cenk Akyol'}"
+935,"January 7, 2015","{'DEN', 'CLE'}",{'Timofey Mozgov'}
+936,"January 9, 2015","{'PHO', 'BOS'}",{'Brandan Wright'}
+937,"January 12, 2015","{'NOP', 'BOS', 'MEM'}","{'Quincy Pondexter', 'Tayshaun Prince', 'Russ Smith', 'Austin Rivers', 'Jeff Green'}"
+938,"January 13, 2015","{'DEN', 'BOS'}","{'Nate Robinson', 'Jameer Nelson'}"
+939,"January 15, 2015","{'PHO', 'BOS', 'LAC'}","{'Chris Douglas-Roberts', 'Reggie Bullock', 'Austin Rivers', 'Shavlik Randolph'}"
+940,"February 10, 2015","{'MIN', 'CHO'}","{'Troy Daniels', 'Gary Neal', 'Mo Williams'}"
+941,"February 10, 2015","{'MIN', 'ATL'}",{'Adreian Payne'}
+942,"February 19, 2015","{'MIN', 'BRK'}","{'Thaddeus Young', 'Kevin Garnett'}"
+943,"February 19, 2015","{'PHO', 'MIA', 'NOP'}","{'Zoran DragiÄ\x87', 'John Salmons', 'Danny Granger', 'Justin Hamilton', 'Goran DragiÄ\x87', 'Norris Cole', 'Shawne Williams'}"
+944,"February 19, 2015","{'MIL', 'PHO', 'PHI'}","{'Brandon Knight', 'Michael Carter-Williams', 'Kendall Marshall', 'Miles Plumlee', 'Tyler Ennis'}"
+945,"February 19, 2015","{'DET', 'OKC', 'UTA'}","{'Tibor PleiÃ\x9f', 'D.J. Augustin', 'Grant Jerrett', 'Steve Novak', 'Kendrick Perkins', 'Enes Kanter', 'Kyle Singler', 'Reggie Jackson'}"
+946,"February 19, 2015","{'PHO', 'DET', 'BOS'}","{'Tayshaun Prince', 'Jonas Jerebko', 'Isaiah Thomas', 'Gigi Datome', 'Marcus Thornton'}"
+947,"February 19, 2015","{'DEN', 'POR'}","{'Victor Claver', 'Arron Afflalo', 'Thomas Robinson', 'Alonzo Gee', 'Will Barton'}"
+948,"February 19, 2015","{'NYK', 'HOU'}","{'Alexey Shved', 'Pablo Prigioni'}"
+949,"February 19, 2015","{'PHI', 'HOU'}","{'Isaiah Canaan', 'K.J. McDaniels'}"
+950,"February 19, 2015","{'WAS', 'SAC'}","{'Andre Miller', 'Ramon Sessions'}"
+951,"February 19, 2015","{'DEN', 'PHI'}","{'Cenk Akyol', 'JaVale McGee', 'Chukwudiebere Maduabum'}"
+952,"February 19, 2015","{'NOP', 'OKC'}","{'Ish Smith', 'Latavious Williams'}"
+953,"June 11, 2015","{'MIL', 'DET'}","{'Caron Butler', 'Shawne Williams', 'Ersan Ä°lyasova'}"
+954,"June 15, 2015","{'CHO', 'LAC'}","{'Spencer Hawes', 'Matt Barnes', 'Lance Stephenson'}"
+955,"June 24, 2015","{'CHO', 'POR'}","{'Nicolas Batum', 'Gerald Henderson', 'Noah Vonleh'}"
+956,"June 25, 2015","{'POR', 'BRK'}","{'Rondae Hollis-Jefferson', 'Steve Blake', 'Pat Connaughton', 'Mason Plumlee'}"
+957,"June 25, 2015","{'WAS', 'NYK', 'ATL'}","{'Kelly Oubre Jr.', 'Tim Hardaway Jr.'}"
+958,"June 25, 2015","{'PHO', 'MEM'}","{'Jon Leuer', 'Andrew Harrison'}"
+959,"June 25, 2015","{'NOP', 'LAC'}",{'Branden Dawson'}
+960,"June 25, 2015","{'POR', 'UTA'}",{'Dani DÃ\xadez'}
+961,"June 25, 2015","{'CHO', 'BRK'}",{'Juan Pablo Vaulet'}
+962,"June 25, 2015","{'MIN', 'CLE'}",{'Tyus Jones'}
+963,"June 25, 2015","{'CHO', 'MEM'}","{'Matt Barnes', 'Luke Ridnour'}"
+964,"June 25, 2015","{'CHO', 'OKC'}","{'Jeremy Lamb', 'Luke Ridnour'}"
+965,"June 25, 2015","{'MEM', 'ORL'}","{'JÄ\x81nis Timma', 'Luke Ridnour'}"
+966,"June 25, 2015","{'MIL', 'TOR'}","{'Greivis VÃ¡squez', 'Norman Powell'}"
+967,"June 25, 2015","{'PHI', 'NYK'}",set()
+968,"June 30, 2015","{'TOR', 'OKC'}","{'Tomislav ZubÄ\x8diÄ\x87', 'Luke Ridnour'}"
+969,"July 9, 2015","{'PHO', 'DET'}","{'Reggie Bullock', 'Danny Granger', 'Marcus Morris'}"
+970,"July 9, 2015","{'MIL', 'WAS'}",{'Jared Dudley'}
+971,"July 9, 2015","{'PHI', 'SAC'}","{'ArtÅ«ras Gudaitis', 'Luka MitroviÄ\x87', 'Nik Stauskas', 'Carl Landry', 'Jason Thompson'}"
+972,"July 9, 2015","{'SAS', 'SAC'}",{'Ray McCallum'}
+973,"July 9, 2015","{'MIL', 'DAL'}",{'Zaza Pachulia'}
+974,"July 9, 2015","{'SAS', 'ATL'}","{'Tiago Splitter', 'Georgios Printezis'}"
+975,"July 9, 2015","{'NYK', 'ORL'}","{""Kyle O'Quinn""}"
+976,"July 9, 2015","{'LAL', 'IND'}",{'Roy Hibbert'}
+977,"July 9, 2015","{'GSW', 'BOS'}","{'David Lee', 'Gerald Wallace', 'Chris Babb'}"
+978,"July 11, 2015","{'MIN', 'IND'}","{'Chase Budinger', 'Damjan RudeÅ¾'}"
+979,"July 13, 2015","{'DET', 'BRK'}","{'Steve Blake', 'Quincy Miller'}"
+980,"July 14, 2015","{'POR', 'ORL'}",{'Maurice Harkless'}
+981,"July 14, 2015","{'BOS', 'OKC'}",{'Perry Jones'}
+982,"July 20, 2015","{'DEN', 'HOU'}","{'Joey Dorsey', 'Ty Lawson', 'Nick Johnson', 'Pablo Prigioni', 'Kostas Papanikolaou'}"
+983,"July 23, 2015","{'CLE', 'IND'}",{'Rakeem Christmas'}
+984,"July 27, 2015","{'POR', 'CLE'}","{'Mike Miller', 'Brendan Haywood'}"
+985,"July 27, 2015","{'MIA', 'BOS'}",{'Zoran DragiÄ\x87'}
+986,"July 27, 2015","{'MIA', 'ORL'}",{'Shabazz Napier'}
+987,"July 31, 2015","{'GSW', 'PHI'}","{'Jason Thompson', 'Gerald Wallace'}"
+988,"November 10, 2015","{'MIA', 'MEM'}","{'Jarnell Stokes', 'James Ennis', 'Mario Chalmers', 'Beno Udrih'}"
+989,"December 24, 2015","{'NOP', 'PHI'}",{'Ish Smith'}
+990,"January 12, 2016","{'CLE', 'ORL'}",{'Joe Harris'}
+991,"January 22, 2016","{'LAC', 'HOU'}","{'Sergei Lishouk', 'Maarty Leunen', 'Josh Smith'}"
+992,"February 16, 2016","{'CHO', 'MEM', 'MIA'}","{'Brian Roberts', 'Chris Andersen', 'P.J. Hairston', 'Courtney Lee'}"
+993,"February 16, 2016","{'DET', 'ORL'}","{'Brandon Jennings', 'Tobias Harris', 'Ersan Ä°lyasova'}"
+994,"February 18, 2016","{'PHO', 'WAS'}","{'Markieff Morris', 'Kris Humphries', 'DeJuan Blair'}"
+995,"February 18, 2016","{'MIA', 'POR'}",{'Brian Roberts'}
+996,"February 18, 2016","{'LAC', 'MEM'}","{'Lance Stephenson', 'Jeff Green'}"
+997,"February 18, 2016","{'POR', 'CLE', 'ORL'}","{'Channing Frye', 'Jared Cunningham', 'Anderson VarejÃ£o'}"
+998,"February 18, 2016","{'DEN', 'OKC'}","{'Steve Novak', 'D.J. Augustin', 'Randy Foye'}"
+999,"February 18, 2016","{'CHI', 'UTA', 'ATL'}","{'Shelvin Mack', 'Justin Holiday', 'Kirk Hinrich'}"
+1000,"February 18, 2016","{'MIA', 'NOP'}",{'Jarnell Stokes'}
+1001,"June 17, 2016","{'DET', 'CHI'}","{'Cameron Bairstow', 'Spencer Dinwiddie'}"
+1002,"June 22, 2016","{'NYK', 'CHI'}","{'JosÃ© CalderÃ³n', 'Jerian Grant', 'Robin Lopez', 'Justin Holiday', 'Derrick Rose'}"
+1003,"June 23, 2016","{'OKC', 'ORL'}","{'Victor Oladipo', 'Domantas Sabonis', 'Ersan Ä°lyasova', 'Serge Ibaka'}"
+1004,"June 23, 2016","{'PHO', 'SAC'}","{'Marquese Chriss', 'Skal LabissiÃ¨re', 'Georgios Papagiannis', 'Bogdan BogdanoviÄ\x87'}"
+1005,"June 23, 2016","{'BOS', 'MEM'}","{'Deyonta Davis', 'Rade Zagorac'}"
+1006,"June 23, 2016","{'NOP', 'LAC'}","{'David Michineau', 'Diamond Stone', 'Cheick Diallo'}"
+1007,"June 23, 2016","{'GSW', 'MIL'}",{'Patrick McCaw'}
+1008,"June 23, 2016","{'BRK', 'UTA'}","{'Marcus Paige', 'Isaiah Whitehead'}"
+1009,"June 23, 2016","{'POR', 'ORL'}",{'Jake Layman'}
+1010,"June 23, 2016","{'CLE', 'ATL'}",{'Kay Felder'}
+1011,"June 23, 2016","{'DEN', 'OKC'}",{'Daniel Hamilton'}
+1012,"June 29, 2016","{'DET', 'ORL'}",{'Jodie Meeks'}
+1013,"July 7, 2016","{'CHO', 'SAC'}","{'Malachi Richardson', 'Marco Belinelli'}"
+1014,"July 7, 2016","{'GSW', 'DAL'}",{'Andrew Bogut'}
+1015,"July 7, 2016","{'BRK', 'IND'}","{'Thaddeus Young', 'Caris LeVert'}"
+1016,"July 7, 2016","{'POR', 'ORL'}",{'Shabazz Napier'}
+1017,"July 7, 2016","{'IND', 'UTA', 'ATL'}","{'Taurean Prince', 'George Hill', 'Jeff Teague'}"
+1018,"July 7, 2016","{'DAL', 'IND'}","{'Jeremy Evans', 'Stanko BaraÄ\x87', 'Emir PreldÅ¾iÄ\x87'}"
+1019,"July 7, 2016","{'WAS', 'UTA'}",{'Trey Burke'}
+1020,"July 7, 2016","{'LAL', 'CHI'}","{'JosÃ© CalderÃ³n', 'Ater Majok'}"
+1021,"July 7, 2016","{'CLE', 'CHI'}","{'Mike Dunleavy', 'Vladimir Veremeenko', 'Albert Miralles'}"
+1022,"July 7, 2016","{'MIL', 'CLE'}","{'Matthew Dellavedova', 'Albert Miralles'}"
+1023,"July 8, 2016","{'SAS', 'UTA'}","{'Olivier Hanlan', 'Boris Diaw'}"
+1024,"July 10, 2016","{'MIA', 'NOP'}",{'Luke Babbitt'}
+1025,"July 12, 2016","{'CHO', 'MEM'}",{'Troy Daniels'}
+1026,"July 15, 2016","{'LAC', 'ORL'}","{'C.J. Wilcox', 'Devyn Marble'}"
+1027,"July 15, 2016","{'PHI', 'CLE'}","{'Sasha Kaun', 'Chukwudiebere Maduabum'}"
+1028,"August 26, 2016","{'PHI', 'UTA'}","{'Tibor PleiÃ\x9f', 'Kendall Marshall'}"
+1029,"August 30, 2016","{'DEN', 'OKC'}",{'Joffrey Lauvergne'}
+1030,"September 22, 2016","{'MIL', 'HOU'}","{'Michael Beasley', 'Tyler Ennis'}"
+1031,"October 17, 2016","{'MIL', 'CHI'}","{'Tony Snell', 'Michael Carter-Williams'}"
+1032,"November 1, 2016","{'PHI', 'OKC'}","{'Jerami Grant', 'Ersan Ä°lyasova'}"
+1033,"January 6, 2017","{'POR', 'CLE'}",set()
+1034,"January 7, 2017","{'CLE', 'ATL'}","{'Mike Dunleavy', 'Kyle Korver', 'Mo Williams'}"
+1035,"January 18, 2017","{'DEN', 'ATL'}","{'Cenk Akyol', 'Mo Williams'}"
+1036,"February 2, 2017","{'MIL', 'CHO'}","{'Miles Plumlee', 'Roy Hibbert', 'Spencer Hawes'}"
+1037,"February 13, 2017","{'DEN', 'POR'}","{'Jusuf NurkiÄ\x87', 'Mason Plumlee'}"
+1038,"February 13, 2017","{'CHO', 'CLE'}",{'Chris Andersen'}
+1039,"February 14, 2017","{'TOR', 'ORL'}","{'Serge Ibaka', 'Terrence Ross'}"
+1040,"February 20, 2017","{'NOP', 'SAC'}","{'Langston Galloway', 'DeMarcus Cousins', 'Tyreke Evans', 'Buddy Hield', 'Omri Casspi'}"
+1041,"February 22, 2017","{'PHI', 'ATL'}","{'Tiago Splitter', 'Ersan Ä°lyasova'}"
+1042,"February 22, 2017","{'WAS', 'BRK'}","{'Chris McCullough', 'Bojan BogdanoviÄ\x87', 'Marcus Thornton', 'Andrew Nicholson'}"
+1043,"February 23, 2017","{'OKC', 'CHI'}","{'Cameron Payne', 'Joffrey Lauvergne', 'Doug McDermott', 'Anthony Morrow', 'Taj Gibson'}"
+1044,"February 23, 2017","{'PHO', 'TOR'}","{'Jared Sullinger', 'P.J. Tucker'}"
+1045,"February 23, 2017","{'PHO', 'ATL'}","{'Cenk Akyol', 'Mike Scott'}"
+1046,"February 23, 2017","{'LAL', 'HOU'}","{'Brad Newley', 'Marcelo Huertas', 'Tyler Ennis'}"
+1047,"February 23, 2017","{'BRK', 'HOU'}",{'K.J. McDaniels'}
+1048,"February 23, 2017","{'DEN', 'MIL'}",{'Roy Hibbert'}
+1049,"February 23, 2017","{'PHI', 'DAL'}","{'Andrew Bogut', 'Justin Anderson', 'Nerlens Noel'}"
+1050,"February 23, 2017","{'LAL', 'HOU'}","{'Lou Williams', 'Corey Brewer'}"
+1051,"June 19, 2017","{'BOS', 'PHI'}",set()
+1052,"June 20, 2017","{'CHO', 'ATL'}","{'Dwight Howard', 'Miles Plumlee', 'Marco Belinelli'}"
+1053,"June 21, 2017","{'NOP', 'WAS'}",{'Tim Frazier'}
+1054,"June 22, 2017","{'NOP', 'IND'}",{'Edmond Sumner'}
+1055,"June 22, 2017","{'MEM', 'HOU'}",{'Dillon Brooks'}
+1056,"June 22, 2017","{'GSW', 'CHI'}",{'Jordan Bell'}
+1057,"June 22, 2017","{'CHO', 'NOP'}","{'Dwayne Bacon', 'Frank Jackson'}"
+1058,"June 22, 2017","{'LAL', 'UTA'}","{'Tony Bradley', 'Josh Hart', 'Thomas Bryant'}"
+1059,"June 22, 2017","{'MEM', 'ORL'}",{'Ivan Rabb'}
+1060,"June 22, 2017","{'PHI', 'ORL'}",{'AnÅ¾ejs PaseÄ\x8dÅ\x86iks'}
+1061,"June 22, 2017","{'LAL', 'BRK'}","{'Timofey Mozgov', 'Brook Lopez', 'Kyle Kuzma', ""D'Angelo Russell""}"
+1062,"June 22, 2017","{'DEN', 'UTA'}","{'Donovan Mitchell', 'Trey Lyles', 'Tyler Lydon'}"
+1063,"June 22, 2017","{'POR', 'SAC'}","{'Zach Collins', 'Justin Jackson', 'Harry Giles'}"
+1064,"June 22, 2017","{'MIN', 'CHI'}","{'Kris Dunn', 'Jimmy Butler', 'Zach LaVine', 'Lauri Markkanen', 'Justin Patton'}"
+1065,"June 23, 2017","{'MIL', 'LAC'}",{'Sindarius Thornwell'}
+1066,"June 28, 2017","{'DET', 'HOU'}",{'Darrun Hilliard'}
+1067,"June 28, 2017","{'HOU', 'ATL'}",{'Ryan Kelly'}
+1068,"June 28, 2017","{'POR', 'HOU'}",{'Tim Quarterman'}
+1069,"June 28, 2017","{'DAL', 'HOU'}",{'DeAndre Liggins'}
+1070,"June 28, 2017","{'LAC', 'HOU'}","{'Montrezl Harrell', 'Sam Dekker', 'DeAndre Liggins', 'Chris Paul', 'Kyle Wiltjer', 'Lou Williams', 'Darrun Hilliard', 'Patrick Beverley'}"
+1071,"June 28, 2017","{'PHI', 'HOU'}",{'Shawn Long'}
+1072,"June 29, 2017","{'DAL', 'HOU'}",{'Jarrod Uthoff'}
+1073,"June 30, 2017","{'MIN', 'UTA'}",{'Ricky Rubio'}
+1074,"July 6, 2017","{'OKC', 'IND'}","{'Paul George', 'Victor Oladipo', 'Domantas Sabonis'}"
+1075,"July 6, 2017","{'LAC', 'PHI'}",{'Jawun Evans'}
+1076,"July 6, 2017","{'MIL', 'PHI'}",{'Sterling Brown'}
+1077,"July 6, 2017","{'DEN', 'LAC', 'ATL'}","{'Jamal Crawford', 'Diamond Stone', 'Danilo Gallinari'}"
+1078,"July 7, 2017","{'DET', 'BOS'}","{'Marcus Morris', 'Avery Bradley'}"
+1079,"July 7, 2017","{'MIA', 'DAL'}","{'Josh McRoberts', 'A.J. Hammons'}"
+1080,"July 13, 2017","{'TOR', 'BRK'}","{'Justin Hamilton', 'DeMarre Carroll'}"
+1081,"July 14, 2017","{'TOR', 'IND'}","{'Cory Joseph', 'Emir PreldÅ¾iÄ\x87'}"
+1082,"July 14, 2017","{'NYK', 'SAC'}",{'Scott Perry'}
+1083,"July 25, 2017","{'POR', 'BRK'}","{'Andrew Nicholson', 'Allen Crabbe'}"
+1084,"August 30, 2017","{'BOS', 'CLE'}","{'Ante Å½iÅ¾iÄ\x87', 'Jae Crowder', 'Isaiah Thomas', 'Kyrie Irving'}"
+1085,"September 1, 2017","{'NOP', 'CHI'}","{'Quincy Pondexter', 'Ater Majok'}"
+1086,"September 22, 2017","{'PHO', 'MEM'}",{'Troy Daniels'}
+1087,"September 25, 2017","{'OKC', 'NYK'}","{'Carmelo Anthony', 'Doug McDermott', 'Enes Kanter'}"
+1088,"September 25, 2017","{'LAC', 'ATL'}",{'DeAndre Liggins'}
+1089,"October 14, 2017","{'CLE', 'ATL'}","{'Sergiy Gladyr', 'Kay Felder', 'Dimitrios Agravanis', 'Richard Jefferson'}"
+1090,"November 7, 2017","{'MIL', 'PHO'}","{'Eric Bledsoe', 'Greg Monroe'}"
+1091,"December 7, 2017","{'PHI', 'BRK'}","{'Jahlil Okafor', 'Nik Stauskas', 'Trevor Booker'}"
+1092,"January 29, 2018","{'DET', 'LAC'}","{'Blake Griffin', 'Tobias Harris', 'Willie Reed', 'Boban MarjanoviÄ\x87', 'Avery Bradley', 'Brice Johnson'}"
+1093,"February 1, 2018","{'NOP', 'CHI'}","{'Ã\x96mer AÅ\x9fÄ±k', 'Nikola MirotiÄ\x87', 'Tony Allen', 'Jameer Nelson'}"
+1094,"February 5, 2018","{'MIL', 'BRK'}","{'Rashad Vaughn', 'Tyler Zeller'}"
+1095,"February 7, 2018","{'CHO', 'NYK'}","{'Willy HernangÃ³mez', ""Johnny O'Bryant""}"
+1096,"February 8, 2018","{'DET', 'CHI'}","{'Willie Reed', 'Jameer Nelson'}"
+1097,"February 8, 2018","{'MIA', 'ATL'}","{'Okaro White', 'Luke Babbitt'}"
+1098,"February 8, 2018","{'MIA', 'CLE'}",{'Dwyane Wade'}
+1099,"February 8, 2018","{'LAL', 'CLE'}","{'Channing Frye', 'Isaiah Thomas', 'Jordan Clarkson', 'Larry Nance Jr.'}"
+1100,"February 8, 2018","{'NOP', 'BRK'}","{'Rashad Vaughn', 'Dante Cunningham'}"
+1101,"February 8, 2018","{'POR', 'CHI'}","{'Milovan RakoviÄ\x87', 'Noah Vonleh'}"
+1102,"February 8, 2018","{'WAS', 'ATL'}",{'Sheldon Mac'}
+1103,"February 8, 2018","{'DEN', 'DAL', 'NYK'}","{'Emmanuel Mudiay', 'Doug McDermott', 'Devin Harris'}"
+1104,"February 8, 2018","{'CLE', 'UTA', 'SAC'}","{'ArtÅ«ras Gudaitis', 'Derrick Rose', 'Dimitrios Agravanis', 'George Hill', 'Joe Johnson', 'Iman Shumpert', 'Rodney Hood', 'Jae Crowder'}"
+1105,"February 8, 2018","{'DET', 'MEM'}","{'James Ennis', 'Brice Johnson'}"
+1106,"February 8, 2018","{'PHO', 'ORL'}",{'Elfrid Payton'}
+1107,"February 8, 2018","{'TOR', 'SAC'}","{'Malachi Richardson', 'Bruno Caboclo'}"
+1108,"June 21, 2018","{'DAL', 'ATL'}","{'Trae Young', 'Luka DonÄ\x8diÄ\x87'}"
+1109,"June 21, 2018","{'PHO', 'PHI'}","{'Mikal Bridges', 'Zhaire Smith'}"
+1110,"June 21, 2018","{'CHO', 'ATL'}","{""Devonte' Graham""}"
+1111,"June 21, 2018","{'CHO', 'LAC'}","{'Shai Gilgeous-Alexander', 'Miles Bridges'}"
+1112,"June 21, 2018","{'PHI', 'DAL'}","{'Kostas Antetokounmpo', 'Ray Spalding', 'Shake Milton'}"
+1113,"June 21, 2018","{'DEN', 'ORL'}","{'Jarred Vanderbilt', 'Justin Jackson'}"
+1114,"June 21, 2018","{'DET', 'PHI'}",{'Khyri Thomas'}
+1115,"June 21, 2018","{'POR', 'SAC'}",{'Gary Trent Jr.'}
+1116,"June 22, 2018","{'UTA', 'HOU'}",{'Vince Edwards'}
+1117,"June 26, 2018","{'WAS', 'LAC'}","{'Marcin Gortat', 'Austin Rivers'}"
+1118,"July 6, 2018","{'CHO', 'BRK'}","{'Hamidou Diallo', 'Timofey Mozgov', 'Dwight Howard'}"
+1119,"July 6, 2018","{'CHO', 'OKC'}",{'Hamidou Diallo'}
+1120,"July 6, 2018","{'LAL', 'PHI'}",{'Isaac Bonga'}
+1121,"July 6, 2018","{'DEN', 'PHI'}",{'Wilson Chandler'}
+1122,"July 8, 2018","{'CHO', 'ORL', 'CHI'}","{'Jerian Grant', 'Bismack Biyombo', 'Julyan Stone', 'Timofey Mozgov'}"
+1123,"July 13, 2018","{'DEN', 'BRK'}","{'Kenneth Faried', 'Isaiah Whitehead', 'Darrell Arthur'}"
+1124,"July 13, 2018","{'BRK', 'ATL'}","{'IsaÃ¯a Cordinier', 'Jeremy Lin'}"
+1125,"July 17, 2018","{'MEM', 'SAC'}","{'Deyonta Davis', 'Ben McLemore', 'Garrett Temple'}"
+1126,"July 18, 2018","{'SAS', 'TOR'}","{'Jakob PÃ¶ltl', 'DeMar DeRozan', 'Kawhi Leonard', 'Danny Green'}"
+1127,"July 20, 2018","{'PHO', 'PHI'}",{'Richaun Holmes'}
+1128,"July 20, 2018","{'OKC', 'ORL'}","{'Rodney Purvis', 'Dakari Johnson'}"
+1129,"July 20, 2018","{'PHO', 'BRK'}","{'Jared Dudley', 'Darrell Arthur'}"
+1130,"July 23, 2018","{'MEM', 'ORL'}","{'Tyler Harvey', 'Dakari Johnson', 'Jarell Martin'}"
+1131,"July 23, 2018","{'BOS', 'OKC'}","{'Abdel Nader', 'Rodney Purvis'}"
+1132,"July 23, 2018","{'LAC', 'DAL'}","{'Renaldas Seibutis', 'Maarty Leunen', 'Johnathan Motley'}"
+1133,"July 25, 2018","{'PHI', 'OKC', 'ATL'}","{'TimothÃ© Luwawu-Cabarrot', 'Justin Anderson', 'Mike Muscala', 'Dennis SchrÃ¶der'}"
+1134,"August 2, 2018","{'DAL', 'HOU'}","{'Chinanu Onuaku', 'Maarty Leunen'}"
+1135,"August 7, 2018","{'LAC', 'CLE'}","{'Sam Dekker', 'Renaldas Seibutis', 'Vladimir Veremeenko'}"
+1136,"August 31, 2018","{'PHO', 'HOU'}","{'Brandon Knight', ""De'Anthony Melton"", 'Marquese Chriss', 'Ryan Anderson'}"
+1137,"October 15, 2018","{'NOP', 'LAC'}","{'Wesley Johnson', 'Alexis AjinÃ§a'}"
+1138,"October 15, 2018","{'MIL', 'WAS'}",{'Jodie Meeks'}
+1139,"November 12, 2018","{'MIN', 'PHI'}","{'Dario Å\xa0ariÄ\x87', 'Jerryd Bayless', 'Robert Covington', 'Jimmy Butler', 'Justin Patton'}"
+1140,"November 29, 2018","{'CLE', 'UTA'}","{'Alec Burks', 'Kyle Korver'}"
+1141,"December 7, 2018","{'MIL', 'WAS', 'CLE'}","{'John Henson', 'Sam Dekker', 'George Hill', 'Matthew Dellavedova', 'Jason Smith'}"
+1142,"December 17, 2018","{'PHO', 'WAS'}","{'Austin Rivers', 'Trevor Ariza', 'Kelly Oubre Jr.'}"
+1143,"January 3, 2019","{'MEM', 'CHI'}","{'Justin Holiday', 'Wayne Selden', 'MarShon Brooks'}"
+1144,"January 7, 2019","{'HOU', 'CHI'}",{'Michael Carter-Williams'}
+1145,"January 22, 2019","{'HOU', 'CHI'}","{'Carmelo Anthony', 'Tadija DragiÄ\x87eviÄ\x87', 'Jon Diebler'}"
+1146,"January 31, 2019","{'DAL', 'NYK'}","{'Wesley Matthews', 'Dennis Smith Jr.', 'DeAndre Jordan', 'Trey Burke', 'Kristaps PorziÅ\x86Ä£is', 'Courtney Lee', 'Tim Hardaway Jr.'}"
+1147,"February 1, 2019","{'OKC', 'CHI'}",{'TimothÃ© Luwawu-Cabarrot'}
+1148,"February 4, 2019","{'POR', 'CLE'}","{'Wade Baldwin', 'Rodney Hood', 'Nik Stauskas'}"
+1149,"February 6, 2019","{'LAC', 'PHI'}","{'Tobias Harris', 'Wilson Chandler', 'Mike Muscala', 'Landry Shamet', 'Boban MarjanoviÄ\x87', 'Mike Scott'}"
+1150,"February 6, 2019","{'DET', 'LAL'}","{'Reggie Bullock', 'Sviatoslav Mykhailiuk'}"
+1151,"February 6, 2019","{'TOR', 'PHI'}","{'Emir PreldÅ¾iÄ\x87', 'Malachi Richardson'}"
+1152,"February 6, 2019","{'PHO', 'MIA'}","{'Ryan Anderson', 'Wayne Ellington', 'Tyler Johnson'}"
+1153,"February 6, 2019","{'WAS', 'CHI'}","{'Otto Porter', 'Bobby Portis', 'Jabari Parker'}"
+1154,"February 7, 2019","{'DAL', 'SAC'}","{'Justin Jackson', 'Harrison Barnes', 'Zach Randolph'}"
+1155,"February 7, 2019","{'NOP', 'WAS'}","{'Wesley Johnson', 'Markieff Morris'}"
+1156,"February 7, 2019","{'SAC', 'CLE', 'HOU'}","{'Wade Baldwin', 'Alec Burks', 'Iman Shumpert', 'Brandon Knight', 'Marquese Chriss', 'Nik Stauskas'}"
+1157,"February 7, 2019","{'MIL', 'DET', 'NOP'}","{'Nikola MirotiÄ\x87', 'Jason Smith', 'Stanley Johnson', 'Thon Maker'}"
+1158,"February 7, 2019","{'LAC', 'MEM'}","{'JaMychal Green', 'Garrett Temple', 'Avery Bradley'}"
+1159,"February 7, 2019","{'LAC', 'LAL'}","{'Michael Beasley', 'Mike Muscala', 'Ivica Zubac'}"
+1160,"February 7, 2019","{'PHI', 'ORL'}","{'Jonathon Simmons', 'Markelle Fultz'}"
+1161,"February 7, 2019","{'TOR', 'BRK'}",{'Greg Monroe'}
+1162,"February 7, 2019","{'TOR', 'MEM'}","{'Marc Gasol', 'C.J. Miles', 'Jonas ValanÄ\x8diÅ«nas', 'Delon Wright'}"
+1163,"February 7, 2019","{'POR', 'SAC'}","{'Skal LabissiÃ¨re', 'Caleb Swanigan'}"
+1164,"February 7, 2019","{'PHI', 'HOU'}",{'James Ennis'}
+1165,"February 7, 2019","{'MEM', 'ATL'}","{'Shelvin Mack', 'Tyler Dorsey'}"
+1166,"February 7, 2019","{'BOS', 'ATL'}",{'Jabari Bird'}
+1167,"February 7, 2019","{'IND', 'HOU'}","{'Nik Stauskas', 'Wade Baldwin', 'Maarty Leunen'}"
+1168,"June 19, 2019","{'MIA', 'ATL'}",set()
+1169,"June 20, 2019","{'GSW', 'ATL'}",set()
+1170,"June 20, 2019","{'MIL', 'DET'}","{'Jon Leuer', 'Tony Snell', 'Kevin Porter Jr.'}"
+1171,"June 20, 2019","{'GSW', 'NOP'}",{'Alen SmailagiÄ\x87'}
+1172,"June 20, 2019","{'LAL', 'ORL'}",{'Talen Horton-Tucker'}
+1173,"June 21, 2019","{'DEN', 'MIA'}",{'Bol Bol'}
+1174,"June 21, 2019","{'BOS', 'PHI'}","{'Matisse Thybulle', 'Carsen Edwards', 'Ty Jerome'}"
+1175,"June 21, 2019","{'LAC', 'BRK'}","{'Mfiondu Kabengele', 'Jaylen Hands'}"
+1176,"June 21, 2019","{'UTA', 'IND'}",{'Jarrell Brantley'}
+1177,"June 21, 2019","{'NYK', 'SAC'}","{'Kyle Guy', 'Ignas Brazdeikis'}"
+1178,"June 21, 2019","{'GSW', 'UTA'}",{'Miye Oni'}
+1179,"June 21, 2019","{'WAS', 'PHI'}","{'Admiral Schofield', 'Jonathon Simmons'}"
+1180,"June 24, 2019","{'POR', 'ATL'}","{'Evan Turner', 'Kent Bazemore'}"
+1181,"June 26, 2019","{'DET', 'CLE'}",{'Kevin Porter Jr.'}
+1182,"June 26, 2019","{'DET', 'DAL'}","{'Deividas Sirvydis', 'Isaiah Roby'}"
+1183,"July 6, 2019","{'PHO', 'MIA', 'IND'}","{'KZ Okpala', 'T.J. Warren'}"
+1184,"July 6, 2019","{'BRK', 'ATL'}","{'Allen Crabbe', 'Taurean Prince', 'Nickeil Alexander-Walker'}"
+1185,"July 6, 2019","{'MEM', 'UTA'}","{'Mike Conley', 'Darius Bazley', 'Kyle Korver', 'Jae Crowder', 'Grayson Allen'}"
+1186,"July 6, 2019","{'MIN', 'PHO'}","{'Dario Å\xa0ariÄ\x87', 'Cameron Johnson', 'Jarrett Culver'}"
+1187,"July 6, 2019","{'PHO', 'BOS'}","{'Aron Baynes', 'Ty Jerome'}"
+1188,"July 6, 2019","{'MIA', 'LAC', 'PHI', 'POR'}","{'Josh Richardson', 'Hassan Whiteside', 'Meyers Leonard', 'Jimmy Butler', 'Mathias Lessort', 'Maurice Harkless'}"
+1189,"July 6, 2019","{'WAS', 'MEM'}","{'Dwight Howard', 'C.J. Miles'}"
+1190,"July 6, 2019","{'SAS', 'WAS', 'BRK'}","{'DeMarre Carroll', 'Aaron White', 'Nemanja Dangubic', 'Davis Bertans'}"
+1191,"July 6, 2019","{'MIL', 'IND'}",{'Malcolm Brogdon'}
+1192,"July 6, 2019","{'NOP', 'LAL', 'WAS'}","{'Lonzo Ball', 'Moritz Wagner', 'Jemerrio Jones', 'Brandon Ingram', ""De'Andre Hunter"", 'Josh Hart', 'Isaac Bonga', 'Anthony Davis'}"
+1193,"July 6, 2019","{'MEM', 'OKC'}","{'Darius Bazley', 'Brandon Clarke'}"
+1194,"July 6, 2019","{'CHO', 'BOS'}","{'Kemba Walker', 'Terry Rozier'}"
+1195,"July 7, 2019","{'NOP', 'ATL'}","{'Nickeil Alexander-Walker', 'Marcos Louzada Silva', 'Jordan Bone', ""De'Andre Hunter"", 'Solomon Hill', 'Jaxson Hayes'}"
+1196,"July 7, 2019","{'PHI', 'ATL'}","{'Jordan Bone', 'Bruno Fernando'}"
+1197,"July 7, 2019","{'DET', 'PHI'}",{'Jordan Bone'}
+1198,"July 7, 2019","{'GSW', 'MEM'}","{'Andre Iguodala', 'Julian Washburn'}"
+1199,"July 7, 2019","{'PHO', 'MEM'}","{'Josh Jackson', 'Jevon Carter', 'Kyle Korver', ""De'Anthony Melton""}"
+1200,"July 7, 2019","{'MEM', 'ATL'}","{'Miles Plumlee', 'Chandler Parsons', 'Solomon Hill'}"
+1201,"July 7, 2019","{'WAS', 'CHI'}",{'TomÃ¡Å¡ SatoranskÃ½'}
+1202,"July 7, 2019","{'NOP', 'UTA'}",{'Derrick Favors'}
+1203,"July 7, 2019","{'GSW', 'BRK'}","{'Treveon Graham', ""D'Angelo Russell"", 'Shabazz Napier', 'Kevin Durant'}"
+1204,"July 8, 2019","{'GSW', 'ATL'}","{'Omari Spellman', 'Damian Jones'}"
+1205,"July 8, 2019","{'MIN', 'POR'}","{'Jake Layman', 'Bojan Dubljevic'}"
+1206,"July 8, 2019","{'DEN', 'OKC'}",{'Jerami Grant'}
+1207,"July 8, 2019","{'DAL', 'MEM'}","{'Satnam Singh', 'Delon Wright'}"
+1208,"July 8, 2019","{'GSW', 'MIN'}","{'Treveon Graham', 'Shabazz Napier', 'Lior Eliyahu'}"
+1209,"July 10, 2019","{'LAC', 'OKC'}","{'Paul George', 'Shai Gilgeous-Alexander', 'Danilo Gallinari'}"
+1210,"July 16, 2019","{'OKC', 'HOU'}","{'Chris Paul', 'Russell Westbrook'}"
+1211,"December 23, 2019","{'CLE', 'UTA'}","{'Dante Exum', 'Jordan Clarkson'}"
+1212,"January 16, 2020","{'MIN', 'ATL'}","{'Treveon Graham', 'Jeff Teague', 'Allen Crabbe'}"
+1213,"January 21, 2020","{'POR', 'SAC'}","{'Wenyen Gabriel', 'Anthony Tolliver', 'Kent Bazemore', 'Caleb Swanigan', 'Trevor Ariza'}"
+1214,"January 24, 2020","{'DAL', 'OKC'}","{'Justin Patton', 'Isaiah Roby'}"
+1215,"January 25, 2020","{'GSW', 'DAL'}",{'Willie Cauley-Stein'}
+1216,"February 5, 2020","{'MIN', 'DEN', 'HOU', 'ATL'}","{'Robert Covington', 'Noah Vonleh', 'Malik Beasley', 'Evan Turner', 'Clint Capela', 'Juan Hernangomez', 'Jarred Vanderbilt', 'Keita Bates-Diop', 'Shabazz Napier', 'Jordan Bell', 'Gerald Green', 'Nene'}"
+1217,"February 6, 2020","{'LAC', 'ATL'}",{'Derrick Walton'}
+1218,"February 6, 2020","{'PHI', 'ORL'}",{'James Ennis'}
+1219,"February 6, 2020","{'GSW', 'MIN'}","{'Jacob Evans', 'Andrew Wiggins', ""D'Angelo Russell"", 'Omari Spellman'}"
+1220,"February 6, 2020","{'POR', 'ATL'}",{'Skal Labissiere'}
+1221,"February 6, 2020","{'GSW', 'PHI'}","{'Alec Burks', 'Glenn Robinson'}"
+1222,"February 6, 2020","{'DEN', 'WAS'}","{'Jordan McRae', 'Shabazz Napier'}"
+1223,"February 6, 2020","{'MIN', 'MIA', 'MEM'}","{'Andre Iguodala', 'Dion Waiters', 'Justise Winslow', 'James Johnson', 'Jae Crowder', 'Gorgui Dieng', 'Solomon Hill'}"
+1224,"February 6, 2020","{'MEM', 'HOU'}","{'Bruno Caboclo', 'Jordan Bell'}"
+1225,"February 6, 2020","{'WAS', 'LAC', 'NYK'}","{'Issuf Sanon', 'Marcus Morris', 'Jerome Robinson', 'Isaiah Thomas', 'Maurice Harkless'}"
+1226,"February 6, 2020","{'SAC', 'ATL'}","{'Alex Len', 'Jabari Parker', 'Dewayne Dedmon'}"
+1227,"February 6, 2020","{'DET', 'CLE'}","{'Brandon Knight', 'John Henson', 'Andre Drummond'}"
+1228,"November 16, 2020","{'PHO', 'OKC'}","{'Abdel Nader', 'Ty Jerome', 'Jalen Lecque', 'Kelly Oubre Jr.', 'Chris Paul', 'Ricky Rubio'}"
+1229,"November 18, 2020","{'LAL', 'OKC'}","{'Jaden McDaniels', 'Dennis Schroder', 'Danny Green'}"
+1230,"November 18, 2020","{'PHI', 'DAL'}","{'Tyler Bey', 'Josh Richardson', 'Seth Curry'}"
+1231,"November 18, 2020","{'DET', 'UTA'}","{'Saben Lee', 'Tony Bradley'}"
+1232,"November 18, 2020","{'MIL', 'CLE'}",{'Ilkan Karaman'}
+1233,"November 18, 2020","{'MIL', 'ORL'}",set()
+1234,"November 19, 2020","{'CHO', 'NOP'}",{'Nick Richards'}
+1235,"November 19, 2020","{'NOP', 'UTA'}",{'Elijah Hughes'}
+1236,"November 19, 2020","{'MEM', 'SAC'}","{'Robert Woodard', 'Xavier Tillman Sr.'}"
+1237,"November 19, 2020","{'WAS', 'OKC'}","{'Admiral Schofield', 'Cassius Winston', 'Vit Krejci'}"
+1238,"November 19, 2020","{'MIN', 'LAC'}",{'Daniel Oturu'}
+1239,"November 19, 2020","{'BOS', 'OKC'}",{'Vincent Poirier'}
+1240,"November 19, 2020","{'DET', 'LAC', 'BRK'}","{'Saddiq Bey', 'Reggie Perry', 'Landry Shamet', 'Justin Patton', 'Dzanan Musa', 'Luke Kennard', 'Rodney McGruder', 'Jaylen Hands', 'Jay Scrubb', 'Bruce Brown'}"
+1241,"November 20, 2020","{'POR', 'BOS', 'MEM'}","{'Desmond Bane', 'Mario Hezonja', 'Enes Kanter'}"
+1242,"November 20, 2020","{'MIN', 'OKC', 'NYK'}","{'Jaden McDaniels', 'Mathias Lessort', 'Aleksej Pokusevski', 'Immanuel Quickley', 'James Johnson', 'Ricky Rubio'}"
+1243,"November 20, 2020","{'DET', 'ATL'}","{'Tony Snell', 'Dewayne Dedmon', 'Khyri Thomas'}"
+1244,"November 20, 2020","{'NYK', 'UTA'}",{'Ante Tomic'}
+1245,"November 22, 2020","{'POR', 'HOU'}","{'Isaiah Stewart', 'Robert Covington', 'Trevor Ariza'}"
+1246,"November 22, 2020","{'GSW', 'OKC'}",{'Kelly Oubre Jr.'}
+1247,"November 22, 2020","{'NYK', 'UTA'}",{'Ed Davis'}
+1248,"November 22, 2020","{'DEN', 'DET'}","{'Nikola RadiÄ\x8deviÄ\x87', 'Jerami Grant'}"
+1249,"November 23, 2020","{'LAL', 'CLE'}","{'JaVale McGee', 'Alfonzo McKinnie', 'Jordan Bell'}"
+1250,"November 23, 2020","{'DET', 'PHI'}","{'Tony Bradley', 'Zhaire Smith'}"
+1251,"November 23, 2020","{'DEN', 'NOP', 'OKC', 'MIL'}","{'R.J. Hampton', 'Zylan Cheatham', 'Jrue Holiday', 'George Hill', 'Eric Bledsoe', 'Darius Miller', 'Kenrich Williams', 'Sam Merrill', 'Joshia Gray', 'Steven Adams'}"
+1252,"November 24, 2020","{'DET', 'HOU'}","{'Christian Wood', 'Trevor Ariza', 'Isaiah Stewart'}"
+1253,"November 24, 2020","{'MIN', 'NYK'}","{'Ed Davis', 'Jacob Evans', 'Omari Spellman'}"
+1254,"November 24, 2020","{'OKC', 'ATL'}",{'Danilo Gallinari'}
+1255,"November 25, 2020","{'SAC', 'HOU'}",{'Kenyon Martin Jr.'}
+1256,"November 25, 2020","{'OKC', 'IND'}","{'T.J. Leaf', 'Jalen Lecque'}"
+1257,"November 27, 2020","{'NYK', 'HOU'}","{'Issuf Sanon', 'Sergio Llull', 'Tadija Dragicevic', 'Austin Rivers', 'Axel Hervelle'}"
+1258,"November 27, 2020","{'CLE', 'UTA'}",{'Rayjon Tucker'}
+1259,"November 27, 2020","{'DET', 'DAL', 'OKC'}","{'Justin Jackson', 'James Johnson', 'Trevor Ariza', 'Delon Wright'}"
+1260,"November 29, 2020","{'CHO', 'BOS'}",{'Gordon Hayward'}
+1261,"December 2, 2020","{'WAS', 'HOU'}","{'Russell Westbrook', 'John Wall'}"
+1262,"December 8, 2020","{'PHI', 'OKC'}","{'Vasilije MiciÄ\x87', 'Terrance Ferguson', 'Vincent Poirier', 'ThÃ©o Maledon', 'Al Horford', 'Danny Green'}"
+1263,"January 16, 2021","{'BRK', 'CLE', 'IND', 'HOU'}","{'Victor Oladipo', 'Jarrett Allen', 'Taurean Prince', 'Caris Levert', 'James Harden', 'Dante Exum', 'Rodions Kurucs'}"
+1264,"January 22, 2021","{'CLE', 'HOU'}",{'Kevin Porter Jr.'}
+1265,"February 8, 2021","{'DET', 'NYK'}","{'Dennis Smith', 'Derrick Rose'}"
+1266,"March 13, 2021","{'DET', 'OKC'}","{'Hamidou Diallo', 'Sviatoslav Mykhailiuk'}"
+1267,"March 17, 2021","{'MIA', 'OKC'}","{'Trevor Ariza', 'Meyers Leonard'}"
+1268,"March 18, 2021","{'MIL', 'PHO'}",{'Torrey Craig'}
+1269,"March 19, 2021","{'MIL', 'HOU'}","{'D.J. Augustin', 'P.J. Tucker', 'D.J. Wilson', 'Rodions Kurucs'}"
+1270,"March 22, 2021","{'LAC', 'SAC'}",{'Mfiondu Kabengele'}
+1271,"March 25, 2021","{'PHI', 'OKC', 'NYK'}","{'Vincent Poirier', 'George Hill', 'Ignas Brazdeikis', 'Emir PreldÅ¾iÄ\x87', 'Terrance Ferguson', 'Tony Bradley', 'Austin Rivers'}"
+1272,"March 25, 2021","{'ORL', 'CHI'}","{'Otto Porter', 'Wendell Carter Jr.', 'Nikola VuÄ\x8deviÄ\x87', 'Al-Farouq Aminu'}"
+1273,"March 25, 2021","{'POR', 'TOR'}","{'Norman Powell', 'Rodney Hood', 'Gary Trent Jr.'}"
+1274,"March 25, 2021","{'WAS', 'BOS', 'CHI'}","{'Troy Brown Jr.', 'Moritz Wagner', 'Javonte Green', 'Daniel Theis', 'Daniel Gafford', 'Chandler Hutchison', 'Luke Kornet'}"
+1275,"March 25, 2021","{'MIA', 'SAC'}","{'Chris Silva', 'Nemanja Bjelica', 'Maurice Harkless'}"
+1276,"March 25, 2021","{'LAC', 'ATL'}","{'Rajon Rondo', 'Lou Williams'}"
+1277,"March 25, 2021","{'TOR', 'SAC'}",set()
+1278,"March 25, 2021","{'MIA', 'HOU'}","{'Victor Oladipo', 'Kelly Olynyk', 'Avery Bradley'}"
+1279,"March 25, 2021","{'GSW', 'CHO'}",{'Brad Wanamaker'}
+1280,"March 25, 2021","{'GSW', 'SAS'}","{'Marquese Chriss', 'Cady Lalane'}"
+1281,"March 25, 2021","{'DEN', 'ORL'}","{'Gary Clark', 'R.J. Hampton', 'Aaron Gordon', 'Gary Harris'}"
+1282,"March 25, 2021","{'BOS', 'ORL'}","{'Evan Fournier', 'Jeff Teague'}"
+1283,"March 25, 2021","{'DEN', 'CLE'}","{'JaVale McGee', 'Isaiah Hartenstein'}"
+1284,"March 25, 2021","{'DET', 'SAC'}","{'Cory Joseph', 'Delon Wright'}"
+1285,"March 25, 2021","{'NOP', 'DAL'}","{'J.J. Redick', 'James Johnson', 'Wesley Iwundu', 'NicolÃ² Melli'}"
+1286,"March 25, 2021","{'TOR', 'UTA'}",{'Matt Thomas'}
+1287,"June 18, 2021","{'BOS', 'OKC'}","{'Moses Brown', 'Kemba Walker', 'Al Horford'}"
+1288,"July 29, 2021","{'LAC', 'ORL'}",{'Jason Preston'}
+1289,"July 30, 2021","{'OKC', 'UTA'}",{'Derrick Favors'}
+1290,"July 30, 2021","{'MIL', 'IND'}","{'Sandro Mamukelashvili', 'Isaiah Todd', 'Georgios Kalaitzakis'}"
+1291,"July 30, 2021","{'CHO', 'NYK'}",{'Kai Jones'}
+1292,"July 30, 2021","{'LAC', 'NYK'}","{'Quentin Grimes', 'Keon Johnson'}"
+1293,"July 30, 2021","{'OKC', 'NYK'}","{'Miles McBride', 'Rokas Jokubaitis', 'Jeremiah Robinson-Earl'}"
+1294,"July 30, 2021","{'OKC', 'HOU'}",{'Alperen Å\x9eengÃ¼n'}
+1295,"July 30, 2021","{'NOP', 'POR'}",{'Greg Brown III'}
+1296,"July 31, 2021","{'BOS', 'DAL'}","{'Josh Richardson', 'Moses Brown'}"
+1297,"August 2, 2021","{'MIN', 'CLE'}","{'Taurean Prince', 'Ricky Rubio'}"
+1298,"August 6, 2021","{'PHO', 'BRK'}","{""Day'Ron Sharpe"", 'Landry Shamet', 'Jevon Carter'}"
+1299,"August 6, 2021","{'SAS', 'WAS', 'LAL', 'BRK', 'IND'}","{'Montrezl Harrell', 'Nikola Milutinov', 'Kyle Kuzma', 'Chandler Hutchison', 'Spencer Dinwiddie', 'Kentavious Caldwell-Pope', 'Aaron Holiday', 'Isaiah Jackson', 'Russell Westbrook', 'Isaiah Todd'}"
+1300,"August 6, 2021","{'MIA', 'TOR'}","{'Goran Dragic', 'Kyle Lowry', 'Precious Achiuwa'}"
+1301,"August 6, 2021","{'DET', 'CHO'}","{'JT Thor', 'BalÅ¡a Koprivica', 'Mason Plumlee'}"
+1302,"August 7, 2021","{'HOU', 'CHI'}",{'Daniel Theis'}
+1303,"August 7, 2021","{'GSW', 'UTA'}",{'Eric Paschall'}
+1304,"August 7, 2021","{'MEM', 'UTA'}","{'Santi Aldama', 'Jared Butler'}"
+1305,"August 7, 2021","{'NOP', 'LAC'}",{'Brandon Boston Jr.'}
+1306,"August 7, 2021","{'MIL', 'MEM'}","{'Sam Merrill', 'Grayson Allen'}"
+1307,"August 7, 2021","{'SAC', 'BOS', 'ATL'}","{'Tristan Thompson', 'Bruno Fernando', 'Kris Dunn', 'Delon Wright'}"
+1308,"August 7, 2021","{'CHO', 'MEM', 'NOP'}","{'Brandon Boston Jr.', 'Trey Murphy III', 'Jared Butler', 'Jonas ValanÄ\x8diÅ«nas', 'Eric Bledsoe', 'Ziaire Williams', 'Steven Adams', 'Tyler Harvey', 'Wesley Iwundu', ""Devonte' Graham""}"
+1309,"August 7, 2021","{'SAS', 'IND'}",{'Doug McDermott'}
+1310,"August 7, 2021","{'MIL', 'MEM'}",set()
+1311,"August 8, 2021","{'NOP', 'CHI'}","{'TomÃ¡Å¡ SatoranskÃ½', 'Lonzo Ball', 'Garrett Temple'}"
+1312,"August 11, 2021","{'SAS', 'CHI'}","{'DeMar DeRozan', 'Thaddeus Young', 'Al-Farouq Aminu'}"
+1313,"August 16, 2021","{'LAC', 'MEM'}","{'Eric Bledsoe', 'Rajon Rondo', 'Daniel Oturu', 'Patrick Beverley'}"
+1314,"August 17, 2021","{'BOS', 'NYK'}",{'Evan Fournier'}
+1315,"August 25, 2021","{'MIN', 'MEM'}","{'Juan Hernangomez', 'Jarrett Culver', 'Patrick Beverley'}"
+1316,"August 28, 2021","{'POR', 'CLE', 'CHI'}","{'Derrick Jones Jr.', 'Lauri Markkanen', 'Larry Nance Jr.'}"
+1317,"September 4, 2021","{'DET', 'BRK'}","{'Jahlil Okafor', 'Sekou Doumbouya', 'DeAndre Jordan'}"
+1318,"September 10, 2021","{'LAL', 'MEM'}",{'Wang Zhelin'}
+1319,"September 15, 2021","{'BOS', 'MEM'}","{'Juan Hernangomez', 'Kris Dunn', 'Carsen Edwards'}"
+1320,"October 6, 2021","{'BRK', 'IND'}","{'Juan Pablo Vaulet', 'Edmond Sumner'}"
+1321,"October 6, 2021","{'BRK', 'HOU'}",{'Sekou Doumbouya'}
+1322,"January 3, 2022","{'LAL', 'CLE', 'NYK'}","{'Denzel Valentine', 'Rajon Rondo', 'Wang Zhelin', 'Louis Labeyrie', 'Brad Newley'}"
+1323,"January 4, 2022","{'OKC', 'UTA'}",{'Miye Oni'}
+1324,"January 10, 2022","{'DEN', 'DET'}","{'Bol Bol', 'Rodney McGruder'}"
+1325,"January 13, 2022","{'NYK', 'ATL'}","{'Kevin Knox', 'Cam Reddish', 'Solomon Hill'}"
+1326,"January 19, 2022","{'SAS', 'DEN', 'BOS'}","{'Juan Hernangomez', 'PJ Dozier', 'Bol Bol', 'Bryn Forbes'}"
+1327,"February 4, 2022","{'POR', 'LAC'}","{'Eric Bledsoe', 'Justise Winslow', 'Robert Covington', 'Keon Johnson', 'Norman Powell'}"
+1328,"February 7, 2022","{'CLE', 'IND'}","{'Ricky Rubio', 'Caris Levert'}"
+1329,"February 8, 2022","{'SAC', 'IND'}","{'Tristan Thompson', 'Justin Holiday', 'Domantas Sabonis', 'Jeremy Lamb', 'Tyrese Haliburton', 'Buddy Hield'}"
+1330,"February 8, 2022","{'NOP', 'POR'}","{'Josh Hart', 'CJ McCollum', 'Didi Louzada', 'Tony Snell', 'Nickeil Alexander-Walker', 'Larry Nance Jr.', 'Tomas Satoransky'}"
+1331,"February 9, 2022","{'SAS', 'POR', 'UTA'}","{'Juan Hernangomez', 'Joe Ingles', 'Elijah Hughes', 'Nickeil Alexander-Walker', 'Tomas Satoransky'}"
+1332,"February 9, 2022","{'MIA', 'OKC'}",{'KZ Okpala'}
+1333,"February 10, 2022","{'SAS', 'BOS'}","{'Josh Richardson', 'Derrick White', 'Romeo Langford'}"
+1334,"February 10, 2022","{'WAS', 'DAL'}","{'Spencer Dinwiddie', 'Kristaps Porzingis', 'Davis Bertans'}"
+1335,"February 10, 2022","{'PHI', 'BRK'}","{'Paul Millsap', 'Andre Drummond', 'Seth Curry', 'Ben Simmons', 'James Harden'}"
+1336,"February 10, 2022","{'BOS', 'HOU'}","{'Daniel Theis', 'Bruno Fernando', 'Dennis Schroder', 'Enes Freedom'}"
+1337,"February 10, 2022","{'PHO', 'IND'}","{'Jalen Smith', 'Torrey Craig'}"
+1338,"February 10, 2022","{'MIL', 'DET', 'LAC', 'SAC'}","{'David Michineau', 'Josh Jackson', 'Vanja Marinkovic', 'Semi Ojeleye', 'Serge Ibaka', 'Rodney Hood', 'Marvin Bagley III', 'Trey Lyles', 'Donte DiVincenzo'}"
+1339,"February 10, 2022","{'CHO', 'WAS'}","{'Ish Smith', 'Montrezl Harrell', 'Vernon Carey Jr.'}"
+1340,"February 10, 2022","{'PHO', 'WAS'}",{'Aaron Holiday'}
+1341,"February 10, 2022","{'SAS', 'TOR'}","{'Thaddeus Young', 'Goran Dragic', 'Drew Eubanks'}"
+1342,"February 10, 2022","{'BOS', 'ORL'}","{'PJ Dozier', 'Bol Bol'}"
+1343,"June 23, 2022","{'CLE', 'SAC'}",{'Sasha Vezenkov'}
+1344,"June 23, 2022","{'OKC', 'NYK'}",{'Ousmane Dieng'}
+1345,"June 23, 2022","{'CHO', 'NYK'}",{'Jalen Duren'}
+1346,"June 23, 2022","{'DEN', 'OKC'}","{'JaMychal Green', 'Peyton Watson'}"
+1347,"June 23, 2022","{'SAS', 'MEM'}",{'Kennedy Chandler'}
+1348,"June 23, 2022","{'DAL', 'SAC'}",{'Jaden Hardy'}
+1349,"June 23, 2022","{'MIN', 'CHO'}","{'Josh Minott', 'Bryce McGowens'}"
+1350,"June 23, 2022","{'GSW', 'ATL'}","{'Tyrese Martin', 'Ryan Rollins'}"
+1351,"June 23, 2022","{'LAL', 'ORL'}",set()
+1352,"June 24, 2022","{'DAL', 'HOU'}","{'Marquese Chriss', 'Christian Wood', 'Trey Burke', 'Boban MarjanoviÄ\x87', 'Sterling Brown', 'Wendell Moore Jr.'}"
+1353,"June 24, 2022","{'MIN', 'MEM'}","{'Walker Kessler', 'Jake LaRavia', 'TyTy Washington Jr.'}"
+1354,"June 24, 2022","{'MIN', 'IND'}",{'Kendall Brown'}
+1355,"June 24, 2022","{'MIL', 'IND'}",{'Hugo Besson'}
+1356,"June 24, 2022","{'MIN', 'HOU'}","{'TyTy Washington Jr.', 'Wendell Moore Jr.'}"
+1357,"June 24, 2022","{'PHI', 'MEM'}","{'David Roddy', ""De'Anthony Melton"", 'Danny Green'}"
+1358,"June 30, 2022","{'BRK', 'UTA'}","{""Royce O'Neale""}"
+1359,"June 30, 2022","{'SAS', 'ATL'}","{'Dejounte Murray', 'Danilo Gallinari', 'Jock Landale'}"
+1360,"July 6, 2022","{'MIN', 'UTA'}","{'Walker Kessler', 'Jarred Vanderbilt', 'Leandro Bolmaro', 'Malik Beasley', 'Rudy Gobert', 'Patrick Beverley'}"
+1361,"July 6, 2022","{'DET', 'POR'}","{'Ismael Kamagate', 'Gabriele Procida', 'Jerami Grant'}"
+1362,"July 6, 2022","{'DEN', 'WAS'}","{'Ish Smith', 'Kentavious Caldwell-Pope', 'Will Barton', 'Monte Morris'}"
+1363,"July 6, 2022","{'DEN', 'POR'}",{'Ismael Kamagate'}
+1364,"July 6, 2022","{'PHO', 'ATL'}",{'Jock Landale'}
+1365,"July 6, 2022","{'SAC', 'ATL'}","{'Maurice Harkless', 'Justin Holiday', 'Kevin Huerter'}"
+1366,"July 6, 2022","{'DET', 'NYK'}","{'Jalen Duren', 'Kemba Walker'}"
+1367,"July 9, 2022","{'BOS', 'IND'}","{'Aaron Nesmith', 'Malcolm Brogdon', 'Daniel Theis', 'Nik Stauskas', 'Juwan Morgan', 'Malik Fitts'}"
+1368,"July 11, 2022","{'DET', 'NYK'}","{'Nikola RadiÄ\x8deviÄ\x87', 'Nerlens Noel', 'Alec Burks'}"
+1369,"August 25, 2022","{'LAL', 'UTA'}","{'Stanley Johnson', 'Talen Horton-Tucker', 'Patrick Beverley'}"
+1370,"September 3, 2022","{'CLE', 'UTA'}","{'Donovan Mitchell', 'Lauri Markkanen', 'Collin Sexton', 'Ochai Agbaji'}"
+1371,"September 22, 2022","{'DET', 'UTA'}","{'Bojan Bogdanovic', 'Saben Lee', 'Kelly Olynyk'}"
+1372,"September 27, 2022","{'OKC', 'ATL'}","{'Vit Krejci', 'Maurice Harkless'}"
+1373,"September 30, 2022","{'OKC', 'HOU'}","{'Ty Jerome', 'Sterling Brown', 'Maurice Harkless', 'Marquese Chriss', 'Trey Burke', 'David Nwaba', 'Derrick Favors'}"
+1374,"January 5, 2023","{'SAS', 'BOS'}",{'Noah Vonleh'}
+1375,"January 23, 2023","{'WAS', 'LAL'}","{'Kendrick Nunn', 'Rui Hachimura'}"
+1376,"February 6, 2023","{'DAL', 'BRK'}","{'Markieff Morris', 'Dorian Finney-Smith', 'Kyrie Irving', 'Spencer Dinwiddie'}"
+1377,"February 7, 2023","{'BRK', 'SAC'}","{'Kessler Edwards', 'David Michineau'}"
+1378,"February 7, 2023","{'SAS', 'MIA'}",{'Dewayne Dedmon'}
+1379,"February 9, 2023","{'CHO', 'LAC'}","{'Reggie Jackson', 'Mason Plumlee'}"
+1380,"February 9, 2023","{'CHO', 'PHI', 'NYK', 'POR'}","{'Bojan Dubljevic', 'Cam Reddish', 'Jalen McDaniels', 'Matisse Thybulle', 'Josh Hart', 'Dani Diez', 'Sviatoslav Mykhailiuk', 'Ante Tomic', 'Ryan Arcidiacono'}"
+1381,"February 9, 2023","{'LAC', 'MEM', 'HOU'}","{'Danny Green', 'Luke Kennard', 'Eric Gordon', 'John Wall'}"
+1382,"February 9, 2023","{'BOS', 'OKC'}","{'Justin Jackson', 'Mike Muscala'}"
+1383,"February 9, 2023","{'SAS', 'NOP'}","{'Josh Richardson', ""Devonte' Graham""}"
+1384,"February 9, 2023","{'GSW', 'POR', 'DET', 'ATL'}","{'Kevin Knox', 'Saddiq Bey', 'Gary Payton II', 'James Wiseman'}"
+1385,"February 9, 2023","{'PHO', 'OKC'}","{'Darius Bazley', 'Dario Saric'}"
+1386,"February 9, 2023","{'HOU', 'ATL'}","{'Bruno Fernando', 'Justin Holiday', 'Frank Kaminsky', 'Garrison Mathews'}"
+1387,"February 9, 2023","{'PHO', 'BRK', 'MIL', 'IND'}","{'T.J. Warren', 'Juan Vaulet', 'Jae Crowder', 'George Hill', 'Serge Ibaka', 'Cameron Johnson', 'Jordan Nwora', 'Mikal Bridges', 'Kevin Durant'}"
+1388,"February 9, 2023","{'DEN', 'LAC', 'LAL', 'ORL'}","{'Mo Bamba', 'Bones Hyland', 'Thomas Bryant', 'Davon Reed', 'Patrick Beverley'}"
+1389,"February 9, 2023","{'MIN', 'LAL', 'UTA'}","{'Mike Conley', 'Juan Toscano-Anderson', 'Damian Jones', ""D'Angelo Russell"", 'Malik Beasley', 'Nickeil Alexander-Walker', 'Jarred Vanderbilt', 'Russell Westbrook'}"
+1390,"February 9, 2023","{'SAS', 'TOR'}","{'Jakob Poeltl', 'Khem Birch'}"
+1391,"June 22, 2023","{'MIL', 'ORL'}",{'Andre Jackson'}
+1392,"June 23, 2023","{'MIN', 'SAS'}",{'Leonard Miller'}
+1393,"June 23, 2023","{'GSW', 'WAS'}",{'Trayce Jackson-Davis'}
+1394,"June 23, 2023","{'WAS', 'BOS', 'MEM'}","{'Marcus Smart', 'Mike Muscala', 'Julian Phillips', 'Marcus Sasser', 'Kristaps Porzingis', 'Danilo Gallinari', 'Tyus Jones'}"
+1395,"June 23, 2023","{'DEN', 'LAL', 'OKC', 'IND'}","{'Julian Strawther', 'Hunter Tyson', 'Maxwell Lewis', 'Jalen Pickett', 'Mojave King'}"
+1396,"June 23, 2023","{'PHO', 'WAS', 'IND'}","{'Chris Paul', 'Landry Shamet', 'Jordan Goodwin', 'Bilal Coulibaly', 'Jarace Walker', 'Bradley Beal', 'Isaiah Todd'}"
+1397,"June 28, 2023","{'DET', 'BOS'}","{'James Nnaji', 'Marcus Sasser'}"
+1398,"June 28, 2023","{'CHO', 'BOS'}","{'Colby Jones', 'Mouhamed Gueye', 'James Nnaji'}"
+1399,"June 28, 2023","{'BOS', 'SAC'}","{'Colby Jones', 'Jordan Walsh'}"
+1400,"June 28, 2023","{'BOS', 'ATL'}",{'Mouhamed Gueye'}
+1401,"June 28, 2023","{'WAS', 'CHI'}",{'Julian Phillips'}
+1402,"July 6, 2023","{'SAC', 'IND'}",{'Chris Duarte'}
+1403,"July 6, 2023","{'DET', 'WAS'}",{'Monte Morris'}
+1404,"July 6, 2023","{'SAS', 'MIA', 'CLE'}","{'Cedi Osman', 'Lamar Stevens', 'Max Strus'}"
+1405,"July 6, 2023","{'DAL', 'SAC'}","{'Olivier-Maxence Prosper', 'Richaun Holmes'}"
+1406,"July 6, 2023","{'DAL', 'OKC'}","{'Cason Wallace', 'Dereck Lively II', 'Davis Bertans'}"
+1407,"July 6, 2023","{'GSW', 'WAS'}","{'Ryan Rollins', 'Chris Paul', 'Patrick Baldwin Jr.', 'Jordan Poole'}"
+1408,"July 6, 2023","{'BRK', 'HOU'}",{'Patty Mills'}
+1409,"July 6, 2023","{'MIA', 'OKC'}",{'Victor Oladipo'}
+1410,"July 6, 2023","{'DET', 'BRK'}",{'Joe Harris'}
+1411,"July 7, 2023","{'UTA', 'ATL'}","{'John Collins', 'Rudy Gay'}"
+1412,"July 7, 2023","{'NYK', 'IND'}",{'Obi Toppin'}
+1413,"July 8, 2023","{'OKC', 'ATL', 'LAC', 'HOU', 'MEM'}","{'Kenyon Martin', 'TyTy Washington Jr.', 'Vanja Marinkovic', 'Patty Mills', 'Dillon Brooks', 'Alpha Kaba', 'Josh Christopher', 'Usman Garuba'}"
+1414,"July 8, 2023","{'CLE', 'UTA'}",{'Damian Jones'}
+1415,"July 11, 2023","{'PHO', 'MEM'}",{'Isaiah Todd'}
+1416,"July 12, 2023","{'SAS', 'BOS', 'DAL'}","{'Reggie Bullock', 'Grant Williams'}"
+1417,"July 12, 2023","{'OKC', 'ATL'}","{'Patty Mills', 'Ty Ty Washington', 'Usman Garuba', 'Rudy Gay'}"
+1418,"July 17, 2023","{'PHO', 'SAS'}",{'Cameron Payne'}
+1419,"September 27, 2023","{'MIL', 'POR', 'PHO'}","{'Grayson Allen', 'Damian Lillard', 'Keon Johnson', 'Jrue Holiday', 'Jusuf Nurkic', 'Nassir Little', 'Deandre Ayton', 'Toumani Camara'}"
+1420,"October 1, 2023","{'POR', 'BOS'}","{'Jrue Holiday', 'Robert Williams', 'Malcolm Brogdon'}"
+1421,"October 17, 2023","{'OKC', 'HOU'}","{'Victor Oladipo', 'Jeremiah Robinson-Earl', 'Kevin Porter Jr.'}"
+1422,"November 1, 2023","{'LAC', 'PHI', 'OKC'}","{'Nicolas Batum', 'Robert Covington', 'Marcus Morris', 'P.J. Tucker', 'James Harden', 'KJ Martin', 'Filip Petrusev'}"
+1423,"November 1, 2023","{'LAC', 'SAC'}","{'Dimitrios Agravanis', 'Filip Petrusev'}"
+1424,"December 30, 2023","{'TOR', 'NYK'}","{'Malachi Flynn', 'R.J. Barrett', 'OG Anunoby', 'Immanuel Quickley', 'Precious Achiuwa'}"
+1425,"January 14, 2024","{'DET', 'WAS'}","{'Marvin Bagley', 'Mike Muscala', 'Danilo Gallinari', 'Isaiah Livers'}"
+1426,"January 17, 2024","{'NOP', 'IND'}",{'Kira Lewis Jr.'}
+1427,"January 17, 2024","{'TOR', 'IND'}","{'Kira Lewis Jr.', 'Jordan Nwora', 'Pascal Siakam', 'Bruce Brown'}"
+1428,"January 23, 2024","{'CHO', 'MIA'}","{'Kyle Lowry', 'Terry Rozier'}"
+1429,"February 1, 2024","{'MEM', 'HOU'}","{'Victor Oladipo', 'Steven Adams'}"
+1430,"February 7, 2024","{'BOS', 'MEM'}","{'Lamar Stevens', 'Xavier Tillman Sr.'}"
+1431,"February 8, 2024","{'DET', 'UTA'}","{'Kevin Knox', 'Gabriele Procida', 'Simone Fontecchio'}"
+1432,"February 8, 2024","{'DET', 'PHI'}",{'Danuel House'}
+1433,"February 8, 2024","{'TOR', 'UTA'}","{'Kira Lewis Jr.', 'Otto Porter Jr.', 'Kelly Olynyk', 'Ochai Agbaji'}"
+1434,"February 8, 2024","{'TOR', 'BRK'}","{'Thaddeus Young', 'Dennis Schroder', 'Spencer Dinwiddie'}"
+1435,"February 8, 2024","{'DET', 'NYK'}","{'Malachi Flynn', 'Evan Fournier', 'Alec Burks', 'Bojan Bogdanovic', 'Quentin Grimes', 'Ryan Arcidiacono'}"
+1436,"February 8, 2024","{'GSW', 'IND'}",{'Cory Joseph'}
+1437,"February 8, 2024","{'CHO', 'DAL'}","{'Grant Williams', 'Seth Curry', 'P.J. Washington'}"
+1438,"February 8, 2024","{'SAS', 'PHI', 'IND'}","{'Marcus Morris', 'Doug McDermott', 'Buddy Hield', 'Furkan Korkmaz'}"
+1439,"February 8, 2024","{'WAS', 'DAL'}","{'Daniel Gafford', 'Richaun Holmes'}"
+1440,"February 8, 2024","{'PHO', 'BRK', 'MEM'}","{'Keita Bates-Diop', 'Yuta Watanabe', 'Chimezie Metu', 'Vanja Marinkovic', 'David Roddy', 'Jordan Goodwin', ""Royce O'Neale""}"
+1441,"February 8, 2024","{'MIL', 'PHI'}","{'Cameron Payne', 'Patrick Beverley'}"
+1442,"February 8, 2024","{'MIN', 'DET'}","{'Troy Brown Jr.', 'Shake Milton', 'Monte Morris'}"
+1443,"February 8, 2024","{'BOS', 'PHI'}",{'Jaden Springer'}
+1444,"February 8, 2024","{'POR', 'BOS'}",{'Dalano Banton'}
+1445,"February 8, 2024","{'MIL', 'SAC'}","{'Dimitrios Agravanis', 'Robin Lopez'}"
+1446,"February 8, 2024","{'DEN', 'LAC'}",{'Ismael Kamagate'}
+1447,"February 8, 2024","{'CHO', 'OKC'}","{'Vasilije MiciÄ\x87', 'Tre Mann', 'Gordon Hayward', 'Davis Bertans'}"
+1448,"February 8, 2024","{'DAL', 'OKC'}",set()
+1449,"June 21, 2024","{'OKC', 'CHI'}","{'Josh Giddey', 'Alex Caruso'}"
+1450,"June 26, 2024","{'DEN', 'PHO'}","{'DaRon Holmes', 'Ryan Dunn'}"
