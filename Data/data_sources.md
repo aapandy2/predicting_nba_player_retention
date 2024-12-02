@@ -17,7 +17,7 @@ To collect the salary data, the notebook “ScrapingSalaryData.ipynb” scrapes 
 To collect transaction data, the notebook ‘web_scraping_transactions.ipynb’ scrapes basketball-reference.com using beautiful soup, and gives the csv file ‘transaction_data.csv’. We also give csv files that contain if a player was waived (waived_data.csv), traded (traded_data.csv), released (released_data.csv). 
 
 ### DataToMerge
-
+This subfolder contains the data files that we intend to merge with the file 1_DataMerger.ipynb. The advanced_stats.csv file was gotten from kaggle, while the others were described above in other subfolders. 
 
 
 - https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats
