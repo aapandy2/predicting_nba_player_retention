@@ -1,4 +1,4 @@
-# main_project
+# Predicting NBA Player Retention
 
 ### Project Description
 
