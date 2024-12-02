@@ -2,9 +2,11 @@
 
 ### Project Description
 
-Each year in the NBA, players are moved for a variety of reasons, such as strategically to make a team better or because of underperformance. In this project, we aim to predict whether a given NBA player will be moved (traded or waived) at some point during the current season. Instead of using categorical output (yes/no to being traded/waived) we would like to output a probability of being moved.
+The NBA is widely considered to be the best basketball league in the world, and has grown over its seven-decade existence into a multibillion-dollar industry.  Central to this industry is the problem of roster construction, as team performance depends critically on selecting productive players for all 15 roster spots.
 
-The predictors could be a combination of player performance (for which stats are abundant) in addition to contract size (available, likely will need to be scraped), age, and data about the team rosters. The dependent variable, namely whether or not a player is moved, is easy to obtain (https://pypi.org/project/pro-sports-transactions/), which says it has over 150,000 entries (so plenty of data!).
+In this project, we aim to perform a _novel analysis_ of NBA statistics, salary, and transaction data in order to determine whether or not a given player will be in the NBA in the next season (i.e., we predict _NBA player retention_).  The resulting model has the potential to aid in the selection of players toward the end of the roster, which has long been one of the most challenging aspects of team construction.
+
+**Old stuff below here**
 
 ### Description of Data
 
