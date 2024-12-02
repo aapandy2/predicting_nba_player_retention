@@ -3,7 +3,8 @@
 In this folder, there are subfolders that contain how .csv files were gathered (CountingStats, PlayerIdentification, SalaryData, TransactionData) and a folder (DataToMerge) that contains the process for merging the different .csv files into one file. Below, we provide a brief description of each subfolder. 
 
 ### AdvancedStats
-This subfolder contains two subfolders 'data_cleaning' that contains the advanced_stats.csv file, with a clean_advanced_stats.ipynb notebook that cleans that csv file. The other subfolder 'data_collection' has an Advanced.csv file that 
+This subfolder contains two subfolders 'data_cleaning' that contains the advanced_stats.csv file, with a clean_advanced_stats.ipynb notebook that cleans that csv file. The other subfolder 'data_collection' has an Advanced.csv file that was the file of stats obtained from https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats, License: CCO: Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)
+
 ### CountingStats
 To collect the NBA counting stats, we make use of the nba_api library to pull the counting stats for all players listed on the official NBA website. 
 
@@ -21,6 +22,3 @@ To collect transaction data, the notebook ‘web_scraping_transactions.ipynb’ 
 ### DataToMerge
 This subfolder contains the data files that we intend to merge with the file 1_DataMerger.ipynb. The advanced_stats.csv file was gotten from kaggle, while the others were described above in other subfolders. 
 
-
-- https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats
-    - License: CCO: Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)
