@@ -6,6 +6,8 @@ In this folder, there are subfolders that contain how .csv files were gathered (
 To collect the NBA counting stats, we make use of the nba_api library to pull the counting stats for all players listed on the official NBA website. 
 
 ### PlayerIdentification
+There are two notebooks in this file. One 'Adding_ID_Numbers.ipynb' which adds player identification numbers to the waived_data.csv file. There were some players that were not matched to a identification number, and so we created a waived_data filed with player id, and an unmatched_waivers csv file where players were not matched to identification numbers. 
+	The second notebook is 'player_id_and_name_cleaning.ipynb'. In this notebook, we isolated out player names that were not unique for each season, creating player_id_name.csv, nonqunique_player_names.csv, player_id_season.csv, and nonqunique_player_id_season_pairs.csv files. 
 
 ### SalaryData
 
