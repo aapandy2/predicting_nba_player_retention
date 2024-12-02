@@ -10,7 +10,8 @@ There are two notebooks in this file. One 'Adding_ID_Numbers.ipynb' which adds p
 	The second notebook is 'player_id_and_name_cleaning.ipynb'. In this notebook, we isolated out player names that were not unique for each season, creating player_id_name.csv, nonqunique_player_names.csv, player_id_season.csv, and nonqunique_player_id_season_pairs.csv files. 
 
 ### SalaryData
-
+To collect the salary data, the notebook “ScrapingSalaryData.ipynb” scraps hoopshype.com using beautiful soup, and gives the csv file ‘player_salaries.csv’. Then, we match those players with the player identification numbers, fixing those who were missing. 
+ 
 ### TransactionData
 
 ### DataToMerge
