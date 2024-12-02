@@ -8,3 +8,4 @@ In this folder, we have two subfolders:
 - `data_cleaning`
     - We clean the advanced stats in the jupyter notebook `clean_advanced_stats.ipynb`
     - The cleaned advanced stats are contained in the file `advanced_stats.csv`
+        - Note this file is the same file that is in the folder `DataToMerge`
