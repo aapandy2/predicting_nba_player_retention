@@ -1,4 +1,4 @@
-# Sources for data in Data/team_data/original
+# Description of Subfolders
 
 In this folder, there are subfolders that contain how .csv files were gathered (CountingStats, PlayerIdentification, SalaryData, TransactionData) and a folder (DataToMerge) that contains the process for merging the different .csv files into one file. Below, we provide a brief description of each subfolder. 
 
