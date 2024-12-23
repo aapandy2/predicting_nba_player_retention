@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
 from sklearn.metrics import balanced_accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
@@ -145,3 +146,42 @@ def display_calibration(model, df, predictors, model_name):
     plt.show()
 
     return None
+
+def print_summary(best_metrics, best_hyp):
+    '''Take dictionaries of best cross-validation metrics and best
+       hyperparameters and return a DataFrame summarizing the info.'''
+    models     = []
+    bal_accs   = []
+    precisions = []
+    recalls    = []
+    npvs       = []
+    specs      = []
+    hyps       = []
+    
+    formatted_hyps = {}
+    for key in best_hyp:
+        formatted_hyps[key] = []
+        for param in best_hyp[key].keys():
+            param_val = param
+            if "__" in param:
+                param_val = param.split("__")[1]
+            formatted_hyps[key].append(param_val+"="+str(best_hyp[key][param]))
+    
+    
+    for key in best_metrics:
+        models.append(key)
+        bal_accs.append(best_metrics[key][0])
+        precisions.append(best_metrics[key][1])
+        recalls.append(best_metrics[key][2])
+        npvs.append(best_metrics[key][3])
+        specs.append(best_metrics[key][4])
+        hyps.append(formatted_hyps[key])
+    
+    
+    results_df = pd.DataFrame({"Model":models, "Balanced accuracy":bal_accs,
+                               "Precision":precisions, "Recall":recalls,
+                               "NPV":npvs, "Specificity":specs,
+                               "Hyperparameters":hyps})
+    
+    return results_df.sort_values(by="Balanced accuracy",
+                                  ascending=False).reset_index(drop=True)
