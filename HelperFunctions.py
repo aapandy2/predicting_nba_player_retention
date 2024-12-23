@@ -2,10 +2,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.metrics import (balanced_accuracy_score, precision_score, 
-        recall_score, confusion_matrix, ConfusionMatrixDisplay)
+        recall_score, confusion_matrix, ConfusionMatrixDisplay,
+        brier_score_loss)
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
-from sklearn.calibration import calibration_curve, CalibrationDisplay
+from sklearn.calibration import calibration_curve, CalibrationDisplay, CalibratedClassifierCV
+from sklearn.model_selection import train_test_split
 
 def avg_cv_metrics(model, df_train, predictors, cv):
     """
@@ -118,6 +120,8 @@ def ImputeAndScale(data):
     return data
 
 def display_calibration(model, df, predictors, model_name):
+    '''Plots a calibration curve for the provided model along with a
+       histogram of predicted probabilities.  Prints the Brier score.'''
     X_test = df[predictors]
     y_test = df.IN_LEAGUE_NEXT
     
@@ -142,6 +146,9 @@ def display_calibration(model, df, predictors, model_name):
     
     plt.tight_layout()
     plt.show()
+
+    brier = brier_score_loss(y_test, y_prob)
+    print(f"Brier score: {brier}")
 
     return None
 
@@ -208,6 +215,8 @@ def test_model_performance(model, df_train, df_test, features):
     npv = []
     specificity = []
     cm = []
+    brier_uncal = []
+    brier_cal   = []
 
     print(f"{'Test Year':<12} {'Bal. Acc.':<12} {'Precision':<12} {'Recall':<12} {'NPV':<12} {'Specificity':<12}")
     print("-" * 76)
@@ -217,12 +226,25 @@ def test_model_performance(model, df_train, df_test, features):
                              df_test.loc[df_test['SEASON_START'] < test_year, features]])
         y_train = pd.concat([df_train['IN_LEAGUE_NEXT'],
                              df_test.loc[df_test['SEASON_START'] < test_year, 'IN_LEAGUE_NEXT']])
+
+        X_tt, X_cal, y_tt, y_cal = train_test_split(X_train, y_train, 
+                                                    test_size=0.2, 
+                                                    random_state=23, 
+                                                    shuffle=True, 
+                                                    stratify=y_train)
+
         X_test = df_test.loc[df_test['SEASON_START'] == test_year, features]
         y_test = df_test.loc[df_test['SEASON_START'] == test_year, 'IN_LEAGUE_NEXT']
 
-        # fit the model and get predictions
-        model.fit(X_train, y_train)
+        # fit the model and get predictions, uncalibrated probabilities
+        model.fit(X_tt, y_tt)
         y_pred = model.predict(X_test)
+        y_prob = model.predict_proba(X_test)[:, 1]
+
+        # fit calibrator and get calibrated probabilities
+        model_cal = CalibratedClassifierCV(model, cv="prefit")
+        model_cal.fit(X_cal, y_cal)
+        y_prob_cal = model_cal.predict_proba(X_test)[:, 1]
 
         # get confusion matrix
         conf = confusion_matrix(y_test, y_pred)
@@ -234,13 +256,17 @@ def test_model_performance(model, df_train, df_test, features):
         npv.append(npv_score(y_test, y_pred))
         specificity.append(specificity_score(y_test, y_pred))
         cm.append(conf)
+        brier_uncal.append(brier_score_loss(y_test, y_prob))
+        brier_cal.append(brier_score_loss(y_test, y_prob_cal))
 
         print(f"{test_year:<12} "
               f"{balanced_accuracy_score(y_test, y_pred):<12.4f} "
               f"{precision_score(y_test, y_pred):<12.4f} "
               f"{recall_score(y_test, y_pred):<12.4f} "
               f"{npv_score(y_test, y_pred):<12.4f} "
-              f"{specificity_score(y_test, y_pred):<12.4f}")
+              f"{specificity_score(y_test, y_pred):<12.4f}"
+              f"{brier_score_loss(y_test, y_prob):<12.4f}"
+              f"{brier_score_loss(y_test, y_prob_cal):<12.4f}")
 
     # print averages of metrics
     print('-' * 76)
@@ -249,7 +275,9 @@ def test_model_performance(model, df_train, df_test, features):
               f"{np.mean(precision):<12.4f} "
               f"{np.mean(recall):<12.4f} "
               f"{np.mean(npv):<12.4f} "
-              f"{np.mean(specificity):<12.4f}")
+              f"{np.mean(specificity):<12.4f}"
+              f"{np.mean(brier_uncal):<12.4f}"
+              f"{np.mean(brier_cal):<12.4f}")
 
     # display total confusion matrix
     ConfusionMatrixDisplay(confusion_matrix=sum(cm)).plot()
