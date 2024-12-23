@@ -57,7 +57,9 @@ def print_cv_metrics(model, df_train, predictors, cv):
     """
     Given a model, displays the sum of the confusion matrices and prints the
     average of the following metrics across the CV splits: balanced accuracy,
-    precision, recall, negative predictive value, and specificity.
+    precision, recall, negative predictive value (NPV), and specificity.
+    Returns a list with balanced accuracy, precision, recall, NPV, and
+    the specificity.
     """
 
     bal_accuracy, precision, recall, npv, specificity, cm = avg_cv_metrics(model, df_train, predictors, cv)
@@ -71,6 +73,9 @@ def print_cv_metrics(model, df_train, predictors, cv):
 
     ConfusionMatrixDisplay(confusion_matrix=cm).plot()
     plt.show()
+
+    #return single-number metrics in a list
+    return [bal_accuracy, precision, recall, npv, specificity]
 
 def ImputeAndScale(data):
     '''Impute missing data.  Fill stats data with zeros and salary with the
