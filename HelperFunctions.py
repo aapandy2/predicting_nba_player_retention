@@ -1,7 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-from sklearn.metrics import balanced_accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import (balanced_accuracy_score, precision_score, 
+        recall_score, confusion_matrix, ConfusionMatrixDisplay)
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 from sklearn.calibration import calibration_curve, CalibrationDisplay
@@ -87,7 +88,6 @@ def ImputeAndScale(data):
     null_cols = ['PER', 'TS_PERCENT', 'X3P_AR', 'F_TR', 'ORB_PERCENT',
                  'DRB_PERCENT', 'TRB_PERCENT', 'AST_PERCENT', 'STL_PERCENT',
                  'BLK_PERCENT', 'TOV_PERCENT', 'USG_PERCENT', 'WS_48']
-    print(f"Filling missing values for {null_cols} with 0.")
 
     data[null_cols] = data[null_cols].fillna(0)
     
@@ -102,7 +102,6 @@ def ImputeAndScale(data):
         .groupby('SEASON_START')['SALARY']
         .transform(lambda x: mean_imputer.fit_transform(x.values.reshape(-1,1)).ravel())
     )
-    print("Filling missing SALARY data with season mean salary.")
     
     # rescale stats and salary columns within each season
     cols_to_rescale = data.select_dtypes(include=['float']).columns
@@ -115,7 +114,6 @@ def ImputeAndScale(data):
         .groupby('SEASON_START')[cols_to_rescale]
         .transform(lambda x: scaler.fit_transform(x.values.reshape(-1,1)).ravel())
     )
-    print("Apply StandardScaler to scale data within each season.")
 
     return data
 
@@ -185,3 +183,77 @@ def print_summary(best_metrics, best_hyp):
     
     return results_df.sort_values(by="Balanced accuracy",
                                   ascending=False).reset_index(drop=True)
+
+def npv_score(y_true, y_pred):
+    tn = ((y_pred == 0) & (y_true == 0)).sum()
+    fn = ((y_pred == 0) & (y_true == 1)).sum()
+    return tn / (tn + fn) if (tn + fn) > 0 else 0.0
+
+def specificity_score(y_true, y_pred):
+    tn = ((y_pred == 0) & (y_true == 0)).sum()
+    fp = ((y_pred == 1) & (y_true == 0)).sum()
+    return tn / (tn + fp) if (tn + fp) > 0 else 0.0
+
+def test_model_performance(model, df_train, df_test, features):
+    """
+    Given a model, computes and prints the following metrics for each test split:
+    balanced accuracy, precision, recall, negative predictive value, and specificity.
+    Also prints the average of each of these metrics across the test splits and displays
+    the sum of the confusion matrices.
+    """
+
+    bal_accuracy = []
+    precision = []
+    recall = []
+    npv = []
+    specificity = []
+    cm = []
+
+    print(f"{'Test Year':<12} {'Bal. Acc.':<12} {'Precision':<12} {'Recall':<12} {'NPV':<12} {'Specificity':<12}")
+    print("-" * 76)
+
+    for test_year in range(2017, 2023):
+        X_train = pd.concat([df_train[features],
+                             df_test.loc[df_test['SEASON_START'] < test_year, features]])
+        y_train = pd.concat([df_train['IN_LEAGUE_NEXT'],
+                             df_test.loc[df_test['SEASON_START'] < test_year, 'IN_LEAGUE_NEXT']])
+        X_test = df_test.loc[df_test['SEASON_START'] == test_year, features]
+        y_test = df_test.loc[df_test['SEASON_START'] == test_year, 'IN_LEAGUE_NEXT']
+
+        # fit the model and get predictions
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+
+        # get confusion matrix
+        conf = confusion_matrix(y_test, y_pred)
+
+        # save and print metrics
+        bal_accuracy.append(balanced_accuracy_score(y_test, y_pred))
+        precision.append(precision_score(y_test, y_pred))
+        recall.append(recall_score(y_test, y_pred))
+        npv.append(npv_score(y_test, y_pred))
+        specificity.append(specificity_score(y_test, y_pred))
+        cm.append(conf)
+
+        print(f"{test_year:<12} "
+              f"{balanced_accuracy_score(y_test, y_pred):<12.4f} "
+              f"{precision_score(y_test, y_pred):<12.4f} "
+              f"{recall_score(y_test, y_pred):<12.4f} "
+              f"{npv_score(y_test, y_pred):<12.4f} "
+              f"{specificity_score(y_test, y_pred):<12.4f}")
+
+    # print averages of metrics
+    print('-' * 76)
+    print(f"{'Avg.':<12} "
+              f"{np.mean(bal_accuracy):<12.4f} "
+              f"{np.mean(precision):<12.4f} "
+              f"{np.mean(recall):<12.4f} "
+              f"{np.mean(npv):<12.4f} "
+              f"{np.mean(specificity):<12.4f}")
+
+    # display total confusion matrix
+    ConfusionMatrixDisplay(confusion_matrix=sum(cm)).plot()
+    plt.title('Total confusion matrix')
+    plt.show()
+
+    return None
