@@ -203,12 +203,13 @@ def specificity_score(y_true, y_pred):
 
 def test_model_performance(model, df_train, df_test, features):
     """
-    Given a model, computes and prints the following metrics for each test split:
-    balanced accuracy, precision, recall, negative predictive value, and specificity.
-    Also prints the average of each of these metrics across the test splits and displays
-    the sum of the confusion matrices.
+    Given a model, computes the following metrics for each test split:
+    balanced accuracy, precision, recall, negative predictive value, and
+    specificity. Also displays the sum of the confusion matrices and returns a
+    summary DataFrame.
     """
 
+    test_years   = []
     bal_accuracy = []
     precision = []
     recall = []
@@ -217,9 +218,6 @@ def test_model_performance(model, df_train, df_test, features):
     cm = []
     brier_uncal = []
     brier_cal   = []
-
-    print(f"{'Test Year':<12} {'Bal. Acc.':<12} {'Precision':<12} {'Recall':<12} {'NPV':<12} {'Specificity':<12}")
-    print("-" * 76)
 
     for test_year in range(2017, 2023):
         X_train = pd.concat([df_train[features],
@@ -250,6 +248,7 @@ def test_model_performance(model, df_train, df_test, features):
         conf = confusion_matrix(y_test, y_pred)
 
         # save and print metrics
+        test_years.append(test_year)
         bal_accuracy.append(balanced_accuracy_score(y_test, y_pred))
         precision.append(precision_score(y_test, y_pred))
         recall.append(recall_score(y_test, y_pred))
@@ -259,29 +258,15 @@ def test_model_performance(model, df_train, df_test, features):
         brier_uncal.append(brier_score_loss(y_test, y_prob))
         brier_cal.append(brier_score_loss(y_test, y_prob_cal))
 
-        print(f"{test_year:<12} "
-              f"{balanced_accuracy_score(y_test, y_pred):<12.4f} "
-              f"{precision_score(y_test, y_pred):<12.4f} "
-              f"{recall_score(y_test, y_pred):<12.4f} "
-              f"{npv_score(y_test, y_pred):<12.4f} "
-              f"{specificity_score(y_test, y_pred):<12.4f}"
-              f"{brier_score_loss(y_test, y_prob):<12.4f}"
-              f"{brier_score_loss(y_test, y_prob_cal):<12.4f}")
-
-    # print averages of metrics
-    print('-' * 76)
-    print(f"{'Avg.':<12} "
-              f"{np.mean(bal_accuracy):<12.4f} "
-              f"{np.mean(precision):<12.4f} "
-              f"{np.mean(recall):<12.4f} "
-              f"{np.mean(npv):<12.4f} "
-              f"{np.mean(specificity):<12.4f}"
-              f"{np.mean(brier_uncal):<12.4f}"
-              f"{np.mean(brier_cal):<12.4f}")
+    # package metrics into a summary DataFrame
+    sum_df = pd.DataFrame({"Test Year":test_years, "Balanced accuracy":bal_accuracy,
+                           "Precision":precision, "Recall":recall, "NPV":npv,
+                           "Specificity":specificity, "Uncalibrated Brier":brier_uncal,
+                           "Calibrated Brier":brier_cal})
 
     # display total confusion matrix
     ConfusionMatrixDisplay(confusion_matrix=sum(cm)).plot()
     plt.title('Total confusion matrix')
     plt.show()
 
-    return None
+    return sum_df
