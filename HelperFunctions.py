@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import balanced_accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
+from sklearn.calibration import calibration_curve, CalibrationDisplay
 
 def avg_cv_metrics(model, df_train, predictors, cv):
     """
@@ -111,3 +112,31 @@ def ImputeAndScale(data):
     print("Apply StandardScaler to scale data within each season.")
 
     return data
+
+def display_calibration(model, df, predictors, model_name):
+    X_test = df[predictors]
+    y_test = df.IN_LEAGUE_NEXT
+    
+    y_prob = model.predict_proba(X_test)[:, 1]
+    prob_true, prob_pred = calibration_curve(y_test, y_prob, n_bins=10)
+    
+    fig, ax = plt.subplots(1, 2)
+    fig.set_figheight(5)
+    fig.set_figwidth(10)
+    
+    display = CalibrationDisplay.from_estimator(
+            model,
+            X_test,
+            y_test,
+            n_bins=10,
+            name=model_name,
+            ax=ax[0])
+    
+    ax[1].hist(y_prob)
+    ax[1].set_xlabel("Predicted probability")
+    ax[1].set_ylabel("Count")
+    
+    plt.tight_layout()
+    plt.show()
+
+    return None
