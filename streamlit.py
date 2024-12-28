@@ -15,6 +15,10 @@ def load_data():
     data = pd.read_csv("full_data.csv")
     return data
 
+def load_model_preds():
+    preds = pd.read_csv("model_predictions.csv")
+    return preds
+
 def visualize_data(year, x, y):
     df["Retained"] = "No"
     df.loc[df.IN_LEAGUE_NEXT == 1, "Retained"] = "Yes"
@@ -26,39 +30,49 @@ def visualize_data(year, x, y):
 
     return None
 
-def compute_model_predictions():
-    df_scaled = ImputeAndScale(df.copy())
+def visualize_preds(season, team):
+    df_temp = preds_exp.loc[(preds_exp.TEAMS_AS_LIST == team)
+            & (preds_exp.SEASON_START == season)].copy()
 
-    df_scaled["PRED"] = 0
-    df_scaled["PROB"] = 0
+    df_temp["Retained"] = "No"
+    df_temp.loc[df_temp.IN_LEAGUE_NEXT == 1, "Retained"] = "Yes"
 
-    #===define training set, do train-test split===#
-    for season in range(2017, 2024):
-        df_train = df_scaled.loc[df_scaled.SEASON_START < season].copy()
-        df_tt, df_cal = train_test_split(df_train, test_size=0.2, shuffle=True,
-                                         random_state=815, 
-                                         stratify=df_train.IN_LEAGUE_NEXT)
+    df_temp["Predict retention?"] = "No"
+    df_temp.loc[df_temp.PRED == 1, "Predict retention?"] = "Yes"
 
-        #===train/fit model and calibrate===#
-        model = Pipeline([('smote', SMOTE(random_state=23)),
-                          ('xgb', XGBClassifier(n_estimators=350, 
-                                                learning_rate=0.005,
-                                                random_state=206))])
+    if(season != 2023):
+        fig = px.bar(df_temp, x="NAME", y="PROB", color="Retained",
+                    labels={"NAME":"Player name",
+                            "PROB":"Model retention probability",
+                            "Retained":"Retained?"},
+                    color_discrete_map={"Yes":'cornflowerblue',
+                                        "No":'lightcoral'})
+    else:
+        fig = px.bar(df_temp, x="NAME", y="PROB", color="Predict retention?",
+                    labels={"NAME":"Player name",
+                            "PROB":"Model retention probability"},
+                    color_discrete_map={"Yes":'cornflowerblue', "No":'lightcoral'})
 
-        model.fit(df_tt[features], df_tt.IN_LEAGUE_NEXT)
+    st.plotly_chart(fig)
 
-        model_cal = CalibratedClassifierCV(model, cv="prefit")
-        model_cal.fit(df_cal[features], df_cal.IN_LEAGUE_NEXT)
-
-        #===save predictions in df_scaled===#
-        df_scaled.PRED = model.predict(df_scaled.loc[df_scaled.SEASON_START == season][features])
-
-    return df_preds 
+    return None
 
 #---------------------Load the data--------------------------------------------#
 
+#load full set of raw training/test data
 df = load_data()
 
+#load model prediction data
+preds = load_model_preds()
+
+#convert teams list from strings to actual lists
+preds["TEAMS_AS_LIST"] = preds.apply(lambda x: eval(x.TEAMS_LIST), axis=1)
+#explode out teams
+preds_exp = preds.explode("TEAMS_AS_LIST", ignore_index=True)
+
+#grab sorted list of teams
+teams = preds_exp.TEAMS_AS_LIST.unique()
+teams.sort()
 
 #-------------------------Generate output--------------------------------------#
 
@@ -84,22 +98,8 @@ visualize_data(year, x_stat, y_stat)
 
 st.subheader("Model predictions")
 
-##grab scaled copy of df
-#df_scaled = ImputeAndScale(df.copy())
-##convert teams list from strings to actual lists
-#df_scaled["TEAMS_AS_LIST"] = df_scaled.apply(lambda x: eval(x.TEAMS_LIST),
-#                                             axis=1)
-##explode out teams
-#df_scaled_exploded = df_scaled.explode("TEAMS_AS_LIST", ignore_index=True)
-#
-##grab team list
-#teams = df_scaled_exploded.TEAMS_AS_LIST.unique()
-#teams.sort()
-#
-#selected_team = st.selectbox("Team:", teams)
-#year_bar      = st.slider(label="Season start year:", min_value=2017, 
-#                          max_value=2023)  
+pred_year = st.slider(label="Season start year:", min_value=2017,
+                      max_value=2023) 
+pred_team = st.selectbox("Team:", teams)
 
-model_preds = compute_model_predictions()
-
-st.dataframe(model_preds)
+visualize_preds(pred_year, pred_team)
