@@ -1,5 +1,11 @@
 # Predicting NBA Player Retention
 
+## Updates in this fork
+
+This is my (Alex Pandya's) personal fork of the [Predicting NBA Player Retention project](https://github.com/NBA-player-transactions/predicting_nba_player_retention).  The original project was completed along with Peter Johnson, Andrew Newman, Ryan Moruzzi, and Collin Litterell for the Fall 2024 Erdos Institute Data Science Bootcamp, and was named a Top Project.
+
+This fork extends the original project by calibrating the original classifier's predicted probabilities using Platt's method.  The file `5_SavePredictions.ipynb` saves the model's predictions (both class labels and predicted probabilities) for use in the `streamlit` app, which can be found [here](https://nbaplayerretention.streamlit.app/).
+
 ## Project Description
 
 The NBA is widely considered to be the best basketball league in the world, and has grown over its seven-decade existence into a multibillion-dollar industry.  Central to this industry is the problem of roster construction, as team performance depends critically on selecting productive players for all 15 roster spots.
